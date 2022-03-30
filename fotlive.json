@@ -1,0 +1,48 @@
+{
+  [
+        {
+            "league": "Premier League",
+            "date": "Mar 26",
+            "time": "live",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
+            "teams" : "Egypt Vs Senegal",
+            "hteam" : "Egypt",
+            "ateam" : "Senegal",
+            "link":[
+                {
+                    "type": "FHD",
+                "livelink":"https://akflutter.files.wordpress.com/2022/03/highlights__liverpool_fc_legends_1-2_barcelona_legends___gerrard_and_rivaldo_score_at_anfield281080p29.mp4"
+                },
+                {
+                    "type": "HD",
+                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
+                {
+                    "type": "SD",
+                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
+            ]
+        },
+        {
+            "league": "Premier League",
+            "date": "Mar 26",
+            "time": "2:00 AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
+            "teams" : "Croatia Vs Slovenia",
+             "hteam" : "Egypt",
+            "ateam" : "Senegal",
+            "link":[
+                {
+                    "type": "FHD",
+                "livelink":"http://db59nrrlltjzg.cloudfront.net/stream/MzQwNw==/1080p.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
+                {
+                    "type": "SD",
+                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
+            ]
+        }
+    ]
+}
