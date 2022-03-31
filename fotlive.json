@@ -48,13 +48,13 @@
         },
     {
             "league": "Premier League",
-            "date": "Mar 26",
-            "time": "live",
-            "himg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
-            "aimg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
-            "teams" : "Egypt Vs Senegal",
-            "hteam" : "Egypt",
-            "ateam" : "Senegal",
+            "date": "April 2",
+            "time": "6:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817_small.png",
+            "teams" : "Liverpool Vs Watford",
+            "hteam" : "Liverpool",
+            "ateam" : "Watford",
             "link":[
                 {
                     "type": "FHD",
