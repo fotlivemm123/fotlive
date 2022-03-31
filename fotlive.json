@@ -24,50 +24,6 @@
                 "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
                 }
             ]
-        },
-     {
-            "league": "Premier League",
-            "date": "Mar 26",
-            "time": "live",
-            "himg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
-            "aimg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
-            "teams" : "Egypt Vs Senegal",
-            "hteam" : "Egypt",
-            "ateam" : "Senegal",
-            "link":[
-                {
-                    "type": "FHD",
-                "livelink":"http://begaltvku.site/vidprem/master-3.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
-                {
-                    "type": "SD",
-                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
-            ]
-        },
-    {
-            "league": "Premier League",
-            "date": "April 2",
-            "time": "6:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817_small.png",
-            "teams" : "Liverpool Vs Watford",
-            "hteam" : "Liverpool",
-            "ateam" : "Watford",
-            "link":[
-                {
-                    "type": "FHD",
-                "livelink":"http://begaltvku.site/vidprem/master-3.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
-                {
-                    "type": "SD",
-                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
-            ]
         }
     ]
 
