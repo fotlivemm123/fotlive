@@ -95,30 +95,6 @@
                 "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
                 }
               ]
-             },
-         {
-            league": "Buldesliga",
-            "date": "April 7",
-            "time": "(11:00) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_xsmall.png",
-            "teams" : "Augsbrug Vs Mainz",
-            "hteam" : "Augsbrug",
-            "ateam" : "Mainz",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "SD",
-                "livelink":"0"
-                }
-            ]
-        }
+            }
     ]
 
