@@ -100,7 +100,7 @@
       {
        "league": "Championship",
             "date": "April 6",
-            "time": "(1:15) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/21.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/67.png",
             "teams" : "Preston Vs Blackpool",
@@ -109,7 +109,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/qCvWL2DoIMx57bMc-ojlbQaG3mvV1d4ytbizLEt3K6NSxPxO3pSERoxfARH9kThcOrZT4X5vM8RdW7xyBIgXJQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
@@ -124,7 +124,7 @@
      {
             "league": "Championship",
             "date": "April 6",
-            "time": "(1:15) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/15.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/1.png",
             "teams" : "Sheff Utd Vs QPR",
