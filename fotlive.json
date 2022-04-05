@@ -133,7 +133,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/qEntVsDOKeLikAKPuIIkHutVKQa4FY9uCyhgaSGFMagEaJTcxRw7ocyXrBDyJ6XNeUSCSAQrs0n9BcJEQ2rzqw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
@@ -148,7 +148,7 @@
        {
             "league": "Championship",
             "date": "April 6",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/28.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/29.png",
             "teams" : "READING Vs Luton STOKE",
@@ -157,7 +157,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/_RHuuGuKZ8-2lw4gZpP4bEmn5n1nRFUbRFgWaCgKlpFszvzbo9xrX1ULOyVQWRPunnwnbc8QgXpekk_dt76ZiA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
