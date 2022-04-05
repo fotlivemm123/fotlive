@@ -11,23 +11,23 @@
             "ateam" : "ATK",
             "link":[
                 {
-                    "type": "Bein Eng 1",
-                "livelink":"http://begaltvku.site/ventidos/master-3.m3u8"
+                    "type": "BT SPORT HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/qL_-Kk_D0E_aVt2wJqp_eB9ZNbHmdDLM4CzZKGJmECJdZlEe4h_M3wgfc_Al6DIz_Sur-rTFRAC7E4weO1V7rQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
-                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/bH3eLGRBuvRdSjmk92WWc0xBSLa8P2wO9XzbxDtwiLw_TfZ8gD2K5KhNN3nDFt_DfWrlI-dIkbroYRa0b3IWYA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
                 }
             ]
         },
      {
             "league": "Champion League",
             "date": "April 6",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/3006.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/44.png",
             "teams" : "Benfica Vs Liverpool",
@@ -35,8 +35,8 @@
             "ateam" : "Liverpool",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                    "type": "BT Sport  HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n16Y67sr8zfsAQZlPBuI0svj4F1o848cx2CwmzWDqKj_TB6z3QRsKV0fXmjsVZUSVp7qfv8xx2aHV_u6yMGCPw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
@@ -44,7 +44,7 @@
                 },
                 {
                     "type": "SD",
-                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
         },
