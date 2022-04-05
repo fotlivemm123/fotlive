@@ -3,7 +3,7 @@
     {
             "league": "Champion League",
             "date": "April 6",
-            "time": "live",
+            "time": "(1:30) AM",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/17.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2836.png",
             "teams" : "Man City Vs ATK",
@@ -96,30 +96,7 @@
                 }
               ]
             },
-   {
-           "league": "Buldesliga",
-            "date": "April 7",
-            "time": "(11:00) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_xsmall.png",
-            "teams" : "Augsbrug Vs Mainz",
-            "hteam" : "Augsbrug",
-            "ateam" : "Mainz",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "SD",
-                "livelink":"0"
-                }
-              ]
-            },
+  
       {
        "league": "Championship",
             "date": "April 6",
@@ -192,7 +169,31 @@
                 "livelink":"0"
                 }
             ]
-         }
+         },
+    {
+           "league": "Buldesliga",
+            "date": "April 7",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_xsmall.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_xsmall.png",
+            "teams" : "Augsbrug Vs Mainz",
+            "hteam" : "Augsbrug",
+            "ateam" : "Mainz",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+              ]
+            }
     
      ]
   
