@@ -119,6 +119,29 @@
                 "livelink":"0"
                 }
               ]
-            }
-
-        ]
+            },
+      {
+       "league": "Championship",
+            "date": "April 6",
+            "time": "(1:15) AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/21.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/67.png",
+            "teams" : "Preston Vs Blackpool",
+            "hteam" : "Preston",
+            "ateam" : "Blackpool",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+               }
+            ]
+           }
+       ]
