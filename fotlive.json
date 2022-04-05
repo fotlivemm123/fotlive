@@ -75,7 +75,7 @@
      {
             "league": "Championship",
             "date": "April 6",
-            "time": "(1:15) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/54.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/72.png",
             "teams" : "Peterborough Vs Luton Town",
@@ -84,7 +84,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/TogjZ9Fe3nE_ioknD0OIjpUq3gQGRDS8fqHzKdW6P93H6Wv0fI3l2td7qF4kpoZ3c1zUBdgYECuF9uQfhZI_ng/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
