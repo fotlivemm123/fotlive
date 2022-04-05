@@ -1,14 +1,86 @@
   [
    
-       {
-            "league": "Premier League",
-            "date": "Mar 26",
+    {
+            "league": "Champion League",
+            "date": "April 6",
             "time": "live",
-            "himg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
-            "aimg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
-            "teams" : "Egypt Vs Senegal",
-            "hteam" : "Egypt",
-            "ateam" : "Senegal",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/17.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2836.png",
+            "teams" : "Manchester City	 Vs ATK",
+            "hteam" : "Manchester City",
+            "ateam" : "ATK",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"
+                },
+                {
+                    "type": "SD",
+                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
+                }
+            ]
+        }
+     {
+            "league": "Champion League",
+            "date": "April 6",
+            "time": "(1:30) AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/3006.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/44.png",
+            "teams" : "SL Benfica	 Vs Liverpool",
+            "hteam" : "SL Benfica",
+            "ateam" : "Liverpool",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"
+                },
+                {
+                    "type": "SD",
+                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
+                }
+            ]
+        },
+     {
+            "league": "Championship",
+            "date": "April 6",
+            "time": "(1:15) AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/25.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/74.png",
+            "teams" : "Millwall	 Vs 	Swansea City",
+            "hteam" : "Millwall",
+            "ateam" : "	Swansea City",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"
+                },
+                {
+                    "type": "SD",
+                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
+                }
+            ]
+        },
+     {
+            "league": "Championship",
+            "date": "April 6",
+            "time": "(1:15) AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/54.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/72.png",
+            "teams" : "Peterborough United Vs 	Luton Town",
+            "hteam" : "Peterborough United",
+            "ateam" : "Luton Town",
             "link":[
                 {
                     "type": "BT Sport 1 HD",
