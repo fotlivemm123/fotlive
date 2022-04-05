@@ -143,5 +143,32 @@
                 "livelink":"0"
                }
             ]
-           }
+           },
+     {
+    "league": "Championship",
+            "date": "April 6",
+            "time": "(1:15) AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/15.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/1.png",
+            "teams" : "Sheff Utd Vs QPR",
+            "hteam" : "Sheff Utd",
+            "ateam" : "QPR",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         }
+     ]
+
+
        ]
