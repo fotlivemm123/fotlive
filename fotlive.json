@@ -1,15 +1,14 @@
-
   [
    
        {
-            "league": "Champion League",
-            "date": "April 6",
+            "league": "Premier League",
+            "date": "Mar 26",
             "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/17.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2836.png",
-            "teams" : "Manchester City	 Vs Atlético Madrid",
-            "hteam" : "Manchester City",
-            "ateam" : "Atlético Madrid",
+            "himg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
+            "aimg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
+            "teams" : "Egypt Vs Senegal",
+            "hteam" : "Egypt",
+            "ateam" : "Senegal",
             "link":[
                 {
                     "type": "BT Sport 1 HD",
