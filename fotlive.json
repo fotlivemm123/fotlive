@@ -11,8 +11,8 @@
             "ateam" : "ATK",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                    "type": "Bein Eng 1",
+                "livelink":"http://178.218.196.218:8000/play/a00l/27004810.m3u8"
                 },
                 {
                     "type": "HD",
@@ -56,7 +56,7 @@
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/74.png",
             "teams" : "Millwall Vs Swansea",
             "hteam" : "Millwall",
-            "ateam" : "Swansea City",
+            "ateam" : "Swansea",
             "link":[
                 {
                     "type": "BT Sport 1 HD",
