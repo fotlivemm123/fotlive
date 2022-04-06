@@ -1,79 +1,80 @@
   [
-   {
-"league": "Champion League",
-            "date": "April 7",
-            "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/38.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2829.png",
-            "teams" : "Chelsea Vs Real Madrid",
-            "hteam" : "Chelsea",
-            "ateam" : "Real Madrid",
+  {
+"league": "Europa League",
+            "date": "April 8",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_xsmall.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
+            "teams" : "Braga Vs Rangers",
+            "hteam" : "Braga",
+            "ateam" : "Rangers",
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H139439.m3u8?txSecret=86f04b99cdd7696ffd6c7cc490da4131&txTime=624EFD28&_s=stream"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"http://d13z1lqpfq29ov.cloudfront.net/stream/MzY5NA==/1080p.m3u8"
-            },
+                "livelink":"0"
+                },
                 {
                     "type": "SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/VrNen8WATz2xN2B7fd5w1tSG-IEWfn7S673wW3cdJwirHOu70-ieqMS7U_Na9ftNSeuyA0kvVaD4_QD5CIj8mA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live"
-         }
+                "livelink":"0"
+                }
+            ]
+         },
+
+     {
+"league": "Europa League",
+            "date": "April 8",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Frankfurt Vs Barcelona",
+            "hteam" : "Frankfurt",
+            "ateam" : "Barcelona",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
             ]
          },
 
 {
-"league": "Champion League",
-            "date": "April 7",
-            "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/2819.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2672.png",
-            "teams" : "Villareal Vs Bayern",
-            "hteam" : "Villareal",
-            "ateam" : "Bayern",
-            "link":[
-                {
-                    "type": "BT Sport 3 HD",
-                "livelink":"https://d2pwyrb5nekpor.cloudfront.net/hls/ssv/chunks.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H139438.m3u8?txSecret=904d0defd0ad13a22f70a30833909095&txTime=624EFD28&_s=stream"
-           },
-                {
-                    "type": "SD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H139438.m3u8?txSecret=904d0defd0ad13a22f70a30833909095&txTime=624EFD28&_s=stream"
-                }
-            ]
-         },
-       {
-            "league": "Bundesliga",
-            "date": "April 6",
-            "time": "4:6AM",
-            "himg": "http://thutalive.webstarterz.com/thutalive/images/live/81674_Augsburg.jpg",
-            "aimg": "http://thutalive.webstarterz.com/thutalive/images/live/54311_Mainz.jpg",
-            "teams" : "AugsburgVs Mainz",
-            "hteam" : "Augsburg",
-            "ateam" : "Mainz",
+"league": "Europa League",
+            "date": "April 8",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "West Ham Vs Lyon",
+            "hteam" : "West Ham",
+            "ateam" : "Lyon",
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"https://acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6AZfLT7hl8gbCoAAjvtygoakn42zFHKrNOezOppru0yoKLjvzsq9KLkdgkPd4DK50JjKgq1_Yu-yeXFkrGuoRg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6AZfLT7hl8gbCoAAjvtygoakn42zFHKrNOezOppru0yoKLjvzsq9KLkdgkPd4DK50JjKgq1_Yu-yeXFkrGuoRg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          },
-     
-{
+    
+     {
 "league": "Europa League",
             "date": "April 7",
             "time": "(23:15)PM",
@@ -96,105 +97,5 @@
                 "livelink":"0"
                 }
             ]
-         },
-
-{
-"league": "Premier League",
-            "date": "April 7",
-            "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/6.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/48.png",
-            "teams" : "Burnley Vs Everton",
-            "hteam" : "Burnley",
-            "ateam" : "Everton",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/jixd-O0fFvIUl76f1v_2UpGlAdg-dJkqQOo3RpK9cu234hBmo3Y8suV8unmvamKBZxbe6EAu9rpGBquNOxySBw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/jixd-O0fFvIUl76f1v_2UpGlAdg-dJkqQOo3RpK9cu234hBmo3Y8suV8unmvamKBZxbe6EAu9rpGBquNOxySBw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-{
-"league": "Championship",
-            "date": "April 7",
-            "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/36.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/43.png",
-            "teams" : "Mid Brough Vs Fulham",
-            "hteam" : "Mid Brough",
-            "ateam" : "Fulham",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/55M2ajhSbgeUAAPsAPvi2YaPOJ2cDi2ZK6qFUEMwT4JoPBMMxhfoMJX3ocgcv53N7HHXhYTFsfXw1bVIFZ3TnA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/55M2ajhSbgeUAAPsAPvi2YaPOJ2cDi2ZK6qFUEMwT4JoPBMMxhfoMJX3ocgcv53N7HHXhYTFsfXw1bVIFZ3TnA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/55M2ajhSbgeUAAPsAPvi2YaPOJ2cDi2ZK6qFUEMwT4JoPBMMxhfoMJX3ocgcv53N7HHXhYTFsfXw1bVIFZ3TnA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Championship",
-            "date": "April 7",
-            "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/14.png",
-           "aimg": "https://redditz.soccerstreamlinks.com/images/teams/11.png",
-            "teams" : "Nottingham Vs Coventry",
-            "hteam" : "Nottingham",
-            "ateam" : "Coventry",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JVct3GmqIvT8lZvCVyTBaSkALGMVVnTHstoLFuLxQrbg5LxShk74XcCrK0i3mZMqsP4JZg0C0tYQfj03zQjE-g/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JVct3GmqIvT8lZvCVyTBaSkALGMVVnTHstoLFuLxQrbg5LxShk74XcCrK0i3mZMqsP4JZg0C0tYQfj03zQjE-g/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JVct3GmqIvT8lZvCVyTBaSkALGMVVnTHstoLFuLxQrbg5LxShk74XcCrK0i3mZMqsP4JZg0C0tYQfj03zQjE-g/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Championship",
-            "date": "April 7",
-            "time": "live",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/8.png",
-           "aimg": "https://redditz.soccerstreamlinks.com/images/teams/60.png",
-            "teams" : "West Brom Vs Bournemouth",
-            "hteam" : "West Brom",
-            "ateam" : "Bournemouth",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1rcUPn2IhQkOLN4XW_vMq86EneGx0kPFbe5LoLtj6C0Qj_IS9An3Mx-Gcx1bfE8IfUz38Z1Pcs5lrgVFAnDIgA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1rcUPn2IhQkOLN4XW_vMq86EneGx0kPFbe5LoLtj6C0Qj_IS9An3Mx-Gcx1bfE8IfUz38Z1Pcs5lrgVFAnDIgA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1rcUPn2IhQkOLN4XW_vMq86EneGx0kPFbe5LoLtj6C0Qj_IS9An3Mx-Gcx1bfE8IfUz38Z1Pcs5lrgVFAnDIgA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
          }
       ]
-  
