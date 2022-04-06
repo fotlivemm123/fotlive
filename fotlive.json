@@ -47,7 +47,34 @@
                 "livelink":"0"
                 }
             ]
+         },
+
+{
+"league": "Europa League",
+            "date": "April 7",
+            "time": "(23:45)",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/2686.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2686.png",
+            "teams" : "RB Leipzig Vs Atalanta",
+            "hteam" : "RB Leipzig",
+            "ateam" : "Atalanta",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
          }
+     
+
  
      ]
   
