@@ -241,31 +241,9 @@
                 "livelink":"0"
                 }
             ]
-         },
-    {
-           "league": "Buldesliga",
-            "date": "April 6",
-            "time": "(11:00) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_xsmall.png",
-            "teams" : "Augsbrug Vs Mainz",
-            "hteam" : "Augsbrug",
-            "ateam" : "Mainz",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "SD",
-                "livelink":"0"
-                }
-              ]
-            }
+         }
+    
+            
     
      ]
   
