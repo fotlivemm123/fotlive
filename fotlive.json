@@ -110,7 +110,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"http://dsasdcvb.azureedge.net/live/sspl/chunks.m3u8"
+                "livelink":"https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8"
                 },
                 {
                     "type": "HD",
@@ -118,7 +118,7 @@
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/chunklist.m3u8"
                 }
             ]
          },
