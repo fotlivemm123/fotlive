@@ -11,12 +11,12 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2506/index.m3u8"
+                "livelink":"https://hll.hnzzdf.com.cn/live/H139439.m3u8?txSecret=86f04b99cdd7696ffd6c7cc490da4131&txTime=624EFD28&_s=stream"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/0-mvGcOiiIWTfGzli0xQRTVhq2ahpm3zlnyraUm6_l8pqi1XcrpTxvBCEaWnkl0kU0FfeW4PLeJa3K16efzxHg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-               },
+                "livelink":"https://live-ak.vimeocdn.com/exp=1649278150~acl=%2F3f7a6025-66f2-43be-8dd5-64a28990116b%2F%2A~hmac=2f347a6a3b274b2e49408c45d6a74f3701757f710f1f06665b0a5d1167411fdd/3f7a6025-66f2-43be-8dd5-64a28990116b/chunklist_b2056000.m3u8"
+            },
                 {
                     "type": "SD",
                 "livelink":"https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/0-mvGcOiiIWTfGzli0xQRTVhq2ahpm3zlnyraUm6_l8pqi1XcrpTxvBCEaWnkl0kU0FfeW4PLeJa3K16efzxHg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
