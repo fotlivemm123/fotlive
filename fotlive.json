@@ -23,6 +23,33 @@
                 }
             ]
          },
+
+{
+"league": "Champion League",
+            "date": "April 7",
+            "time": "(2:00) AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/2819.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2672.png",
+            "teams" : "Villareal Vs Bayern",
+            "hteam" : "Villareal",
+            "ateam" : "Bayern",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+     
+
      
     {
             "league": "Champion League",
