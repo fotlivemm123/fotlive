@@ -170,7 +170,31 @@
                 "livelink":"0"
                 }
             ]
+         },
+
+{
+"league": "Championship",
+            "date": "April 7",
+            "time": "(1:30)AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/8.png",
+           "aimg": "https://redditz.soccerstreamlinks.com/images/teams/60.png",
+            "teams" : "West Brom Vs Bournemouth",
+            "hteam" : "West Brom",
+            "ateam" : "Bournemouth",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
          }
-    
-     ]
+      ]
   
