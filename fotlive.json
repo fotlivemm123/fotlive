@@ -48,7 +48,31 @@
                 }
             ]
          },
-
+       {
+            "league": "Bundesliga",
+            "date": "April 6",
+            "time": "11 PM",
+            "himg": "http://thutalive.webstarterz.com/thutalive/images/live/81674_Augsburg.jpg",
+            "aimg": "http://thutalive.webstarterz.com/thutalive/images/live/54311_Mainz.jpg",
+            "teams" : "AugsburgVs Mainz",
+            "hteam" : "Augsburg",
+            "ateam" : "Mainz",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+     
 {
 "league": "Europa League",
             "date": "April 7",
