@@ -51,7 +51,7 @@
        {
             "league": "Bundesliga",
             "date": "April 6",
-            "time": "live",
+            "time": "4:6AM",
             "himg": "http://thutalive.webstarterz.com/thutalive/images/live/81674_Augsburg.jpg",
             "aimg": "http://thutalive.webstarterz.com/thutalive/images/live/54311_Mainz.jpg",
             "teams" : "AugsburgVs Mainz",
@@ -159,15 +159,15 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JVct3GmqIvT8lZvCVyTBaSkALGMVVnTHstoLFuLxQrbg5LxShk74XcCrK0i3mZMqsP4JZg0C0tYQfj03zQjE-g/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JVct3GmqIvT8lZvCVyTBaSkALGMVVnTHstoLFuLxQrbg5LxShk74XcCrK0i3mZMqsP4JZg0C0tYQfj03zQjE-g/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JVct3GmqIvT8lZvCVyTBaSkALGMVVnTHstoLFuLxQrbg5LxShk74XcCrK0i3mZMqsP4JZg0C0tYQfj03zQjE-g/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -184,15 +184,15 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1rcUPn2IhQkOLN4XW_vMq86EneGx0kPFbe5LoLtj6C0Qj_IS9An3Mx-Gcx1bfE8IfUz38Z1Pcs5lrgVFAnDIgA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1rcUPn2IhQkOLN4XW_vMq86EneGx0kPFbe5LoLtj6C0Qj_IS9An3Mx-Gcx1bfE8IfUz38Z1Pcs5lrgVFAnDIgA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1rcUPn2IhQkOLN4XW_vMq86EneGx0kPFbe5LoLtj6C0Qj_IS9An3Mx-Gcx1bfE8IfUz38Z1Pcs5lrgVFAnDIgA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          }
