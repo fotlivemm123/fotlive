@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2506/index.m3u8"
                 },
                 {
                     "type": "HD",
@@ -35,8 +35,8 @@
             "ateam" : "Bayern",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
+                    "type": "BT Sport 3 HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6564/index.m3u8"
                 },
                 {
                     "type": "HD",
@@ -60,7 +60,7 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2532/index.m3u"
                 },
                 {
                     "type": "HD",
@@ -110,11 +110,11 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7337/index.m3u8"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
                 },
                 {
                     "type": "SD",
