@@ -145,8 +145,32 @@
                 "livelink":"0"
                 }
             ]
-         }
-     
+         },
 
+{
+"league": "Championship",
+            "date": "April 7",
+            "time": "(1:15)AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/14.png",
+           "aimg": "https://redditz.soccerstreamlinks.com/images/teams/11.png",
+            "teams" : "Nottingham Vs Coventry",
+            "hteam" : "Nottingham",
+            "ateam" : "Coventry",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         }
+    
      ]
   
