@@ -72,7 +72,31 @@
                 "livelink":"0"
                 }
             ]
+         },
+
+{
+"league": "Premier League",
+            "date": "April 7",
+            "time": "(1:30)AM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/6.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/48.png",
+            "teams" : "Burnley Vs Everton",
+            "hteam" : "Burnley",
+            "ateam" : "Everton",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
          }
-      
- ]
+     ]
   
