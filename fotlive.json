@@ -64,11 +64,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6AZfLT7hl8gbCoAAjvtygoakn42zFHKrNOezOppru0yoKLjvzsq9KLkdgkPd4DK50JjKgq1_Yu-yeXFkrGuoRg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6AZfLT7hl8gbCoAAjvtygoakn42zFHKrNOezOppru0yoKLjvzsq9KLkdgkPd4DK50JjKgq1_Yu-yeXFkrGuoRg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -150,7 +150,7 @@
 {
 "league": "Championship",
             "date": "April 7",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/14.png",
            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/11.png",
             "teams" : "Nottingham Vs Coventry",
@@ -175,7 +175,7 @@
 {
 "league": "Championship",
             "date": "April 7",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/8.png",
            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/60.png",
             "teams" : "West Brom Vs Bournemouth",
