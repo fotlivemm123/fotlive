@@ -2,7 +2,7 @@
    {
 "league": "Champion League",
             "date": "April 7",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/38.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2829.png",
             "teams" : "Chelsea Vs Real Madrid",
@@ -15,7 +15,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://live-ak.vimeocdn.com/exp=1649274101~acl=%2F0c50036d-e1e9-4fe0-ae69-a84583b19ec5%2F%2A~hmac=93ee411e231143bddf63dc892151b3ed87cdbd9c3dd52e0ed02b7724477644cb/0c50036d-e1e9-4fe0-ae69-a84583b19ec5/chunklist_b416000.m3u8?max_segments=10"
                 },
                 {
                     "type": "SD",
@@ -27,7 +27,7 @@
 {
 "league": "Champion League",
             "date": "April 7",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/2819.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2672.png",
             "teams" : "Villareal Vs Bayern",
