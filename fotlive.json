@@ -2,7 +2,7 @@
     {
             "league": "Europa League",
             "date": "April 7",
-            "time": "live",
+            "time": "end",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/36360.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2686.png",
             "teams" : "RB Leipzig Vs Atalanta",
@@ -26,7 +26,7 @@
   {
 "league": "Europa League",
             "date": "April 8",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_xsmall.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
             "teams" : "Braga Vs Rangers",
@@ -35,15 +35,15 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Gs9xdVMuwe9Ueq6Z9CLJtQksRLJsLGl_YJEnreu3rptuqIwfhCE_oNHwhIsKXr7VncmSmyrOhsqQu0yEJRxepw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
              },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Gs9xdVMuwe9Ueq6Z9CLJtQksRLJsLGl_YJEnreu3rptuqIwfhCE_oNHwhIsKXr7VncmSmyrOhsqQu0yEJRxepw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
             },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Gs9xdVMuwe9Ueq6Z9CLJtQksRLJsLGl_YJEnreu3rptuqIwfhCE_oNHwhIsKXr7VncmSmyrOhsqQu0yEJRxepw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
           }
             ]
          },
@@ -76,7 +76,7 @@
 {
 "league": "Europa League",
             "date": "April 8",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "West Ham Vs Lyon",
