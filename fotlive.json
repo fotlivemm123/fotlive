@@ -193,7 +193,82 @@
                 "livelink":"0"
                 }
             ]
+         },
+
+{
+"league": "Bundesliga",
+            "date": "April 9",
+            "time": "(20:00)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+            "teams" : "Bayern Vs Augsburg",
+            "hteam" : "Bayern",
+            "ateam" : "Augsburg",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+    {
+"league": "Laliga",
+            "date": "April 9",
+            "time": "(20:45)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "teams" : "Mallorca Vs AT Madrid",
+            "hteam" : "Mallorca",
+            "ateam" : "AT Madrid",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+     {
+"league": "Laliga",
+            "date": "April 9",
+            "time": "(23:00)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "teams" : "Villareal Vs Athletic Club",
+            "hteam" : "Villareal",
+            "ateam" : "Athletic Club",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
          }
+
 
      ]
      
