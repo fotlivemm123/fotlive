@@ -2,7 +2,7 @@
    {
 "league": "Premier League",
             "date": "April 9",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Newcastle Vs Wolves",
@@ -10,9 +10,17 @@
             "ateam" : "Wolves",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "Sky sports main event",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7337/index.m3u8"
+               },
+                {
+                    "type": "Sky sports premiere league",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
+               },
+                {
+                    "type": "HD",
                 "livelink":"0"
-                },
+               },
                 {
                     "type": "HD",
                 "livelink":"0"
