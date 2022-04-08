@@ -98,7 +98,7 @@
 {
 "league": "Premier League",
             "date": "April 9",
-            "time": "(20:30)PM",
+            "time": "(8:30)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Watford Vs Leeds",
@@ -123,7 +123,7 @@
 {
 "league": "Premier League",
             "date": "April 9",
-            "time": "(20:30)PM",
+            "time": "(8:30)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Southampton Vs Chelsea",
@@ -148,7 +148,7 @@
 {
 "league": "Premier League",
             "date": "April 9",
-            "time": "(20:30)PM",
+            "time": "(8:30)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Arsenal Vs Brighton",
@@ -173,7 +173,7 @@
 {
 "league": "Premier League",
             "date": "April 9",
-            "time": "(23:00)PM",
+            "time": "(11:00)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Astonvilla Vs Tottenham",
@@ -198,7 +198,7 @@
 {
 "league": "Bundesliga",
             "date": "April 9",
-            "time": "(20:00)PM",
+            "time": "(8:00)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
             "teams" : "Bayern Vs Augsburg",
@@ -222,7 +222,7 @@
     {
 "league": "Laliga",
             "date": "April 9",
-            "time": "(20:45)PM",
+            "time": "(8:45)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "teams" : "Mallorca Vs AT Madrid",
@@ -247,7 +247,7 @@
      {
 "league": "Laliga",
             "date": "April 9",
-            "time": "(23:00)PM",
+            "time": "(11:00)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Villareal Vs Athletic Club",
