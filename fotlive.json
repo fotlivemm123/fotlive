@@ -16,6 +16,14 @@
                     "type": "SKY MAIN FHD",
                 "livelink":"http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3Mw==/1080p.m3u8"
                 },
+                 {
+                    "type": "BEIN ENG",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/jl41Mjva0Z0ZpAcZXqcsLNyEVnrh5tAzgPuL2zPg5ONEDyVG6zz645UjuhwdztZtwd4LyYXP6SVgyd1F7YgbwQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+                 {
+                    "type": "CCTV",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H146423.m3u8?txSecret=59f0cf1b3568afef6102728019da6755&txTime=62528966&_s=stream"
+                },
                 {
                     "type": "HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1nqJY97B_TwQlkeghmspZnw0bw9FOn20Stazc-WxahGMKMfOJautB8frz3xKtmDGOaAgNreG2ozv3uq4HEdbhg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
