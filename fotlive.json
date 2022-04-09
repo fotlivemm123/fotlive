@@ -115,6 +115,10 @@
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/jl41Mjva0Z0ZpAcZXqcsLNyEVnrh5tAzgPuL2zPg5ONEDyVG6zz645UjuhwdztZtwd4LyYXP6SVgyd1F7YgbwQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                {
+                    "type": "FHD",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H146411.m3u8?txSecret=87f8f6c97b24ed471c0360772b0d2514&txTime=62528966&_s=stream"
+                },
+               {
                     "type": "SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
