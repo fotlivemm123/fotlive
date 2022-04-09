@@ -34,6 +34,10 @@
                     "type": "BeIN sports",
                 "livelink":"http://141.95.206.174:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
                 },
+               {
+                    "type": "HD",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H146403.m3u8?txSecret=e877cb74f418752d8274e8bd72aa7660&txTime=62528966&_s=stream"
+                },
             {
                     "type": "480p",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1nqJY97B_TwQlkeghmspZnw0bw9FOn20Stazc-WxahGMKMfOJautB8frz3xKtmDGOaAgNreG2ozv3uq4HEdbhg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
