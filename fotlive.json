@@ -3,7 +3,7 @@
      {
 "league": "Premier League",
             "date": "April 9",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Everton Vs Man United",
@@ -60,6 +60,10 @@
                 "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpcErit_hZh7e457IAMIE0YJ-NlUWmLLppamJ8vGLJnh5ZCe62rhxIxll2YlXiZqM-jTU6QFE2XPz_IXG1cBYp9HyO-JEWDpPHZHbqUknKc0i5PudAf93dHKR_4gTXXhA_FHwEjsoQ_yms7rNAqpMVOF_HoA-ibQwPX2MIwqjJc_V-ZnRnznT2JUTL9xoSrI9L_P6YK60ZEVNN2mlGey9UTH8q5BiaZ90tv9MujVMxuLe3EaZiwo-bF8L-j4x6eTdQzFvURzqsovcL8wJFv-JW3jeb3ZbBp8UkZKvv8Hfrs1IVbt8mQgaMQjefSj6dudcs3HKHbWjEBDITp8Qj52TIuGZe_H5L0MOzrmbw2OIdIX6FzlYKzoO2k8dImVscJO-VrZcA6G-leNQPko_wQn9FoyxzqemUYABOD04B7Rscd-tMApJNWLnEw4u1ADsE4V3A09Um1fbSRJtaJkZxidxhzCFarGjreaSnBCTXl9gmAv00qY-V8UlqXuLq_l_uYULtxR9zBDAPW98gA_4QmTvDfcb8MR9w7lZhfBKsB4cqc0PiWbg1rJqrOUo77m_qlRKXNz7ptJfc6SVJcEYPdB8SWWesTKmVl5yDXKgWuQGUTqvNSPEpJEo6ygCS0YV6U7Fk_A2ZAa23tn7Ez-MWIIK6ui8gHFWT-RF-QXJRoIvrrSrdTCo8Y0-CMxhDH4JO8HlLITtKD7KUyI_hoMR7k5a--romF0Xsr0IAEqCXVzLWVhc3QtMjC2Aw.m3u8"
                 },
                 {
+                    "type": "FHD",
+                "livelink":"http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OA==/1080p.m3u8"
+              },
+                {
                     "type": "HD",
                 "livelink":"https://video-weaver.hou01.hls.ttvnw.net/v1/playlist/CpcEFp6XDeCcK79eXrwvLxAqfodjld9zhBqjET7jUJE4zzumS_lA_jue8MY6dQKmAd11Qpz2FX78kXkNyvqWI9UqZ9-U9DKEEyMiD7AVll0oelVnC87uLGJ4y9YqScMikdvylBZpkEv3kkXtvOnV_RocGM5TzSQS8KPC35fKgiQX7ZFBEUECx3uyX3kdCNyEO8nBpAJzOOfiwRRt9KbMsKuWveMJnvLL11XWv4mt4KoRKSCClnx4qakylIT4ndzi2D5lUGSKB7iZDgGpkzm7nv5VDaAbNlerOBXv7wEYg_xMxYMrUr7TQwxbXvZ3gVmy1FAIPhMVdPgaeFCv2M78fYSRfXKfVx992kpRSvF4d7cffc0plXRyc0Gtp76F4hRDv9ZmAgIohOhJPSbNkwsRjRttZOD8D6mjsnC9OHenSY4kIxhkOSPaNpMIsewhItjZnJbEHrGe1Ac2O4I1LtHsz6TSR1ZI83xcX10lK946VCdXysBAMKkTMwylUiNnIAI9CVstrdDw6ix-9VLAa-IQlrM96wSNqRfiWQwFyLmeCEaLTDEC5xJ5VYLAN7vSspr7rQWoRzPZ0PxovWPlsPcDN2Ylw0ASma5Co1dObuplTC6gYD076AqAHLExfVNCZkse038BCY3KIvviM5uww9uq304fbgGkHYKBVsgSH-fiIJ3OFLAywKxCd59n3YHOsDYHdheNjAZp43TEjBoMex2TNey-IQamLQ84IAEqCXVzLWVhc3QtMjC2Aw.m3u8"
                 },
@@ -67,6 +71,7 @@
                     "type": "SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
                 }
+       
             ]
          },
 
