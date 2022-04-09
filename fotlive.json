@@ -62,6 +62,10 @@
                     "type": "SD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/vCzs5FSGX4aBImEiDEmgCXmhOVOPRno7RXysJcfBCl3P2WpDQcjeTjfns1aXjDZjInLg7eJl75KxQ9lHKIdtIw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
+                 {
+                    "type": "CCTV",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H146424.m3u8?txSecret=501a4be5e2cbf0b944ccad0a46325f62&txTime=62528966&_s=stream"
+                },
                 {
                     "type": "FHD",
                 "livelink":"http://dis5fdyevdl5h.cloudfront.net/stream/Mzc3Ng==/1080p.m3u8"
