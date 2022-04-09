@@ -93,6 +93,10 @@
                 {
                     "type": "BT Sports1 UK",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                },
+         {
+                    "type": "CCTV",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H146442.m3u8?txSecret=283bc9a081de23106ba4ca66c58069c0&txTime=62528966&_s=stream"
                 }
             ]
          },
