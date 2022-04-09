@@ -196,7 +196,7 @@
 {
 "league": "Premier League",
             "date": "April 9",
-            "time": "(11:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Astonvilla Vs Tottenham",
@@ -205,15 +205,15 @@
             "link":[
                 {
                     "type": "SKY MAIN EVENT FHD",
-                "livelink":"http://dis5fdyevdl5h.cloudfront.net/stream/Mzc3Mw==/1080p.m3u8"
+                "livelink":"http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3Mw==/1080p.m3u8"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1nqJY97B_TwQlkeghmspZnw0bw9FOn20Stazc-WxahGMKMfOJautB8frz3xKtmDGOaAgNreG2ozv3uq4HEdbhg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1nqJY97B_TwQlkeghmspZnw0bw9FOn20Stazc-WxahGMKMfOJautB8frz3xKtmDGOaAgNreG2ozv3uq4HEdbhg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -226,7 +226,7 @@
             
 "league": "Laliga",
             "date": "April 9",
-            "time": "(11:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Villareal Vs Athletic Club",
@@ -239,7 +239,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/vCzs5FSGX4aBImEiDEmgCXmhOVOPRno7RXysJcfBCl3P2WpDQcjeTjfns1aXjDZjInLg7eJl75KxQ9lHKIdtIw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
