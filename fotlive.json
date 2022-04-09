@@ -22,10 +22,7 @@
                     "type": "BT SPORT FHD",
                 "livelink":"http://dis5fdyevdl5h.cloudfront.net/stream/MzczNA==/1080p.m3u8"
                 },
-               {
-                    "type": "live koora",
-                "livelink":"https://s47.moroccan-network.football/live/wwn1ctwq2m8v_FHD.m3u8"
-                },
+               
                 {
                     "type": "Vietnum SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
