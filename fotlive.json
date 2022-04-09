@@ -56,8 +56,8 @@
             "ateam" : "Augsburg",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
+                    "type": "SKY Bundesliga HD",
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpcErit_hZh7e457IAMIE0YJ-NlUWmLLppamJ8vGLJnh5ZCe62rhxIxll2YlXiZqM-jTU6QFE2XPz_IXG1cBYp9HyO-JEWDpPHZHbqUknKc0i5PudAf93dHKR_4gTXXhA_FHwEjsoQ_yms7rNAqpMVOF_HoA-ibQwPX2MIwqjJc_V-ZnRnznT2JUTL9xoSrI9L_P6YK60ZEVNN2mlGey9UTH8q5BiaZ90tv9MujVMxuLe3EaZiwo-bF8L-j4x6eTdQzFvURzqsovcL8wJFv-JW3jeb3ZbBp8UkZKvv8Hfrs1IVbt8mQgaMQjefSj6dudcs3HKHbWjEBDITp8Qj52TIuGZe_H5L0MOzrmbw2OIdIX6FzlYKzoO2k8dImVscJO-VrZcA6G-leNQPko_wQn9FoyxzqemUYABOD04B7Rscd-tMApJNWLnEw4u1ADsE4V3A09Um1fbSRJtaJkZxidxhzCFarGjreaSnBCTXl9gmAv00qY-V8UlqXuLq_l_uYULtxR9zBDAPW98gA_4QmTvDfcb8MR9w7lZhfBKsB4cqc0PiWbg1rJqrOUo77m_qlRKXNz7ptJfc6SVJcEYPdB8SWWesTKmVl5yDXKgWuQGUTqvNSPEpJEo6ygCS0YV6U7Fk_A2ZAa23tn7Ez-MWIIK6ui8gHFWT-RF-QXJRoIvrrSrdTCo8Y0-CMxhDH4JO8HlLITtKD7KUyI_hoMR7k5a--romF0Xsr0IAEqCXVzLWVhc3QtMjC2Aw.m3u8"
                 },
                 {
                     "type": "HD",
