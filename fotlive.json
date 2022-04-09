@@ -12,15 +12,23 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                "livelink":"http://93.152.174.144:4000/play/btsport1/index.m3u8"
                 },
                 {
+                    "type": "BT sports",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
+                },
+               {
                     "type": "HD",
                 "livelink":"0"
                 },
                 {
                     "type": "SD",
                 "livelink":"0"
+                },
+                {
+                    "type": "BeIN sports",
+                "livelink":"http://141.95.206.174:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
                 }
             ]
          },
