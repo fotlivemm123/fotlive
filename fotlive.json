@@ -290,6 +290,31 @@
                 }
             ]
          },
+{
+           "league": "Bundesliga",
+            "date": "April 11",
+            "time": "(12:00) AM",
+            "himg": "0",
+            "aimg": "0",
+            "teams" : "RB Leipzig Vs Hoffenheim",
+            "hteam" : "RB Leipzig",
+            "ateam" : "Hoffenheim",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+     
 
      
      
