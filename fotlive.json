@@ -2,46 +2,6 @@
 
 
 
-{
-"league": "Premier League",
-            "date": "April 10",
-            "time": "ENDED 2 -2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "Man City Vs Liverpool",
-            "hteam" : "Man City",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "USA",
-                "livelink":"https://d3flsxiiqc7ru.cloudfront.net/hls/usa/chunks.m3u8"
-                },
-                {
-                    "type": "Sky Main",
-                "livelink":"http://d1x38tpjgevyaw.cloudfront.net/stream/MzgxOQ==/1080p.m3u8"
-                },
-                {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                "type": "Cana +",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/IY7FbCb_uAc9q4aXLS_9MyZOyaK6PkIUUOe90DTb1vEsLIVCZyvMiukFEv_7PLmctZtJdCpgLCCq5u5NbUBXmA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "HD Match",
-                "livelink":"http://livehls.ltjuq.top/ofmatch/HD315365.m3u8?auth_key=1649605105-5a3feb784bf96a7f99116973883f656e-0-2facf7d62c3ccb2f364232a57261befd"
-                },
-{
-                    "type": "480",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/F2UnR69748gQRqYRYBM0PYibaTlA8JpCXGESz6EZnz3z9gN1OisibkTQRUFR2WwzGkiZIymp1j8HUTyOnKz9Ng/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-               },
-        {
-                    "type": "360",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/F2UnR69748gQRqYRYBM0PYibaTlA8JpCXGESz6EZnz3z9gN1OisibkTQRUFR2WwzGkiZIymp1j8HUTyOnKz9Ng/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
 
      {
 "league": "Serie A",
@@ -153,7 +113,7 @@
 {
             "league": "Serie A",
             "date": "April 11",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "teams" : "Torino  Vs AC Milan",
@@ -161,15 +121,15 @@
             "ateam" : "AC Milan",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
+                    "type": "1080 HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ke7GoHVOlzm5tndG1KTe7TxNODEStQtstuRLzaaJfMP6SkbsQ51BDdHUrQrt68NXuWDJbNY881NBWZ5gc5MD8Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "480 p",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ke7GoHVOlzm5tndG1KTe7TxNODEStQtstuRLzaaJfMP6SkbsQ51BDdHUrQrt68NXuWDJbNY881NBWZ5gc5MD8Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "SD",
+                    "type": "320 p",
                 "livelink":"0"
                 }
             ]
@@ -178,7 +138,7 @@
 
             "league": "Laliga",
             "date": "April 11",
-            "time": "(1:30)AM",
+            "time": live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Levante Vs Barcelona",
@@ -186,16 +146,16 @@
             "ateam" : "Barcelona",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
+                    "type": "Laliga TV HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7kq277AGPBVYYzLOOE1ybYh294SZn2PTCbQiY3JMahHAr87EEcJiucOGMM1h3TfIbrgUWlb2ySfZ50e775eZQA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7kq277AGPBVYYzLOOE1ybYh294SZn2PTCbQiY3JMahHAr87EEcJiucOGMM1h3TfIbrgUWlb2ySfZ50e775eZQA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7kq277AGPBVYYzLOOE1ybYh294SZn2PTCbQiY3JMahHAr87EEcJiucOGMM1h3TfIbrgUWlb2ySfZ50e775eZQA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          }
