@@ -84,7 +84,7 @@
             "ateam" : "Crystal Palace",
             "link":[
                 {
-                    "type":720HD",
+                    "type":"720HD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/IY7FbCb_uAc9q4aXLS_9MyZOyaK6PkIUUOe90DTb1vEsLIVCZyvMiukFEv_7PLmctZtJdCpgLCCq5u5NbUBXmA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
@@ -109,7 +109,7 @@
             "ateam" : "Burnley",
             "link":[
                 {
-                    "type":720 HD",
+                    "type":"720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/F2UnR69748gQRqYRYBM0PYibaTlA8JpCXGESz6EZnz3z9gN1OisibkTQRUFR2WwzGkiZIymp1j8HUTyOnKz9Ng/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
@@ -150,7 +150,7 @@
 {
 "league": "Serie A",
             "date": "April 10",
-            "time"live",
+            "time""live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "teams" : "Napoli Vs Fiorentina",
