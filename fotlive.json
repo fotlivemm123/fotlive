@@ -20,6 +20,31 @@
             ]
          },
 {
+           "league": "Laliga",
+            "date": "April 10",
+            "time": "(6:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
+            "teams" : "Osasum Vs Deportivo Alaves",
+            "hteam" : "Osasum",
+            "ateam" : "Deportivo",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+     
+{
           "league": "Premier League",
             "date": "April 10",
             "time": "(7:30)PM",
@@ -294,8 +319,8 @@
            "league": "Bundesliga",
             "date": "April 11",
             "time": "(12:00) AM",
-            "himg": "0",
-            "aimg": "0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
             "teams" : "RB Leipzig Vs Hoffenheim",
             "hteam" : "RB Leipzig",
             "ateam" : "Hoffenheim",
