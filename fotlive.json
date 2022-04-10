@@ -318,34 +318,8 @@
             ]
          },
 
-
-{
-            "league": "Bundesliga",
-            "date": "April 10",
-            "time": "(10:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "teams" : "Frankfurt Vs Freiburg",
-            "hteam" : "Frankfurt",
-            "ateam" : "Freiburg",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "SD",
-                "livelink":"0"
-                }
-            ]
-         },
-
      {
-"league": "Laliga",
+            "league": "Laliga",
             "date": "April 10",
             "time": "(8:45)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
