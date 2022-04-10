@@ -7,7 +7,7 @@
    {
            "league": "Bundesliga",
             "date": "April 11",
-            "time": "live",
+            "time": "ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
             "teams" : "RB Leipzig Vs Hoffenheim",
@@ -36,7 +36,7 @@
 {
            "league": "Laliga",
             "date": "April 10",
-            "time": "live",
+            "time": "ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
             "teams" : "Elche Vs Real Sociedad",
