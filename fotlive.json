@@ -224,7 +224,7 @@
        {
            "league": "Bundesliga",
             "date": "April 10",
-            "time": "(8:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "teams" : "Bochun Vs Leverkusen",
@@ -233,15 +233,15 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/wSITQuPh9cAM3yt_Ifbo18tJ-U7qUx8UpEPy4LQYzh8nS59BW3Dl-j1vF-26cNs9Ex5wB7aYsXAQ_KHo4gfjeg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/wSITQuPh9cAM3yt_Ifbo18tJ-U7qUx8UpEPy4LQYzh8nS59BW3Dl-j1vF-26cNs9Ex5wB7aYsXAQ_KHo4gfjeg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/wSITQuPh9cAM3yt_Ifbo18tJ-U7qUx8UpEPy4LQYzh8nS59BW3Dl-j1vF-26cNs9Ex5wB7aYsXAQ_KHo4gfjeg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
