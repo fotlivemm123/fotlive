@@ -142,7 +142,82 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "Europa League",
+            "date": "April 15",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "teams" : "Barcelona Vs Frankfurt",
+            "hteam" : "Barcelona",
+            "ateam" : "Fanfurt",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "April 15",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Lyon Vs West Ham",
+            "hteam" : "Lyon",
+            "ateam" : "West Ham",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europe League",
+            "date": "April 15",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
+            "teams" : "Ranger Vs Braga",
+            "hteam" : "Ranger",
+            "ateam" : "Braga",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
          }
+     
+     
+     
      ]
      
      
