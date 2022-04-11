@@ -60,7 +60,7 @@
 {
             "league": "Serie A",
             "date": "April 11",
-            "time": "live",
+            "time": "Ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "teams" : "Torino  Vs AC Milan",
@@ -84,7 +84,7 @@
   {
 
             "league": "Laliga",
-            "date": "အဆင်ပြေတဲ့ linkနဲ့ကြည့်ပါ",
+            "date": "Ended",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
@@ -117,7 +117,7 @@
 {
            "league": "Ligue 1",
             "date": "April 11",
-            "time": "live",
+            "time": "Ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "teams" : "MarseilleVs Montpelier",
