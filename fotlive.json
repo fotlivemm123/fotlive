@@ -12,10 +12,18 @@
             "ateam" : "Villareal",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "BT Sport 3 HD",
                 "livelink":"0"
                 },
                 {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+              {
                     "type": "HD",
                 "livelink":"0"
                 },
@@ -37,10 +45,18 @@
             "ateam" : "Chelsea",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "BT Sport 2 HD",
                 "livelink":"0"
                 },
                 {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+               {
                     "type": "HD",
                 "livelink":"0"
                 },
