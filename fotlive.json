@@ -10,17 +10,28 @@
             "ateam" : "Chelsea",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "BT Sport 2 HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2506/index.m3u8"
+                },
+                {
+                    "type": "1080HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "720HD",
+                "livelink":"0"
+                },
+                    "type": "480",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "320",
                 "livelink":"0"
-                }
+                },
+                {
+                    "type": "CCTV",
+                "livelink":"0"
+                },
             ]
          },
     {
@@ -35,16 +46,29 @@
             "link":[
                 {
                     "type": "BT Sport 1 HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6564/index.m3u8"
+                },
+                {
+                    "type": "1080HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "720",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "CCTV",
+                "livelink":"0"
+                },
+                {
+                    "type": "460",
+                "livelink":"0"
+                },
+                {
+                    "type": "320",
                 "livelink":"0"
                 }
+
             ]
          },
 {
