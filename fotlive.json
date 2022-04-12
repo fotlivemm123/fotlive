@@ -4,7 +4,7 @@
 {
            "league": "Champion League",
             "date": "April 13",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "teams" : "Bayern Vs Villareal",
@@ -13,19 +13,19 @@
             "link":[
                 {
                     "type": "720HD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/4EO7TkOZWjUXzAE0oOILBNQbwDDvV29srZc3N-NHOLmqSH7LaznmPCORbTXp3fnDr2LsltRnAf-TCFBLevNNdA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/4EO7TkOZWjUXzAE0oOILBNQbwDDvV29srZc3N-NHOLmqSH7LaznmPCORbTXp3fnDr2LsltRnAf-TCFBLevNNdA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "360SD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/4EO7TkOZWjUXzAE0oOILBNQbwDDvV29srZc3N-NHOLmqSH7LaznmPCORbTXp3fnDr2LsltRnAf-TCFBLevNNdA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
               {
                     "type": "1080HD",
-                "livelink":"0"
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6564/index.m3u8"
                 },
                 {
                     "type": "BT sports 3 HD",
@@ -37,7 +37,7 @@
 {
            "league": "Champion League",
             "date": "April 13",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Real Madrid Vs Chelsea",
@@ -46,22 +46,22 @@
             "link":[
                 {
                     "type": "720HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/mNj8CY9hzACIGnSfoJNPzwbY1fLMcHKNTT8Fe86BSzRuF7pVaKA4n4PONRae-PWk4VM7lgfIh3NKU4j6bml8Sg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/mNj8CY9hzACIGnSfoJNPzwbY1fLMcHKNTT8Fe86BSzRuF7pVaKA4n4PONRae-PWk4VM7lgfIh3NKU4j6bml8Sg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/mNj8CY9hzACIGnSfoJNPzwbY1fLMcHKNTT8Fe86BSzRuF7pVaKA4n4PONRae-PWk4VM7lgfIh3NKU4j6bml8Sg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                {
                     "type": "1080HD",
-                "livelink":"0"
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2506/index.m3u8"
                 },
                 {
-                    "type": "BT sports 2HD",
+                    "type": "BT sports 2 1080HD",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2506/index.m3u8"
                 }
             ]
