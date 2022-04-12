@@ -215,6 +215,81 @@
                 }
             ]
          },
+
+{
+"league": "Europa Conf League",
+            "date": "April 15",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8619_xsmall.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+           "teams" : "PAOK Vs Marseille",
+            "hteam" : "PAOK",
+            "ateam" : "Marseille",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Europa Conf League",
+            "date": "April 15",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
+            "teams" : "Roma Vs Bodo/Glimt",
+            "hteam" : "Roma",
+            "ateam" : "Bodo/Glimt",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Europa Conf League",
+            "date": "April 15",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7787_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
+            "teams" : "Slavia Vs Feyenoord",
+            "hteam" : "Slavia",
+            "ateam" : "Feyenoord",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
+         },
 {
            "league": "TV Channel",
             "date": "NOW",
