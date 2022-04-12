@@ -12,28 +12,10 @@
                 {
                     "type": "BT Sport 2 HD",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2506/index.m3u8"
-                },
-                {
-                    "type": "1080HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720HD",
-                "livelink":"0"
-                },
-                    "type": "480",
-                "livelink":"0"
-                },
-                {
-                    "type": "320",
-                "livelink":"0"
-                },
-                {
-                    "type": "CCTV",
-                "livelink":"0"
                 }
-            ]
-         },
+        ]
+                
+         }
 {
            "league": "Champions league",
             "date": "April 14",
