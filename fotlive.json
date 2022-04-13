@@ -12,15 +12,23 @@
             "ateam" : "Benfica",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "480SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "320SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "720HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "BT sports 3HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Wait Link",
                 "livelink":"0"
                 }
             ]
@@ -36,15 +44,23 @@
             "ateam" : "Man City",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "480SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "320SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "760HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "BT sports 3 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Wait Link",
                 "livelink":"0"
                 }
             ]
