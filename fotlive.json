@@ -2,70 +2,7 @@
 
          
 {
-           "league": "Champions league",
-            "date": "April 14",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
-            "teams" : "Liverpool Vs Benfica",
-            "hteam" : "Liverpool",
-            "ateam" : "Benfica",
-            "link":[
-                {
-                    "type": "480SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7DZ906134RJqBNqJmebLjMUDCGwLixy-nKTvcvUXThtrU4bxPFm3nUuUnXyngsr-xmn0cPyPYYC6fFFbzvmedg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7DZ906134RJqBNqJmebLjMUDCGwLixy-nKTvcvUXThtrU4bxPFm3nUuUnXyngsr-xmn0cPyPYYC6fFFbzvmedg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-              {
-                    "type": "BT sports 3 720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7DZ906134RJqBNqJmebLjMUDCGwLixy-nKTvcvUXThtrU4bxPFm3nUuUnXyngsr-xmn0cPyPYYC6fFFbzvmedg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "wifi user 1080HD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H142317.m3u8?txSecret=28f6bb798186e102ad3083e969363fb2&txTime=62585391&_s=stream"
-                }
-            ]
-         },
-     {
-           "league": "Champions league",
-            "date": "April 14",
-            "time": "live",
-           "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "Atletico Madrid Vs Man City",
-            "hteam" : "Altetico Madrid",
-            "ateam" : "Man City",
-            "link":[
-                {
-                    "type": "480SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/GsTfvD-5tztyx2ZXe2VJPA0FS0rshcxguZ4OFlhlMoVydUEJPp16JqlqEVeVK4pMzSP-u2EoJgqJ2QzWWH-Www/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/GsTfvD-5tztyx2ZXe2VJPA0FS0rshcxguZ4OFlhlMoVydUEJPp16JqlqEVeVK4pMzSP-u2EoJgqJ2QzWWH-Www/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-  },
-                {
-                    "type": "BT sports 3 720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/GsTfvD-5tztyx2ZXe2VJPA0FS0rshcxguZ4OFlhlMoVydUEJPp16JqlqEVeVK4pMzSP-u2EoJgqJ2QzWWH-Www/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "wifi user 1080HD",
-                "livelink":"http://livehls.ltjuq.top/ofmatch/HD321536.m3u8?auth_key=1649877825-c5b52a8168bd6afa64bab644d57daf2a-0-03cbc97a9d4fa3cc00f358dc591af548"
-                }
-            ]
-         },
-{
+
            "league": "Europe League",
             "date": "April 14",
             "time": "(11:15) PM",
