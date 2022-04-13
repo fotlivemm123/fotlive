@@ -20,11 +20,11 @@
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7DZ906134RJqBNqJmebLjMUDCGwLixy-nKTvcvUXThtrU4bxPFm3nUuUnXyngsr-xmn0cPyPYYC6fFFbzvmedg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "720HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/7DZ906134RJqBNqJmebLjMUDCGwLixy-nKTvcvUXThtrU4bxPFm3nUuUnXyngsr-xmn0cPyPYYC6fFFbzvmedg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
                 },
               {
-                    "type": "BT sports 3HD",
+                    "type": "BT sports 2HD",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6564/index.m3u8"
                 },
                 {
@@ -52,9 +52,9 @@
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/GsTfvD-5tztyx2ZXe2VJPA0FS0rshcxguZ4OFlhlMoVydUEJPp16JqlqEVeVK4pMzSP-u2EoJgqJ2QzWWH-Www/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "720HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/GsTfvD-5tztyx2ZXe2VJPA0FS0rshcxguZ4OFlhlMoVydUEJPp16JqlqEVeVK4pMzSP-u2EoJgqJ2QzWWH-Www/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+  },
                 {
                     "type": "BT sports 3 HD",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6565/index.m3u8"
