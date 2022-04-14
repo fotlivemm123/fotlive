@@ -72,15 +72,23 @@
             "ateam" : "Fanfurt",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "VIETNUM SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+               {
+                    "type": "320SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "1080HD",
                 "livelink":"0"
                 }
             ]
@@ -100,11 +108,19 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "VIETNUM SD",
+                "livelink":"0"
+                },
+              {
+                    "type": "320SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "1080HD",
                 "livelink":"0"
                 }
             ]
@@ -120,15 +136,15 @@
             "ateam" : "Braga",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
@@ -145,15 +161,15 @@
             "ateam" : "Marseille",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
@@ -170,15 +186,15 @@
             "ateam" : "Bodo/Glimt",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720 HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
@@ -195,15 +211,15 @@
             "ateam" : "Feyenoord",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720 HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480 SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "320 SD",
                 "livelink":"0"
                 }
             ]
@@ -219,15 +235,15 @@
             "ateam" : "Inter",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480 SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "320 SD",
                 "livelink":"0"
                 }
             ]
