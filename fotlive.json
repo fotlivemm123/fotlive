@@ -1,28 +1,5 @@
 [
-{
-           "league": "Championship",
-            "date": "April 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-            "teams" : "Luton Vs Nottm Forest",
-            "hteam" : "Luton",
-            "ateam" : "Nottm Forest",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/aHJI47B1KiDRhvpZKpUYeUY4WpakpfYcKCBuHsRQOjV9Nkjvo9ocacU8E_x1GKxwgLeiiNd9mpw3JmyxoItLCQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/aHJI47B1KiDRhvpZKpUYeUY4WpakpfYcKCBuHsRQOjV9Nkjvo9ocacU8E_x1GKxwgLeiiNd9mpw3JmyxoItLCQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/aHJI47B1KiDRhvpZKpUYeUY4WpakpfYcKCBuHsRQOjV9Nkjvo9ocacU8E_x1GKxwgLeiiNd9mpw3JmyxoItLCQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
+
 {
            "league": "Championship",
             "date": "April 15",
@@ -71,34 +48,11 @@
                 }
             ]
          },
+
 {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8667_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8344_small.png",
-            "teams" : "Hull Vs Cardiff",
-            "hteam" : "Hull",
-            "ateam" : "Cardiff",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Championship",
-            "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8677_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655_small.png",
             "teams" : "Peterborough Vs Blackburn",
@@ -107,22 +61,22 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/dbMUcOVxsEjY-UeEDcBUrtcKNZfzFl4HiCSagAmH5o0CxVHGODzgps9WtOfHYGXdDesYekMGFY3RiwY8tVXDYQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/dbMUcOVxsEjY-UeEDcBUrtcKNZfzFl4HiCSagAmH5o0CxVHGODzgps9WtOfHYGXdDesYekMGFY3RiwY8tVXDYQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/dbMUcOVxsEjY-UeEDcBUrtcKNZfzFl4HiCSagAmH5o0CxVHGODzgps9WtOfHYGXdDesYekMGFY3RiwY8tVXDYQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
 {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8411_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10004_small.png",
             "teams" : "Preston Vs Milwall",
@@ -131,22 +85,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpkE9KuNW5CXXXuUSZvZReemscMsJZDfhrYx8BLzLG-bjaVoaaJ7Umg6WWhs0lmfhcj1sZfBJv9pd4s57LHnmKKduanFnmBR0H97TJuT8BZT_erFqjmDKY7XCyq5nsb8hJooua-9VaV7R8pwoK8PN1Yptq-p_HxP-E2seI--4cKhBfmpNFcPFbBF_UupwcS0eN2RA7bLsxFRBkU3vJWyanOePqkImXc9ShSi1mOjWyznsj4RvXU2rCUwkY6uTW3n-cGOdVi3ouBVv4G_qU_fSVv7WYviH_Tr5fq4uVQb1S6wJzdNVNR6ApdGaSKHL_Hz2Y1ZtO1xfNjeV2LQkLYztt96id4rrXhuWXxj0VVyHRqGBBrvJb9K6FmkyOsWiqkbIl0fnedWhv4K6YsNBeXxD1fDvfx11lz9Bucl6SpniFEj-dGIMdV3WADe3IjByBYRRoyLx3kM1qREmkFELFLmPviO6oepirhC1Pl5uMARBFxNMJAvg2YPcihEjoRx_npaNwQosZsGH9Ahsm38ZkJFchX_H5nmakbtTg9pk9-dFyNvlj4cl3xZXKm37_l8AaUTwlkqQsd17wuec7XAjvr1ERgTHu9TEDvdL2DJFHfNXTCXyA2lEfy7FhdQxNPT2CmMym_NSwFJkKzlaOhw6uDAPEw0awWHNyar0rhdplvCyo2ihSXvdj24xmF4D8DkL1cRUS1lIDWWKI4LghKIGgwj_7mmRR7feClptDggASoJZXUtd2VzdC0yML4D.m3u8"
+                
                 }
             ]
          },
 {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9798_small.png",
             "teams" : "Sheff Utd Vs Reading",
@@ -155,22 +102,22 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/SvNebs2NKpx8Hb_x5U69i46FkmA1gf5qJIhGzAXlm-HV7rJsNHZTwGCwGRA1Dg1iaAukwgv5ycvTzc2JLean4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/SvNebs2NKpx8Hb_x5U69i46FkmA1gf5qJIhGzAXlm-HV7rJsNHZTwGCwGRA1Dg1iaAukwgv5ycvTzc2JLean4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/SvNebs2NKpx8Hb_x5U69i46FkmA1gf5qJIhGzAXlm-HV7rJsNHZTwGCwGRA1Dg1iaAukwgv5ycvTzc2JLean4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
 {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10194_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8427_small.png",
             "teams" : "Stoke Vs Bristol City",
@@ -179,22 +126,22 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/x_AgUbDpnLFhshmxSnpNgbeUZMwo4ux-nmitAW9Z-Yt931i70wqrlh5qegVv-Q_OHpfYOWP8aMfg9E1N-SDqaA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/x_AgUbDpnLFhshmxSnpNgbeUZMwo4ux-nmitAW9Z-Yt931i70wqrlh5qegVv-Q_OHpfYOWP8aMfg9E1N-SDqaA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/x_AgUbDpnLFhshmxSnpNgbeUZMwo4ux-nmitAW9Z-Yt931i70wqrlh5qegVv-Q_OHpfYOWP8aMfg9E1N-SDqaA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
 {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10003_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8283_small.png",
             "teams" : "Swansea Vs Barnsley",
@@ -203,22 +150,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpkEv-cfwp7MA-EhH3E7YmIIFbZNAfDo3LjQPJYLMh0M3GS9otvU1w7e1eskxZJZGNhBVKf1sxJBfPVYycQ-qYb2lKAKaWgwRs6LsDcjqF4EpNZfC9sP_2RsdQvHsyuP9N3ezlQv5apy8_DEJSUyG8J8Da_DFHvdG9BJCYqeOX7orYP9j9N07X7B-hrekcnJ-LeJy7RTDJ4yx7Dqm8reiHp33jA0VIPf6UhoOkimWZP9TRiVbyCEnH9REYqjw1yuI6YY5U-ElJfVZeutIGM0VcGhgkMdPpTOa9rLRlwqyhFPHI9nImkGFsp9a-SOSXCqlO82f_vMZfl6pwgxqIKDFdSUbGZG05ZCm7ltS31LjUSDmvg6xum1h46zsMV9_D2rlt4hXkXenYsmTG4h066XxcZ8v27Gq87JizkmgKREaAe_8mnZdvf2xc6j_GvGYGOq6VjF4gM1DubZwNAOMI9qlv9l7xySsH6afBQhgS20Rley1xUWAUdgzbGJEih5HiNnxiC13UxyoHcnIgpfYJxKTd75Cia49mGHyCOiWUEEYvR6e6Ijo2X0iXUo8cXJy7sB7gTM45CPsK-VUMinBZoL03HQBOdjF9L36_bKIYG3O1MuNfQpn44r_BKJMS1R64_2VVBxrY6SS02qASPnRJSRNEhlH9q-0tWLqrmye1WGW5xdMpizKFsjn-_bYezhLMtr75MWPkWsmP6tyytKGgy5z3tGZ0BwsTwy5hogASoJZXUtd2VzdC0yML4D.m3u8"
+                
                 }
             ]
          },
 {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8659_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8483_small.png",
             "teams" : "West Borm Vs Blackpool",
@@ -227,15 +167,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1ywsBDv3MJ1lloq6Xnf-1IwGdwPfMC-iefHofiD-IW8BhSQdU9Ia64g0-_TnKOVSLkOrAT_NzHTvtwg1PV8pqA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1ywsBDv3MJ1lloq6Xnf-1IwGdwPfMC-iefHofiD-IW8BhSQdU9Ia64g0-_TnKOVSLkOrAT_NzHTvtwg1PV8pqA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1ywsBDv3MJ1lloq6Xnf-1IwGdwPfMC-iefHofiD-IW8BhSQdU9Ia64g0-_TnKOVSLkOrAT_NzHTvtwg1PV8pqA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -243,7 +183,7 @@
              {
            "league": "Championship",
             "date": "April 15",
-            "time": "(8:30) PM",
+            "time": "(11:30) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9796_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10172_small.png",
             "teams" : "Huddersfield Vs QPR",
