@@ -42,11 +42,11 @@
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
