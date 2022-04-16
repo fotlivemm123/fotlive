@@ -7,7 +7,7 @@
 {
 "league": "Premier League",
             "date": "April 16",
-            "time": "(6:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Tottenham Vs Brighton",
@@ -15,16 +15,16 @@
             "ateam" : "Brighton",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/o4SPykX96qnYZnWN9kFSpqNvv2JcEM6utUF1X04sDFu-ehPGaar3Ly20pwdwBal_khGdtRCCZjXmc2xW2-eO1w/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/o4SPykX96qnYZnWN9kFSpqNvv2JcEM6utUF1X04sDFu-ehPGaar3Ly20pwdwBal_khGdtRCCZjXmc2xW2-eO1w/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/o4SPykX96qnYZnWN9kFSpqNvv2JcEM6utUF1X04sDFu-ehPGaar3Ly20pwdwBal_khGdtRCCZjXmc2xW2-eO1w/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
