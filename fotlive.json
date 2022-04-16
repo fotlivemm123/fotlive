@@ -1,103 +1,8 @@
 [
 
 
-{
-           "league": "Serie A",
-            "date": "April 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
-            "teams" : "Milan Vs Genoa",
-            "hteam" : "Milan",
-            "ateam" : "Genoa",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-{
-           "league": "Laliga",
-            "date": "April 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "teams" : "Real Sociedad Vs Real Betis",
-            "hteam" : "Real Sociedad",
-            "ateam" : "Real Betis",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6259b9f2efd104001c2658bd/6259b9f2efd104001c2658bd.m3u8"
-                
-                }
-            ]
-         },
-{
-           "league": "Championship",
-            "date": "April 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10170_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Derby Vs Fulham",
-            "hteam" : "Derby",
-            "ateam" : "Fulham",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/aHJI47B1KiDRhvpZKpUYeUY4WpakpfYcKCBuHsRQOjV9Nkjvo9ocacU8E_x1GKxwgLeiiNd9mpw3JmyxoItLCQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/aHJI47B1KiDRhvpZKpUYeUY4WpakpfYcKCBuHsRQOjV9Nkjvo9ocacU8E_x1GKxwgLeiiNd9mpw3JmyxoItLCQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/aHJI47B1KiDRhvpZKpUYeUY4WpakpfYcKCBuHsRQOjV9Nkjvo9ocacU8E_x1GKxwgLeiiNd9mpw3JmyxoItLCQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
- 
-    
-     
-     
-     
-    },
-     
  
 
-{
-"league": "FA Cup Semi-Final",
-            "date": "April 16",
-            "time": "(9:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "Man City Vs Liverpool",
-            "hteam" : "Man City",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "BT Sport 1 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "SD",
-                "livelink":"0"
-                }
-            ]
-         },
 
 {
 "league": "Premier League",
@@ -195,6 +100,32 @@
                 {
                     "type": "SD",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/6565/index.m3u8"
+                }
+            ]
+         },
+
+
+{
+"league": "FA Cup Semi-Final",
+            "date": "April 16",
+            "time": "(9:00)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Man City Vs Liverpool",
+            "hteam" : "Man City",
+            "ateam" : "Liverpool",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
                 }
             ]
          },
