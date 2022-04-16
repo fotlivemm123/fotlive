@@ -7,7 +7,7 @@
 {
 "league": "Premier League",
             "date": "April 16",
-            "time": "live",
+            "time": "Ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Tottenham Vs Brighton",
@@ -74,7 +74,7 @@
                 },
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8"
                 }
             ]
          },
