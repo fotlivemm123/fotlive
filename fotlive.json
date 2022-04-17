@@ -102,7 +102,7 @@
 {
            "league": "Laliga",
             "date": "April 17",
-            "time": "(8:45) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "teams" : "ATM Vs Espanyol",
@@ -110,16 +110,16 @@
             "ateam" : "Espanyol",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "480 HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/G5TwnL595ZDqdiCIZ_ZrbDYedKNjv0dLjXlsohGRCvXg5X2FC3kRexhDj4vF73LlFITsIjIIc93s_j5Rl6NcJw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/G5TwnL595ZDqdiCIZ_ZrbDYedKNjv0dLjXlsohGRCvXg5X2FC3kRexhDj4vF73LlFITsIjIIc93s_j5Rl6NcJw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "720HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/G5TwnL595ZDqdiCIZ_ZrbDYedKNjv0dLjXlsohGRCvXg5X2FC3kRexhDj4vF73LlFITsIjIIc93s_j5Rl6NcJw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
