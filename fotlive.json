@@ -80,6 +80,18 @@
                 {
                     "type": "720HD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/cMt9L5VWSl-HxaYMKuiqG_UPiZUJsnWtPAy65HK15lszoYsgvQVYGxO2U6C5t6_Kl8f1N0yI8TeiHtNh8w7mMg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                },
+                {
+                    "type": "koora",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/P4oHQqsNFzDI34hwFVvnN-4hv42clVzwS5vP6bKSTa1x8kjS2EIMhbsvvwbbGpKBvrgbHcpHD8Omleim_FNv7w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "CCTv",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H147816.m3u8?txSecret=65b690c726af3ae44a43c862c440fb1b&txTime=625D5343&_s=stream"
                 }
             ]
          },
