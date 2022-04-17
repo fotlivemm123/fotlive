@@ -48,6 +48,14 @@
                     "type": "720HD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/E5vK_fhOirUaDBxzUO22ZCjVrS4zJy5zbPev8EfKma6jaKb4_ReA7gzA98zMjk4gH1UZv3Z9_-M13UioImWC8g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
+{
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
+                },
+                {
+                    "type": "1080HD",
+                "livelink":"http://d33pe4id2db8k9.cloudfront.net/stream/Mzk1MA==/1080p.m3u8"
+                }
             ]
          },
 
