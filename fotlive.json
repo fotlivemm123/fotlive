@@ -13,7 +13,7 @@
             "link":[
                 {
                     "type": "live koora",
-                "livelink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/tmN_evhtORCOBvHpnyyCUDV4uZy5S4jUZJ1PfZfI-MgGxyULmU1P25iTF4iJ_w0Mkj3754IHXl6x4MSxeATSgw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_dynamic_highlatency.m3u8?type=live"
+                "livelink":"https://srv05.varcdn.top/rpl1/tracks-v1a1/mono.m3u8"
                 },
                 {
                     "type": "480HD",
