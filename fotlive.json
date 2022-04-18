@@ -26,7 +26,7 @@
 {
            "league": "Serie A",
             "date": "April 19",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "teams" : "Atalanta Vs Hellas Verona",
@@ -35,22 +35,22 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
 {
            "league": "Laliga",
             "date": "April 19",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "teams" : "Barcelona Vs Cadiz",
@@ -59,15 +59,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/sl1BoPqo_LPA5YaZN3_kmnl1_wZ4DY_y0d8ny0bjfBKJKWSYaSl4bBo7YCRHQMbQjS9p3a4Gf37neM5_-p7UAA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/sl1BoPqo_LPA5YaZN3_kmnl1_wZ4DY_y0d8ny0bjfBKJKWSYaSl4bBo7YCRHQMbQjS9p3a4Gf37neM5_-p7UAA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/sl1BoPqo_LPA5YaZN3_kmnl1_wZ4DY_y0d8ny0bjfBKJKWSYaSl4bBo7YCRHQMbQjS9p3a4Gf37neM5_-p7UAA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
