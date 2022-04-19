@@ -27,7 +27,7 @@
      {
 "league": "Premier League",
             "date": "April 20",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Liverpool Vs Man U",
@@ -43,12 +43,12 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "live koora",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wd-JQoPPlYgL4EJuULws4I6FKUvLDpTNbQPrFjERGVnaYM57qnZEhls6JWT0G2ZtWSBnnA3phL9JM4BG5BlFqA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_dynamic_highlatency.m3u8?type=live"
                 },
 {
                     "type": "VIETNUM SD",
-                "livelink":"0"
+                "livelink":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
                 },
                 {
                     "type": "SKY SPORTS Premier League HD",
