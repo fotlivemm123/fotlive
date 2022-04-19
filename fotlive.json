@@ -1,106 +1,31 @@
 [
-{
-           "league": "Serie A",
-            "date": "April 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "teams" : "Napoli Vs Roma",
-            "hteam" : "0",
-            "ateam" : "0",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-{
-           "league": "Serie A",
-            "date": "April 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "teams" : "Atalanta Vs Hellas Verona",
-            "hteam" : "Atalanta",
-            "ateam" : "Hellas Verona",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/gXGZQmk2LmhMDP4VyeEzZfjl-P9pEF4W24BsbkA-Bs0JLkwW8j_oBUIDM-Aw0xJfk4I8gtXjmQiW5DD_wm6oJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-{
-           "league": "Laliga",
-            "date": "April 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams" : "Barcelona Vs Cadiz",
-            "hteam" : "Barcelona",
-            "ateam" : "Cadiz",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/sl1BoPqo_LPA5YaZN3_kmnl1_wZ4DY_y0d8ny0bjfBKJKWSYaSl4bBo7YCRHQMbQjS9p3a4Gf37neM5_-p7UAA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/sl1BoPqo_LPA5YaZN3_kmnl1_wZ4DY_y0d8ny0bjfBKJKWSYaSl4bBo7YCRHQMbQjS9p3a4Gf37neM5_-p7UAA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/sl1BoPqo_LPA5YaZN3_kmnl1_wZ4DY_y0d8ny0bjfBKJKWSYaSl4bBo7YCRHQMbQjS9p3a4Gf37neM5_-p7UAA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-
-
-     
-     
-     
-     
-
 
 {
-           "league": "TV Channel",
-            "date": "NOW",
-            "time": "live",
-            "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/5489_mrtv4.jpg",
-            "aimg": "http://thutalive.webstarterz.com/thutalive/images/channel/81851_ch7 card design.jpg",
-            "teams" : "MRTV -4 Vs Channel 7",
-            "hteam" : "MRTV -4",
-            "ateam" : "Channel -7",
+"league": "Premier League",
+            "date": "April 20",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "Liverpool Vs Man U",
+            "hteam" : "Liverpool",
+            "ateam" : "Man U",
             "link":[
                 {
-                    "type": "MRTV-4",
-                "livelink":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8"
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "Channel-7",
-                "livelink":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8"
-                
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
                 }
             ]
          }
+     
+
      ]
      
      
