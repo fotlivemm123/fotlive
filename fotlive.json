@@ -1,124 +1,254 @@
 [
-     
 
-     {
-"league": "Premier League",
+{
+"league": "Laliga",
             "date": "April 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Liverpool Vs Man U",
-            "hteam" : "Liverpool",
-            "ateam" : "Man U",
+            "time": "(11:30)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
+            "teams" : "AT Madrid Vs Granada",
+            "hteam" : "AT Madrid",
+            "ateam" : "Granada",
             "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Q4yJKiqnICJzErsZccxZGZJ6gcUO41ndtU6E2i62fKIXXtyOipMRXVPUuHnmLNVKEdX5BJCUHZc8mf8LIR5aUA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                    "type": "720 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Q4yJKiqnICJzErsZccxZGZJ6gcUO41ndtU6E2i62fKIXXtyOipMRXVPUuHnmLNVKEdX5BJCUHZc8mf8LIR5aUA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                    "type": "480 HD",
+                "livelink":"0"
                 },
-                
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
 {
-                    "type": "FHD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpIFsGgr97LRsooi0hRa-Xwg43jOR-4w5mwLIxqgOu53t10U83EI3SjYXITv3FxSZNvFePDVJTRQkLUuZxLpd6T0ApfLPH1EwoJiCdt-8zM3XWWAMrRZZXNSw3Dp_OqVXCpxPFCCej0sACtzQUpu8wi0TOnsm0EmKntqe1P6_pReQos5Kxxkch7rGplOwHhYAZZZrtG9X312ZW5YcBJJX-WtG6ppAsCgDrHhHiO3HzkInSpLGLyUrXgkOOTsGdjV_WQ2w0sa_657ir2EGwamWQ-iozqj7XUG1VRpI8T0WcUOZk5HFXdJ_citq1q77ptpCjYuJtbWC0z8m0arBDmgZ1Q2FAHxyokS8I7OLDn4H-iX5U-4XZlcLdnIoYwbHpBO59amkpqwqNN6Xj_nTtyRX3ufKPVPQ09db_6ZvbQyLnTmKPJr6i7-P95KRcM_Z-pNsUQf039FPzAYClVXnSZyWKrLw9Psmo-pNDD_y-ktV5sifx3V5Nivsupvwv4KOmjhd8JDGcAqPJMf5QMvgisech2Z4yKGc7p3k08KpquLim99jhkuDWYxSGOnXwAj61fCOaU1JygF9S2eFEjExraIRLXZBjAdsiNEgUPFKNT7rfYfaqJnVi7YvUI725gGz7YMrIqeTF7YUCGJetofBhZdsz5DImop5Et_B47DtBjEH9uOThqH6jKutlm9fRWKsvn1-MFq0GhG-y9khUyKdYMjNiCrQ9HS-ifDR1HYEFAJRYqwRfNzbkMhQAztuq5iJnmsgcEXPfLtZVz_0f6Xmki8JJskd8dsnWvYQ7J__g2mDQEgpppfQRInYtvfkEZa0lx9-RCEiWpCdn9t6Owxx2lXJTgDg5kvUmYYbuQcdP5lCXLza0BPdRoMYjn-zZ47-52euBLLIAEqCWV1LXdlc3QtMjDCAw.m3u8"
-   },
+"league": "Premier League",
+            "date": "April 21",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "Chelsea Vs Arsenal",
+            "hteam" : "Chelsea",
+            "ateam" : "Arsenal",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
 {
-                    "type": " MAIN Event HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7337/index.m3u8"
-                },
-         {
-                    "type": "live koora",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wd-JQoPPlYgL4EJuULws4I6FKUvLDpTNbQPrFjERGVnaYM57qnZEhls6JWT0G2ZtWSBnnA3phL9JM4BG5BlFqA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_dynamic_highlatency.m3u8?type=live"
-                },
-         
+"league": "Premier League",
+            "date": "April 21",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
+            "teams" : "Everton Vs Leicester",
+            "hteam" : "Everton",
+            "ateam" : "Leicester",
+            "link":[
                 {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
+                    "type": "720 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "VIETNUM  FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/625efed6ac7c4f001ce1f83a/625efed6ac7c4f001ce1f83a.m3u8"
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Premier League",
+            "date": "April 21",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+            "teams" : "Newcastle Vs Crystal Palace",
+            "hteam" : "Newcastle",
+            "ateam" : "Crystal Palace",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Premier League",
+            "date": "April 21",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "teams" : "Man City Vs Brighton",
+            "hteam" : "Man City",
+            "ateam" : "Brighton",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
                 }
             ]
          },
 
 {
 "league": "Coppa Italia Semi-Final",
-            "date": "April 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-            "teams" : "Inter Vs AC Milan",
-            "hteam" : "Inter",
-            "ateam" : "Ac Milan",
+            "date": "April 21",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+            "teams" : "Juventus Vs Fiorentina",
+            "hteam" : "Juventus",
+            "ateam" : "Fiorentina",
             "link":[
                 {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3smdrZ_EKEIj81WHQ7Dvy3kknC6eb5vbyZquGWYmaPcGZQe_1MVLT9P6nIctWuXv_hNC8Z5gKZrnKqJJCdaP1g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                    "type": "720 HD",
+                "livelink":"0"
                 },
                 {
                     "type": "480 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3smdrZ_EKEIj81WHQ7Dvy3kknC6eb5vbyZquGWYmaPcGZQe_1MVLT9P6nIctWuXv_hNC8Z5gKZrnKqJJCdaP1g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3smdrZ_EKEIj81WHQ7Dvy3kknC6eb5vbyZquGWYmaPcGZQe_1MVLT9P6nIctWuXv_hNC8Z5gKZrnKqJJCdaP1g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                    "type": "360 SD",
+                "livelink":"0"
                 }
             ]
          },
 
 {
 "league": "Laliga",
-            "date": "April 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
-            "teams" : "Real Betis Vs Elche",
-            "hteam" : "Real Betis",
-            "ateam" : "Elche",
+            "date": "April 21",
+            "time": "(00:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
+            "teams" : "Celta Vigo Vs Getafe",
+            "hteam" : "Celta Vigo",
+            "ateam" : "Getafe",
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/oaiDtl4Av5-n4SIqtnPDT1eeekr07RI5wMgAWifqpJ33Mwpny6P4ySmXeE-PUseZdW7EvXpYHFYysih7W0HMrw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "480 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/oaiDtl4Av5-n4SIqtnPDT1eeekr07RI5wMgAWifqpJ33Mwpny6P4ySmXeE-PUseZdW7EvXpYHFYysih7W0HMrw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "360 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/oaiDtl4Av5-n4SIqtnPDT1eeekr07RI5wMgAWifqpJ33Mwpny6P4ySmXeE-PUseZdW7EvXpYHFYysih7W0HMrw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          },
 
-     {
+{
 "league": "Laliga",
-            "date": "April 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
-            "teams" : "Villareal Vs Valencia",
-            "hteam" : "Villareal",
-            "ateam" : "Valencia",
+            "date": "April 21",
+            "time": "(2:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+            "teams" : "Osasuna Vs Real Madrid",
+            "hteam" : "Osasuna",
+            "ateam" : "Real Madrid",
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/D7gwImdpdRmdP9-8SddaLP0SxQ5BZ9touAgsagiKfj4nTYa4Mf7eZaBI2_LzotvfpBD-lEGSbr74ZK5601c7aw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "480 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/D7gwImdpdRmdP9-8SddaLP0SxQ5BZ9touAgsagiKfj4nTYa4Mf7eZaBI2_LzotvfpBD-lEGSbr74ZK5601c7aw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "360 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/D7gwImdpdRmdP9-8SddaLP0SxQ5BZ9touAgsagiKfj4nTYa4Mf7eZaBI2_LzotvfpBD-lEGSbr74ZK5601c7aw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Ligue 1",
+            "date": "April 21",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+            "teams" : "Angers Vs PSG",
+            "hteam" : "Angera",
+            "ateam" : "PSG",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Ligue 1",
+            "date": "April 21",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
+            "teams" : "Marseille Vs Nantes",
+            "hteam" : "Marseille",
+            "ateam" : "Nantes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
                 }
             ]
          }
-     
 
      ]
      
