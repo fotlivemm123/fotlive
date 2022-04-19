@@ -23,6 +23,31 @@
                 "livelink":"0"
                 }
             ]
+         },
+
+{
+"league": "Coppa Italia Semi-Final",
+            "date": "April 10",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
+            "teams" : "Inter Vs AC Milan",
+            "hteam" : "Inter",
+            "ateam" : "Ac Milan",
+            "link":[
+                {
+                    "type": "BT Sport 1 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }
+            ]
          }
      
 
