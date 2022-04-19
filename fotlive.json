@@ -70,7 +70,7 @@
 {
 "league": "Coppa Italia Semi-Final",
             "date": "April 20",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
             "teams" : "Inter Vs AC Milan",
@@ -95,7 +95,7 @@
 {
 "league": "Laliga",
             "date": "April 20",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
             "teams" : "Real Betis Vs Elche",
@@ -120,7 +120,7 @@
      {
 "league": "Laliga",
             "date": "April 20",
-            "time": "(2:00)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
             "teams" : "Villareal Vs Valencia",
