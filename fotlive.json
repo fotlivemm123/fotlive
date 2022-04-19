@@ -45,6 +45,18 @@
                 {
                     "type": "720 HD",
                 "livelink":"0"
+                },
+{
+                    "type": "VIETNUM SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SKY SPORTS Premier League HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
+                },
+                {
+                    "type": "SKY SPORTS MAIN Event HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7337/index.m3u8"
                 }
             ]
          },
