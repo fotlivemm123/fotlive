@@ -55,7 +55,7 @@
                     "type": "live koora",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wd-JQoPPlYgL4EJuULws4I6FKUvLDpTNbQPrFjERGVnaYM57qnZEhls6JWT0G2ZtWSBnnA3phL9JM4BG5BlFqA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tm_dynamic_highlatency.m3u8?type=live"
                 },
-         {
+         
                 {
                     "type": "Premier League HD",
                 "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
