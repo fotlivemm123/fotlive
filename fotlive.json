@@ -11,15 +11,15 @@
             "ateam" : "Man U",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720 HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480 HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "360 SD",
                 "livelink":"0"
                 }
             ]
@@ -36,19 +36,71 @@
             "ateam" : "Ac Milan",
             "link":[
                 {
-                    "type": "BT Sport 1 HD",
+                    "type": "720 HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "480 HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "SD",
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Laliga",
+            "date": "April 20",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
+            "teams" : "Real Betis Vs Elche",
+            "hteam" : "Real Betis",
+            "ateam" : "Elche",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+     {
+"league": "Laliga",
+            "date": "April 20",
+            "time": "(2:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+            "teams" : "Villareal Vs Valencia",
+            "hteam" : "Villareal",
+            "ateam" : "Valencia",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
                 "livelink":"0"
                 }
             ]
          }
+     
+
      
 
      ]
