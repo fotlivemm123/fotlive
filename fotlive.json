@@ -28,7 +28,7 @@
 {
 "league": "Premier League",
             "date": "April 21",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
             "teams" : "Chelsea Vs Arsenal",
@@ -36,24 +36,43 @@
             "ateam" : "Arsenal",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"0"
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "360 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+    {
+   
+                    "type": "Sky Sports HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7337/index.m3u8"
+                },
+                {
+                    "type": "Sports Premier HD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
+                },
+                {
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                },
+{
+                    "type": "VIETNUM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/626047efb9d04c001cb59139/626047efb9d04c001cb59139.m3u8"
                 }
+            
+         
+                
             ]
          },
 
 {
 "league": "Premier League",
             "date": "April 21",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
             "teams" : "Everton Vs Leicester",
@@ -61,16 +80,16 @@
             "ateam" : "Leicester",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5K9sr7rk-0ILntQorGwEyWksJnelAwx0N53jQGEVcUiQ75_7VS71ZYLui9UvACWTWDdEHlHIu47bO5y5C3U3eA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "480 HD",
-                "livelink":"0"
+                    "type": "320 SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5K9sr7rk-0ILntQorGwEyWksJnelAwx0N53jQGEVcUiQ75_7VS71ZYLui9UvACWTWDdEHlHIu47bO5y5C3U3eA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "360 SD",
-                "livelink":"0"
+                    "type": "760 HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5K9sr7rk-0ILntQorGwEyWksJnelAwx0N53jQGEVcUiQ75_7VS71ZYLui9UvACWTWDdEHlHIu47bO5y5C3U3eA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -78,7 +97,7 @@
 {
 "league": "Premier League",
             "date": "April 21",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
             "teams" : "Newcastle Vs Crystal Palace",
@@ -86,16 +105,16 @@
             "ateam" : "Crystal Palace",
             "link":[
                 {
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/67S7Qf0SdxSR6j9VCKixxk1pVmrJz9evrp4NC-4erYMtMhunFoRP9CjQpmLuaT909fXJmg8n_27Nvu3P7YbrTw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/67S7Qf0SdxSR6j9VCKixxk1pVmrJz9evrp4NC-4erYMtMhunFoRP9CjQpmLuaT909fXJmg8n_27Nvu3P7YbrTw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                },
+                {
                     "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/67S7Qf0SdxSR6j9VCKixxk1pVmrJz9evrp4NC-4erYMtMhunFoRP9CjQpmLuaT909fXJmg8n_27Nvu3P7YbrTw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -103,7 +122,7 @@
 {
 "league": "Premier League",
             "date": "April 21",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "teams" : "Man City Vs Brighton",
@@ -111,16 +130,16 @@
             "ateam" : "Brighton",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"0"
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/KKJPadR0Tl3IkFt3xx17i33Jl0u6kst8tNLGij63lf4D7l6vDK7fB_S_GQO33tEZnSy6TMKQZqthyEIrSbcoZg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "360 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/KKJPadR0Tl3IkFt3xx17i33Jl0u6kst8tNLGij63lf4D7l6vDK7fB_S_GQO33tEZnSy6TMKQZqthyEIrSbcoZg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/KKJPadR0Tl3IkFt3xx17i33Jl0u6kst8tNLGij63lf4D7l6vDK7fB_S_GQO33tEZnSy6TMKQZqthyEIrSbcoZg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
