@@ -2,124 +2,131 @@
 [
 
 {
-            "league": "Laliga",
-            "date": "April 20",
-            "time": "0-0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
-            "teams" : "AT Madrid 0-0 Granada",
-             "hteam" : "AT Madrid",
-            "ateam" : "Granada",
-            "link": "0"
-        },
-    {
-            "league": "Premier League",
+"league": "Laliga",
             "date": "April 21",
-            "time": "2-4",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-            "teams" : "Chelsea 2-4 Arsenal",
-             "hteam" : "Chelsea",
-            "ateam" : "Arsenal",
-            "link": "0"
-        },
+            "time": "(11:30)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
+            "teams" : "Espanyol Vs Rayo",
+            "hteam" : "Espanyol",
+            "ateam" : "Rayo",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
-            "league": "Premier League",
+"league": "Laliga",
             "date": "April 21",
-            "time": "1-1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-            "teams" : "Everton 1-1 Leicester",
-             "hteam" : "Everton",
-            "ateam" : "Leicester",
-            "link": "0"
-        },
+            "time": "(11:30)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+            "teams" : "Levente Vs Sevilla",
+            "hteam" : "Levante",
+            "ateam" : "Sevilla",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
-            "league": "Premier League",
-            "date": "April 21",
-            "time": "1-0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-            "teams" : "Newcastle 1-0 Crystal Palace",
-             "hteam" : "Newcastle",
-            "ateam" : "Crystal Palace",
-            "link": "0"
-        },
+"league": "Premier League",
+            "date": "April 22",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+            "teams" : "Burnley Vs Southampton",
+            "hteam" : "Burnley",
+            "ateam" : "Southampton",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
-            "league": "Premier League",
-            "date": "April 17",
-            "time": "3-0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-            "teams" : "Man City 3-0 Brighton",
-             "hteam" : "Man City",
-            "ateam" : "Brighton",
-            "link": "0"
-        },
+"league": "Laliga",
+            "date": "April 22",
+            "time": "(00:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+            "teams" : "Cadiz Vs Atheletic Club",
+            "hteam" : "Cadiz",
+            "ateam" : "Atheletic Club",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
-            "league": "Coppa Italia Semi-Final",
-            "date": "April 21",
-            "time": "2-0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-            "teams" : "Juventus 2-0 Fiorentina",
-             "hteam" : "Juventus",
-            "ateam" : "Fiorentina",
-            "link": "0"
-        },
-
-{
-            "league": "Laliga",
-            "date": "April 21",
-            "time": "0-2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-            "teams" : "Celta Vigo 0-2 Getafe",
-             "hteam" : "Celta Vigo",
-            "ateam" : "Getafe",
-            "link": "0"
-        },
-
-{
-            "league": "Laliga",
-            "date": "April 21",
-            "time": "1-3",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "teams" : "Osasuna 1-3 Real Madrid",
-             "hteam" : "Osasuna",
-            "ateam" : "Real Madrid",
-            "link": "0"
-        },
-
-{
-            "league": "Ligue 1",
-            "date": "April 21",
-            "time": "0-3",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-            "teams" : "Angers 0-3 PSG",
-             "hteam" : "Angers",
-            "ateam" : "PSG",
-            "link": "0"
-        },
-
-{
-            "league": "Ligue 1",
-            "date": "April 21",
-            "time": "3-2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
-            "teams" : "Marseille 3-2 Nantes",
-             "hteam" : "Marseille",
-            "ateam" : "Nantes",
-            "link": "0"
-        }
-
+"league": "Laliga",
+            "date": "April 22",
+            "time": "(2:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+            "teams" : "Real Sociedad Vs Barcelona",
+            "hteam" : "Real Sociedad",
+            "ateam" : "Barcelona",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         }
+     
+]
     
 
     
