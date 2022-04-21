@@ -2,142 +2,31 @@
 [
 
 {
-"league": "Laliga",
-            "date": "April 21",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
-            "teams" : "Espanyol Vs Rayo",
-            "hteam" : "Espanyol",
-            "ateam" : "Rayo",
+"league": "Bundesliga",
+            "date": "April 23",
+            "time": "(1:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
+            "teams" : "Wolfsburg Vs Mainz",
+            "hteam" : "Wolfaburg",
+            "ateam" : "Mainz",
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/AWiuN9XSY83EH3Zd7tv1MtMJ4nf8UNlY9z4ioLlodKU_N-0l05_Oa_DZaaziso9A8e74XUhh3eEpAwMPkRzcFg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "480 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/AWiuN9XSY83EH3Zd7tv1MtMJ4nf8UNlY9z4ioLlodKU_N-0l05_Oa_DZaaziso9A8e74XUhh3eEpAwMPkRzcFg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "360 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/AWiuN9XSY83EH3Zd7tv1MtMJ4nf8UNlY9z4ioLlodKU_N-0l05_Oa_DZaaziso9A8e74XUhh3eEpAwMPkRzcFg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Laliga",
-            "date": "April 21",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-            "teams" : "Levente Vs Sevilla",
-            "hteam" : "Levante",
-            "ateam" : "Sevilla",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/avjHoCwfCTCs5lWg6PtZYfUh1Hd5Z-3avii-rmEBo85fVt984Z4viZXEOLKJTBUXxA26YEi67WYuQ7lSPwAYBA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/avjHoCwfCTCs5lWg6PtZYfUh1Hd5Z-3avii-rmEBo85fVt984Z4viZXEOLKJTBUXxA26YEi67WYuQ7lSPwAYBA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/avjHoCwfCTCs5lWg6PtZYfUh1Hd5Z-3avii-rmEBo85fVt984Z4viZXEOLKJTBUXxA26YEi67WYuQ7lSPwAYBA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Premier League",
-            "date": "April 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-            "teams" : "Burnley Vs Southampton",
-            "hteam" : "Burnley",
-            "ateam" : "Southampton",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/YhqhnyGD92hPLnu89XirHXEta0HjCeGwNaH8g3UZZrTw1GkdM12NtVsMQ9BJ83gt1IXJHws_awcQ3-Q6COWLRg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/YhqhnyGD92hPLnu89XirHXEta0HjCeGwNaH8g3UZZrTw1GkdM12NtVsMQ9BJ83gt1IXJHws_awcQ3-Q6COWLRg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/YhqhnyGD92hPLnu89XirHXEta0HjCeGwNaH8g3UZZrTw1GkdM12NtVsMQ9BJ83gt1IXJHws_awcQ3-Q6COWLRg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Laliga",
-            "date": "April 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-            "teams" : "Cadiz Vs Atheletic Club",
-            "hteam" : "Cadiz",
-            "ateam" : "Atheletic Club",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nXzFv80Nvw9gahztqY1LiYhH6aXSup2OJ9T5cpLnuZadR3kjCiJUcVyNJuLxtUCDRmmMbXKS3zgtTCu_jVSyvA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nXzFv80Nvw9gahztqY1LiYhH6aXSup2OJ9T5cpLnuZadR3kjCiJUcVyNJuLxtUCDRmmMbXKS3zgtTCu_jVSyvA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nXzFv80Nvw9gahztqY1LiYhH6aXSup2OJ9T5cpLnuZadR3kjCiJUcVyNJuLxtUCDRmmMbXKS3zgtTCu_jVSyvA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Laliga",
-            "date": "April 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-            "teams" : "Real Sociedad Vs Barcelona",
-            "hteam" : "Real Sociedad",
-            "ateam" : "Barcelona",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xzq-MaHfSF3M-YS3hTnJXtxu3eTW-sbOpXK35knlAiL96_hct8Boh_BRhfp-M5kddRitlMBRijYtOmG1ceLw4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  },
-                {
-                    "type": "480 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xzq-MaHfSF3M-YS3hTnJXtxu3eTW-sbOpXK35knlAiL96_hct8Boh_BRhfp-M5kddRitlMBRijYtOmG1ceLw4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
- },
-                {
-                    "type": "360 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xzq-MaHfSF3M-YS3hTnJXtxu3eTW-sbOpXK35knlAiL96_hct8Boh_BRhfp-M5kddRitlMBRijYtOmG1ceLw4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-   },
-    {
-                    "type": "720 HD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFuEn6WfXFCGEwlUQFo4QeVT3y3PXmzhW0_whHTBe8mDb14-d6LX_oFua_GETTcJqwhY6dczfY8OP0v2G-InQ_gKJoMHRbPF1Q_Vu3H7rwPesnp6py3LqvOZNLhVspt1wTkalpA8K9VgXE3mD6F1cvJry4jGzjyVlQlrdXBu3TeAvOzgrvkduJ79soM7bYTHSDtlOH-kgKX3SDCdz-gAEBb5DmY3U8SaU_TIi1mE-JM5CROIGfMIivhvgc_5UGbyJ-5BaLnphtW6uDg6t8w6AuCfl024RM6OBDDaoPs50SpsH7eNDTKEcim3g2fC7O8J2dJJpuPeehSYMvkK-wifSLUNWzLcy1IfGvvWsM9oGC4w38Q3nwD00AwuIZk1A6hWbxjDnelcL4PkJJy65zl0_UrEIlCKHEFaeTh30SUg3PlZQqI3IiYpK0rE4r0-7DHBqkyLxUFI1Rjaiw0J_D4416emGby4ru5J9d3J4PUbJnlFdSLVPYmADNIrUPFHuSTeDhRkhUeREPKAJXQJku2z-fp9GoRS6GkA52HK5XRJrRtKgeTEAZevrA29Xb9v6IkkWHMWOwEKGS0q18_gYF2jyCN9he_FnvRZlw0bLZrTUXMhhfQ32SzGCzn8YMLMPb30tT0OuFZsTgREK5WAgJM9TGd_h-ao-9oxtFz8IpiUyfrpW1pqAH4mAmWZDkc38VrWISwW6YubJHqqTTzTXB1ccPkXmOGPdSCsPh9jBl5BIOEpP7IQigpFoPNB-KXIjeuuTm2bE7u8z-5antS1Cgy91NDa5lEaAy8ddJVMzPbiu77TP1Ftu-JMqV3jut5ZsambCJBBE8Eau7rkbIPb1a56D1iv5HK7amCT8AqLQO7PXMR5TtkXibGgxXnLC5dDCoGRwJk_AgASoJZXUtd2VzdC0yMMQD.m3u8"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFgMA5pxC6tHD28MuR-HcYSNcNv4PxXpHvZ3zMEGQsJvzMwkz4W3xcP3DKDcncWiw2LRLvgKsphe5EvKPpP7D3jYKnUqevC4QXI49DnNlRK3_URRAqg4jxmEBPMqbRrLRvr4ajwLbvZzWhN1cbv6K06JMDT7qWLb2i1UTKT5pVmEk0SPrdNp0q7lJ48xnmaLWS83NeXEfomSgoKPtdsGW7KnMjP7i9cckG31N9nOQ-yn3gImsG9ImTAvQeeCwYRG2JFDz2AAx_RGieQ0gqpnGb08fKJ_iN_G_H0Q5OTs-mau6Q2zAAZvk35v7ZPJP-jIyxdMKck3--yfffkmxkxMpkfgdTNTZyB6VKofaQ6i6yWqSMNoQiLXyREoQnixn1xHYYAlXJZm8NPqbWNOhrNqhoO-jQ5VKn9wFB9G58ATRCLM7wyzVveuvPo-hxKqTp5GIzgROgyDCkl7oG5FLrTatGrA18IGGfEAL30TMD8WIPcPNoYv3hUt8GEerHls2rSBmT4WtBFK6B5xafrqdveDUyr2ID1mHidO_dFl4CThcQUhpSrTt9erHkj7UZU376gYlhXU2GnVAbEMwk3512ughQjSo9C51be9hZ2QRvlf-Y-wCq7-KfEa6ROONfwgO8W6ZQwWFAxJXNADbs0thkqaQrvlXwC7wOzBPDvNwSqwyKtwOOrv40o-wynwptt2CRHPodJbRsxMKrwtXYDruRuAIJ4pym0QX1zYLe5m98pCtN1GBHm3mZw5fFewIuJJA6Gks6hz2Podi4Ghc0x36flyVtxYHpkL1d4FnUT229QhVjSIx7NupMvpj1diIExiCsy8HPyo-1mczxAmV_hTwiJkVhxJxSxpl2Y7SIuYApa1LbW1AXZXIsGgxS4XfGfnsW0jY4EZcgASoJZXUtd2VzdC0yMMQD.m3u8"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFVS7dS914KHirTOmxv94YZV0yRZFsTnMwxtWNrX87xB4dbLlfKIxiR7ywDUfv--6dCUSdsCtraqRG7A22Q7t-lf4sKeCm5CxE37hSw6qT1EuAoQkuiXzFzphOzHE5XKgX8QMDK0RnwWhy2X5gF12yJpHjqlE9VKYPgZ5dpv4nmB_C6Q-fkzUIiBRPXWoLeJx713UWR_2wFsCxLptaeE3r7g-zTtZxa0yyxmJ_ADvEgQ0qfGr2f3m7noMrNsK7zFCfTXWBDnxL_ADIWoEM3wfjlrCBywBKcrAflhvp5FDJNrbYURfb00-4tJSMoG4b3I7EzL6bDK9otewnOTIDEed919100oEtahKktgpYAB4g3cIyTQASxwl6PhB45q52L1l5VlrsJki9oUhtGhgqMrXpDZV2RrgP33Jdwo_nczDPUMUCMkuummZFJLCEOKCKqgf1_vknE-4dGnCVCr1Eb76LlHtN3WL-1aegH7VmPYC1d-j9ldgAGcVoJ9GIQr5NQcVInCu3A6bmT6J-k50_w8ICLTrKdrR6gDWjKzNGgDhV_OopNnAgZaginngqnxEZKbIvgXmHTYgDPS-RhoSnpOjdCwb_2BMMU5ZTwS4-S14nVh0QXpwyfTEC1NWE5qujgIlEwOP2QJQTeLmPDjsNR7CY_Z0b1Jmavw5i2BR6cIyyaepnYDqOk64uMP2HbpuaZ2XK0NWFk86A65jJQmQMMm9rpQD_i930lXJBJkC12zQSWBoeG6EomIY5HmjgnTSpCBYmi4Boxov6qAMOczPn1KbjKFJtEWu8k_dB7hy03upEUG3VGMN6qqBYxAKNioxnSe4XpfI9Uvhh6AUiFvfwX3ceLCuXAFZczBdxW6eZWGNT4D3xLZjEGgy__rjJ26L2Ydj6a94gASoJZXUtd2VzdC0yMMQD.m3u8"
+                "livelink":"0"
                 }
             ]
          }
      
+
 ]
     
 
