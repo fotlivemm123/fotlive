@@ -148,6 +148,31 @@
          },
 
 {
+"league": "Cooa Del Rey Final",
+            "date": "April 24",
+            "time": "(2:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+            "teams" : "Real Betis Vs Valencia",
+            "hteam" : "Real Betis",
+            "ateam" : "Valencia",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
 "league": "Bundesliga",
             "date": "April 23",
             "time": "(8:00)PM",
@@ -297,6 +322,33 @@
                 }
             ]
          },
+
+{
+"league": "Ligue 1",
+            "date": "April 24",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
+            "teams" : "PSG Vs Lens",
+            "hteam" : "PSG",
+            "ateam" : "Lens",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+     
+
      {
 "league": "Serie A",
             "date": "April 23",
