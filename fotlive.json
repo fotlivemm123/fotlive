@@ -103,30 +103,7 @@
          },
 
 
-     {
-"league": "Ligue 1",
-            "date": "April 23",
-            "time": "(11:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9853.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
-            "teams" : "Saint-Etienne Vs Monaco",
-            "hteam" : "Saint-Etienne",
-            "ateam" : "Monaco",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 
 {
 "league": "Ligue 1",
