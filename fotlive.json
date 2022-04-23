@@ -1,53 +1,6 @@
 
 [
 
-
-  {
-"league": "Premier League",
-            "date": "April 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "teams" : "Arsenal Vs Man U",
-            "hteam" : "Arsenal",
-            "ateam" : "Man U",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/nFuDHhvKoIX3jF03HGFukeMxZgu0mRgNEbmZHNapgHT3e9ODuZ1lqLZFcxFNQnMlJWNKmRSkGMo6qkGK9MOPCg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/nFuDHhvKoIX3jF03HGFukeMxZgu0mRgNEbmZHNapgHT3e9ODuZ1lqLZFcxFNQnMlJWNKmRSkGMo6qkGK9MOPCg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                
-          {
-                    "type": "BT Sport 1 HD",
-                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/2505/index.m3u8"
-                },
-                {
-                    "type": "Super sport FHD",
-                "livelink":"http://78.47.248.131/live/abr_s-1/live/s-1/chunks.m3u8?wmsAuthSign="
-                },
-           {
-                    "type": "Bt sport 1 FHD",
-                "livelink":"http://d19iphtv9h35kt.cloudfront.net/stream/NDAxMg==/1080p.m3u8"
-                },
-{
-                    "type": "Bein ENG",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/OItL912B6VCKbiCf6LAtp9VLtskcJuZm25kq0MYSwK2L5sQGw7y7C3YKiSvdQPqfVcIOzybzDmnCfEGIFuLsBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "CCTV",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H173936.m3u8?txSecret=37d772f6c2adabb4e86c03367a45133c&txTime=6264F75D&_s=stream"
-                },
-                {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                }
-            ]
-         },
-
      {
 "league": "Serie A",
             "date": "April 23",
@@ -72,7 +25,7 @@
      {
 "league": "Premier League",
             "date": "April 23",
-            "time": "(8:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
             "teams" : "Leicester Vs Aston Villa",
@@ -96,7 +49,7 @@
      {
 "league": "Premier League",
             "date": "April 23",
-            "time": "(8:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
             "teams" : "Man City Vs Watford",
@@ -120,7 +73,7 @@
      {
 "league": "Premier League",
             "date": "April 23",
-            "time": "(8:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
             "teams" : "Norwich Vs Newcastle",
