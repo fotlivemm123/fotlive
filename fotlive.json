@@ -102,30 +102,7 @@
             ]
          },
 
-   {
-"league": "Ligue 1",
-            "date": "April 23",
-            "time": "(9:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
-            "teams" : "Lyon Vs Montpellier",
-            "hteam" : "Lyon",
-            "ateam" : "Montpellier",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"0"
-                }
-            ]
-         },
+
      {
 "league": "Ligue 1",
             "date": "April 23",
