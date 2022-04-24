@@ -42,30 +42,7 @@
             ]
          },
      
-     {
-"league": "Bundesliga",
-            "date": "April 24",
-            "time": "(10:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-            "teams" : "Heartha Bsc Vs VfB Stuttgart",
-            "hteam" : "Heartha Bsc",
-            "ateam" : "VfB Stuggart",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"0"
-                }
-            ]
-         },
+     
 
 
 
