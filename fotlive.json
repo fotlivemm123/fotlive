@@ -6,7 +6,7 @@
      {
 "league": "Laliga",
             "date": "April 25",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
             "teams" : "Barcelona Vs Rayo",
@@ -15,15 +15,15 @@
             "link":[
                 {
                     "type": "480 HD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ZeafcjazdQEgyPI_b14C3m6ToqKeWZ5dujHu63N8xnNmMqQ6rpiteP0AbZB0T6Vsao2prN3GMD1q-2yMgOUjnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "360 HD",
-                "livelink":"0"
+                    "type": "360 SD",
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ZeafcjazdQEgyPI_b14C3m6ToqKeWZ5dujHu63N8xnNmMqQ6rpiteP0AbZB0T6Vsao2prN3GMD1q-2yMgOUjnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "720 SD",
-                "livelink":"0"
+                    "type": "720 HD",
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ZeafcjazdQEgyPI_b14C3m6ToqKeWZ5dujHu63N8xnNmMqQ6rpiteP0AbZB0T6Vsao2prN3GMD1q-2yMgOUjnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
