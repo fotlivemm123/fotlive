@@ -37,23 +37,6 @@
             ]
          },
 
-{
-        "league": "Ligue 1",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-            "teams" : "Rennes Vs Lorient",
-            "hteam" : "Rennes",
-            "ateam" : "Lorient",
-            "link":[
-                
-                {
-                    "type": "CCTV 720HD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H146799.m3u8?txSecret=64d110d50325a07813578c029f0a8911&txTime=62662B4D&_s=stream"
-                }
-            ]
-         },
 
 {
 "league": "Premier League",
@@ -76,6 +59,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/p9Y8Fo5NHvTGGRAf2HcNNzFreTjGKqjI1oHydTAJ68q450u7XRDhffS4giwA6Anu2gH8GxHernijdzaHpmOtLQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+  {
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
                 }
             ]
          },
@@ -100,7 +87,12 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ZeafcjazdQEgyPI_b14C3m6ToqKeWZ5dujHu63N8xnNmMqQ6rpiteP0AbZB0T6Vsao2prN3GMD1q-2yMgOUjnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+  {
+                    "type": "VIETNUM SD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62654523b9d04c001cb59315/62654523b9d04c001cb59315.m3u8"
                 }
+
             ]
          },
 
@@ -125,6 +117,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/AOrqmFK6cymyyOPnz3BGif_VhUA7FBSdbP6gdK_pmR4UzWYAJZBV1fqHTjde2nhfAw4jGVxHFlh_Wd54S76dMg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+ {
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
                 }
             ]
          },
