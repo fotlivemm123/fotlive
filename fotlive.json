@@ -68,24 +68,6 @@
 
      
 
-{
-"league": "Serie A",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-            "teams" : "Bologna Vs Udinese",
-            "hteam" : "Bologna",
-            "ateam" : "Udinese",
-            "link":[
-                
-                {
-                    "type": "720 SD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H176911.m3u8?txSecret=1f83f0bab634f1fc8dc0f664273fad56&txTime=62668BDE&_s=stream"
-                }
-            ]
-         },
-     
 
 
 {
