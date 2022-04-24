@@ -172,6 +172,18 @@
                 {
                     "type": "720 SD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "Bein Sport English HD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "Sky sports FHD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7337/index.m3u8"
+                },
+                {
+                    "type": "Sky sports premiere FHD",
+                "livelink":"http://sd84wuwm.megogo.xyz/iptv/8DFHZS7DAL7EKH/7335/index.m3u8"
                 }
             ]
          },
