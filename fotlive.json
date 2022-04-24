@@ -31,7 +31,7 @@
 {
 "league": "Ligue 1",
             "date": "April 25",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
             "teams" : "Reims Vs Marseille",
@@ -40,15 +40,15 @@
             "link":[
                 {
                     "type": "480 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/jPQudI4CysS6URO7lkOBgFfre_fjQVGJsqN_P_FZRb1_6g2tXFb13ee5ux3IYZAqhyxc7-AD1gtG7le3YJ_pvA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "360 HD",
-                "livelink":"0"
+                    "type": "360 SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/jPQudI4CysS6URO7lkOBgFfre_fjQVGJsqN_P_FZRb1_6g2tXFb13ee5ux3IYZAqhyxc7-AD1gtG7le3YJ_pvA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "720 SD",
-                "livelink":"0"
+                    "type": "720 HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/jPQudI4CysS6URO7lkOBgFfre_fjQVGJsqN_P_FZRb1_6g2tXFb13ee5ux3IYZAqhyxc7-AD1gtG7le3YJ_pvA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -56,7 +56,7 @@
 {
 "league": "Serie A",
             "date": "April 25",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
             "teams" : "Lazio Vs AC Milan",
@@ -65,15 +65,15 @@
             "link":[
                 {
                     "type": "480 HD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/AOrqmFK6cymyyOPnz3BGif_VhUA7FBSdbP6gdK_pmR4UzWYAJZBV1fqHTjde2nhfAw4jGVxHFlh_Wd54S76dMg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "360 HD",
-                "livelink":"0"
+                    "type": "360 SD",
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/AOrqmFK6cymyyOPnz3BGif_VhUA7FBSdbP6gdK_pmR4UzWYAJZBV1fqHTjde2nhfAw4jGVxHFlh_Wd54S76dMg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 SD",
-                "livelink":"0"
+                "livelink":"https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/AOrqmFK6cymyyOPnz3BGif_VhUA7FBSdbP6gdK_pmR4UzWYAJZBV1fqHTjde2nhfAw4jGVxHFlh_Wd54S76dMg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          }
