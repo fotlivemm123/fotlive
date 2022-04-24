@@ -37,30 +37,7 @@
                 }
             ]
          },
-     {
-"league": "Bundesliga",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
-            "teams" : "Bochum Vs Augsburg",
-            "hteam" : "Bochum",
-            "ateam" : "Augsburg",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/kAwJCQMEc8RK0ysqq_zAFfS9AMDpp3eHqUTu_QBNwGsNuD9L0dGhz7UywJOAikIdjc9_p4Qis3SDXtQrPSGVvA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/kAwJCQMEc8RK0ysqq_zAFfS9AMDpp3eHqUTu_QBNwGsNuD9L0dGhz7UywJOAikIdjc9_p4Qis3SDXtQrPSGVvA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/kAwJCQMEc8RK0ysqq_zAFfS9AMDpp3eHqUTu_QBNwGsNuD9L0dGhz7UywJOAikIdjc9_p4Qis3SDXtQrPSGVvA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
+     
      {
 "league": "Bundesliga",
             "date": "April 24",
@@ -88,31 +65,6 @@
 
 
 
-
-{
-"league": "Ligue 1",
-            "date": "April 24",
-            "time": "(9:35)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
-            "teams" : "Lille Vs Strasbourg",
-            "hteam" : "Lille",
-            "ateam" : "Strasbourg",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"0"
-                }
-            ]
-         },
 
      
 
