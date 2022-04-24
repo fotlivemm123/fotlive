@@ -21,6 +21,18 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "sky sports  FHD",
+                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDAzNg==/1080p.m3u8"
+                },
+                {
+                    "type": "True TV HD",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H173945.m3u8?txSecret=30d97120139da675e89be485f71295c1&txTime=62668BDE&_s=stream"
+                },
+                {
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
          },
