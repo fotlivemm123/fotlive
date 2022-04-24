@@ -178,7 +178,7 @@
      {
 "league": "Bundesliga",
             "date": "April 24",
-            "time": "(8:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
             "teams" : "Bochum Vs Augsburg",
@@ -225,81 +225,7 @@
          },
 
 
-{
-"league": "Ligue 1",
-            "date": "April 24",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121.png",
-            "teams" : "Clermont Foot Vs Angers",
-            "hteam" : "Clermont Foot",
-            "ateam" : "Angers",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"0"
-                }
-            ]
-         },
 
-{
-"league": "Ligue 1",
-            "date": "April 24",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-            "teams" : "Metz Vs Brest",
-            "hteam" : "Metz",
-            "ateam" : "Brest",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"0"
-                }
-            ]
-         },
-
-
-{
-"league": "Ligue 1",
-            "date": "April 24",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242.png",
-            "teams" : "Nice Vs Troyes",
-            "hteam" : "Nice",
-            "ateam" : "Troyes",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"0"
-                }
-            ]
-         },
 
 {
 "league": "Ligue 1",
@@ -331,24 +257,17 @@
 {
 "league": "Serie A",
             "date": "April 24",
-            "time": "(7:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
             "teams" : "Bologna Vs Udinese",
             "hteam" : "Bologna",
             "ateam" : "Udinese",
             "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "720 SD",
-                "livelink":"0"
+                "livelink":"https://hll.hnzzdf.com.cn/live/H176911.m3u8?txSecret=1f83f0bab634f1fc8dc0f664273fad56&txTime=62668BDE&_s=stream"
                 }
             ]
          },
