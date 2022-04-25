@@ -28,24 +28,17 @@
 {
 "league": "Championship",
             "date": "April 26",
-            "time": "(1:00)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8411.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655.png",
             "teams" : "Preston Vs Blackburn",
             "hteam" : "Preston",
             "ateam" : "Blackburn",
             "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/pFKjUDgHM2KSDdj98lRhnfSgqIXriV8VMyOyLI3lhKE7bx2V3r9rlOduojo4iu1AFFk86I1wk9XXJRJS2kK8tA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
