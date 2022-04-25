@@ -76,7 +76,7 @@
          },
 
 {
-"league": "Champions League Semi-Final",
+"league": "Champions League S-F",
             "date": "April 27",
             "time": "(1:30)AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
@@ -86,15 +86,15 @@
             "ateam" : "Real Madrid",
             "link":[
                 {
-                    "type": "480 HD",
+                    "type": "480 SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "360 HD",
+                    "type": "360 SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "720 SD",
+                    "type": "720 HD",
                 "livelink":"0"
                 }
             ]
