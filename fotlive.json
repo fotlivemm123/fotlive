@@ -1,5 +1,79 @@
 
 [
+
+{
+"league": "Liga Portugal",
+            "date": "April 25",
+            "time": "(11:30)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png",
+            "teams" : "Braga Vs FC Porto",
+            "hteam" : "Braga",
+            "ateam" : "Porto",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+"league": "Championship",
+            "date": "April 26",
+            "time": "(1:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8411.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655.png",
+            "teams" : "Preston Vs Blackburn",
+            "hteam" : "Preston",
+            "ateam" : "Blackburn",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+     {
+"league": "Liga Portugal",
+            "date": "April 26",
+            "time": "(2:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8613.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
+            "teams" : "Boavista Vs Sporting CP",
+            "hteam" : "Boavista",
+            "ateam" : "Sporting CP",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+    
   {
 "league": "Premier League",
             "date": "April 26",
