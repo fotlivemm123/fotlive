@@ -22,19 +22,8 @@
                 {
                     "type": "720 HD",
                 "livelink":"0"
-                },
-{
-                    "type": "BEIN Eng 1 FHD",
-                "livelink":"http://xtmm.live:8080/live/777222/777222/5354.m3u8"
-                },
-                {
-                    "type": "BEIN Arab (FHD)",
-                "livelink":"http://xtmm.live:8080/live/777222/777222/68.m3u8"
-                },
-                {
-                    "type": "BT sport 2(FHD)",
-                "livelink":"http://xtmm.live:8080/live/777222/777222/77.m3u8"
                 }
+
             ]
          },
 
