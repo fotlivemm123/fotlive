@@ -22,6 +22,18 @@
                 {
                     "type": "BT sport 2 HD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4E7da_E9NFPzGHW9b2DVoqDZ7VfvIoqfQhW_qQplEncJYIDlAxMTaFlrXI-8XuC9gjhspRZcJtFkiTH7Pq_R_A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "Liga Campeones HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xYGrJuszEKRmdhm5g3oTgxgJw6-xlj5LMQBpupY52uSgvaesXXSX55YEQbbpAi1G3R7b-R4ojtfW_dlJnaYGbQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "BT sports FHD",
+                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDA1NQ==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNUM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/6268391c86430c001c9a6f11/6268391c86430c001c9a6f11.m3u8"
                 }
 
             ]
