@@ -1,114 +1,27 @@
 
 [
 
-{
+  {
 "league": "Champions League S-F",
-            "date": "Vpn နဲ့ ကြည့်ပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "teams" : "Man City Vs Real Madrid",
-            "hteam" : "Man City",
-            "ateam" : "Real Madrid",
+            "date": "April 28",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+            "teams" : "Liverpool Vs Villarreal",
+            "hteam" : "Liverpool",
+            "ateam" : "Villarreal",
             "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4E7da_E9NFPzGHW9b2DVoqDZ7VfvIoqfQhW_qQplEncJYIDlAxMTaFlrXI-8XuC9gjhspRZcJtFkiTH7Pq_R_A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                    "type": "480 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "360 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4E7da_E9NFPzGHW9b2DVoqDZ7VfvIoqfQhW_qQplEncJYIDlAxMTaFlrXI-8XuC9gjhspRZcJtFkiTH7Pq_R_A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                    "type": "360 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "BT sport 2 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4E7da_E9NFPzGHW9b2DVoqDZ7VfvIoqfQhW_qQplEncJYIDlAxMTaFlrXI-8XuC9gjhspRZcJtFkiTH7Pq_R_A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "Liga Campeones HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xYGrJuszEKRmdhm5g3oTgxgJw6-xlj5LMQBpupY52uSgvaesXXSX55YEQbbpAi1G3R7b-R4ojtfW_dlJnaYGbQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "BT sports FHD",
-                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDA1NQ==/1080p.m3u8"
-                },
-                {
-                    "type": "VIETNUM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/6268391c86430c001c9a6f11/6268391c86430c001c9a6f11.m3u8"
-                }
-
-            ]
-         },
-
-
-
-{
-    "date": "Vpn နဲ့ကြည့်ပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8283.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8483.png",
-            "teams" : "Barnsley Vs Blackpool",
-            "hteam" : "Barnsley",
-            "ateam" : "Blackpool",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/vpkDiF6O8NVnuSddrsrkLQJOVnOt5FNYvF3uiwHsYH9xGkas9S95skqYMUjkVX-dbBygHmaN8Rt9navE2Z6pfw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/vpkDiF6O8NVnuSddrsrkLQJOVnOt5FNYvF3uiwHsYH9xGkas9S95skqYMUjkVX-dbBygHmaN8Rt9navE2Z6pfw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/vpkDiF6O8NVnuSddrsrkLQJOVnOt5FNYvF3uiwHsYH9xGkas9S95skqYMUjkVX-dbBygHmaN8Rt9navE2Z6pfw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Championship",
-            "date": "Vpn နဲ့ ကြည့်ပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-            "teams" : "Fulham Vs Nottingham",
-            "hteam" : "Fulham",
-            "ateam" : "Nottingham",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/d-yrPafGcI8m1Gz5_XeVL-8GUxhqDD-1blB6XP8TFeNP0RnhX0aofy-taKf9Wi4u9S9QEO7EU7dTWgQ2GT595Q/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/d-yrPafGcI8m1Gz5_XeVL-8GUxhqDD-1blB6XP8TFeNP0RnhX0aofy-taKf9Wi4u9S9QEO7EU7dTWgQ2GT595Q/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/d-yrPafGcI8m1Gz5_XeVL-8GUxhqDD-1blB6XP8TFeNP0RnhX0aofy-taKf9Wi4u9S9QEO7EU7dTWgQ2GT595Q/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Championship",
-            "date": "Vpn နဲ့ ကြည့်ပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10003.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-            "teams" : "Swansea Vs Bournemouth",
-            "hteam" : "Swansea",
-            "ateam" : "Bournemouth",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1CY65uR94qjEI2GXdGk6FFDckbH4YKcB0ouh10JN5aJUrSTrlvy8dJSXPhrhrKh70uVjDdUhJFYdI1XNSwuDzw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1CY65uR94qjEI2GXdGk6FFDckbH4YKcB0ouh10JN5aJUrSTrlvy8dJSXPhrhrKh70uVjDdUhJFYdI1XNSwuDzw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1CY65uR94qjEI2GXdGk6FFDckbH4YKcB0ouh10JN5aJUrSTrlvy8dJSXPhrhrKh70uVjDdUhJFYdI1XNSwuDzw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                    "type": "720 SD",
+                "livelink":"0"
                 }
             ]
          },
@@ -185,30 +98,7 @@
                 "livelink":"0"
                 }
             ]
-         },
-
-     {
-"league": "Champions League S-F",
-            "date": "April 28",
-            "time": "(1:30)AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-            "teams" : "Liverpool Vs Villarreal",
-            "hteam" : "Liverpool",
-            "ateam" : "Villarreal",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"0"
-                }
-            ]
          }
+
+   
 ]
