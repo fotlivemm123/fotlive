@@ -1,7 +1,30 @@
 
 [
 
-
+{
+"league": "Champions League S-F",
+            "date": "April 27",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+            "teams" : "Man City Vs Real Madrid",
+            "hteam" : "Man City",
+            "ateam" : "Real Madrid",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
 "league": "Club Friendlies",
@@ -29,21 +52,21 @@
          },
 
 {
-"league": "Champions League S-F",
+"league": "Championship",
             "date": "April 27",
-            "time": "(1:30)AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "teams" : "Man City Vs Real Madrid",
-            "hteam" : "Man City",
-            "ateam" : "Real Madrid",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8283.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8483.png",
+            "teams" : "Barnsley Vs Blackpool",
+            "hteam" : "Barnsley",
+            "ateam" : "Blackpool",
             "link":[
                 {
                     "type": "480 SD",
                 "livelink":"0"
                 },
                 {
-                    "type": "360 SD",
+                    "type": "320 SD",
                 "livelink":"0"
                 },
                 {
@@ -52,6 +75,55 @@
                 }
             ]
          },
+     {
+"league": "Championship",
+            "date": "April 27",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+            "teams" : "Fulham Vs Nottingham",
+            "hteam" : "Fulham",
+            "ateam" : "Nottingham",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+     {
+"league": "Championship",
+            "date": "April 27",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10003.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+            "teams" : "Swansea Vs Bournemouth",
+            "hteam" : "Swansea",
+            "ateam" : "Bournemouth",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
      {
 "league": "Serie A",
             "date": "April 27",
