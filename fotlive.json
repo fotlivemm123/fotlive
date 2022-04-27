@@ -3,8 +3,8 @@
 
   {
 "league": "Champions League S-F",
-            "date": "April 28",
-            "time": "(1:30)AM",
+            "date": "Vpn သုံးပြီးကြည့်ပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
             "teams" : "Liverpool Vs Villarreal",
@@ -12,16 +12,28 @@
             "ateam" : "Villarreal",
             "link":[
                 {
-                    "type": "480 HD",
-                "livelink":"0"
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "360 HD",
-                "livelink":"0"
+                    "type": "360 SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMFIvIN3t_luqYm6VaOCtE3dC1A1fmNHpCUxS4plbQFhgxmZc0CkpTRfNEsUJOcX6CpkeNUOgAmoWMsLi-AmUPHo3wL0Z-oF1dgCzYh6c4wc28wz_-BFe4byTvMfTrj_Ysolx6NbxRlSo9-qz86WNh2nrBZxK1GXKqy6gKvmyxi9nI0TibDAc1G6eQmK4ICVUAPcjO_O8TJmxOwL36Z-xiWOOan7LzKU2ejeP16KinKOjn8dEntGhz_lBtrTIpXYsAVLZbw8pn3Kk3pUSkCiIAggkg3I4WGmgEUKy4Q9hZeraK-iRXHuBZ_q3uvMDgqXEaRt_8F3wbywo053QVF6EntWTrqtQlgiYWj4DS-KI2uQ0vWOAsZ2PQd9NndQ-vEwGz5_tQBBdmhYlM7uCEYWe-ztmkytKAwE8nYffaw3MSA7YlDcyyztLfHUJydhXK_0n59lrn6J3Ck7odUHQVf_jfKw6VHH0SKW4hvTdMhE-U1fZZO58YmMJl_kB5Smg7VjpYHmNJZIiJjwjrnp2rT8cbll41Pnv7iy0FkA4fojWSvv9auy4Ica6odZQRl3RdtDQDSXfFGx4GHsaNWywTzRQyoRgueNcBwvakxBA1Vp-1NVe_HNU7STOxZ2YJq8NOptemILVoJPhLb9veS--cJ9oaqP1Ti6cOSU-dYEeQ2ttVc7RXMeKA63OU-asF_nHCWVbzHFZL3sTSIkleFoa4PcTH4M6ujzlNXVaYOe69aOzxpfaCY3jEsQohWh0NHEtiI5NRAU9AquHvVUNMNpFd3rlSSnfTuY_O1ttjMJl2bQysltPmLtI318uMqhSJAuFAddr_hhLe0J5JIlxzZd5jRDUT8r9_Azja_ZIUcyooKjLrFPoQlPbcaDCqfUgG49Rc6B5mEjiABKgl1cy13ZXN0LTIwyQM.m3u8"
                 },
                 {
                     "type": "720 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "Laliga Campeones HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Zg6ECmP3lXgea1Tk6m353jJNEqdE80051C_nDS7qjWtq20uNmOf1Bin_4xJh4g0Qud71I537QbKxnyc7fDUong/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "BT SPORT FHD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpUFxvBRozvXL8qJeh7FO8UM0vXDnmfwz8yugXV1ys--c3xl3SLlNC0n-1E5ZIie7pXYRnd1OYXLGE0hXdsdpzM8aZAqQs8j_Rrxb7iAQ1XRaSCHn6Ew_iNo-YEGeYacdZr_78e6X8iS8dBgHIxib3r2eu2duNOiMIAWjdbxjKpUJlFUJXpN-F4wwDS0VFVCIGd0zPXN4v8D1ZDrFVG6owbMgaVeOcQ8noHgYubvXoeljib-NtTaHJEiU9GbutSZxy-0dYrs-Czg5BasLiz5Qgpttkh0D_jN7UgG8dGFW57J1-sNQ2ornhsBivVtlbbb-YMaqOYJJgmPBN-abwBL37FwwhRR1ziarj9wENxq4QsfwpUrPSl31yUptVhMb-u3OE738ETLPTvS8-bJBFjvBDyxztue6ugamu3V58ZLAyzmKo7CT3suCpeftdGRBdHRxpOrCY8_7D9R_-aOcDQ4PkhEE_vS3KM_8ttH7TkzKMCYQnVlJyznPWF_Xrgz9jqOobH4RJz5C1A0YQGc39rHZ19wdvwng8fUiT7wszad8NfXAqltupC2yxR_ZzufZLQw39Xu2movXvk1pPP0L4KsFC5cGxBxJjqrdGaaZGHuHbGYHF1ZDzYifIJbNCDc1EMerwvtZQZUo9H77WADb_O9aMT6F6eRkSrXmNKvaKyntrZXbiaJ7C84n-IwVuB88DC9vsHf30B587wzpP675c5VxHUNHFsKzlZgdwcJl6DiEITj-3eMi6bG2W5pXh8YQe3vL5-YTnkAoD0RCgdw3tKaGbfoA8K2QDc-Kqkk3pGIfRFlV1UWNVN1ph1cALtdNKwQDJh83QxdOpT632HbbEOdZSnE5iY55aIy9sGgo6GgC29xLl0g2WfHxBoMmyzrTKF5dyz6SECyIAEqCXVzLXdlc3QtMjDJAw.m3u8"
+                },
+                {
+                    "type": "VIETNUM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62698214d559fd001c01f13d/62698214d559fd001c01f13d.m3u8"
                 }
             ]
          },
