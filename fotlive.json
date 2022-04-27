@@ -12,12 +12,12 @@
             "ateam" : "Villarreal",
             "link":[
                 {
-                    "type": "480 SD",
+                    "type": "VIETNUM SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
  },
                 {
-                    "type": "360 SD",
-                "livelink":"https://bs.28assia.com/hls/84.m3u8?md5=q4Jts0q4Xz_FjytElpDU5w&expires=1651089607"
+                    "type": "TUDN",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H177788.m3u8?txSecret=cfa70379e7ba6c421ad18d6fe807628b&txTime=626AB0AA&_s=stream"
   },
                 {
                     "type": "720 SD",
