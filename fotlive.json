@@ -42,7 +42,16 @@
                 {
                     "type": "720 SD",
                 "livelink":"https://alplay.zhengyaning.com/xoilac/channel-8.m3u8?auth_key=1650270694-0-0-a0e7c8c6bffd671cc4e2422150046c11"
+                },
+{
+                    "type": "HD",
+                "livelink":"https://bs.28assia.com/hls/81.m3u8?md5=LYCBzpD9U3UoIKxVYvF8og&expires=1651082083"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://bs.28assia.com/hls/66.m3u8?md5=7rcT_hbFHEQZ5aitmQ3-Dw&expires=1651082086"
                 }
+          
             ]
          },
 
