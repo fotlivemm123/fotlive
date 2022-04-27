@@ -37,7 +37,18 @@
             "hteam" : "Fiorentina",
             "ateam" : "Udinese",
             "link":[
-                
+                {
+                    "type": "480 SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFE0Z4geFlLzu6O-gLsZmifrtQeKMSrxwAjJMfPXwtOueEww417TmbxBbBjpw-kgVFzAReUWIhxTB2Yia14MtqHFSmOarlKEc_bQtaJM8PUHI-qJlmEtl7O4rYaBy3r5M0hhNNnq9BdDASzdB9T4WK_IN7z00JGibqE02VGTbQ7GCBWIZsTwUebf2Z9-UYiNrvtdJ7OJMIZjFqYc-b-I8XNMvbeYhG0C9AL2uIsacrZoU9TyWRzuHehiodGIdRVhmH4LA41sSUkZnb7YtLIriJ5a_6J5paS0H4F3bbhIlUoR1UYO04d5G9B0m5rt9KWfrYRwbudX9ZOhYk_iAr0ajf_o12p6QjiBWQdWhBD8AQ4Pf04TrZL6lNlDV2bsHOFbxfsE_c1ilhw_GW2pKCpewxBOuJTX4ANhbBvxlywvfulkzjOFuVyBFkHLsLW1EcYHiVe4FsqDlg1-urjb-NTPFQHZqARinUrRvRG2gE3OTAmZQoRJbrbJyJaU-Yzdk5ia6N75oppK0FomjxdS-zFJZxPrpQVwC5LZ8Xh8HWRauo-w6GC63hgjlJaHlqEKHksXtLcshyA6Nye-wXXLSzUjuQVGuOqvSkXgsMn3AJ3UQj8OdaF2Lz4y6TnnF3tz-NZvFYPs1MPuULg4iXIBeW047ZrHjudmL_SGjiKKUhNCsrkvkwZgSbO0Au6a-KKazSQEmk2YAcVKVR0297s-FX-VQU58Si0O-8qGZnHCAO6un3NtTQCDWUmv4CATLbCQy2ubGNDv20fb4Iggm-GRb1MBO27t6wzwduEwtewHvOIYvMf3bQYaIObwi-RwscrukRYFawYLKtj6JZUdzXE8qPkJcVuFT468gJiYGyyE-A6bJZGWJp40RpGgwp3Paz9D3XbDzLMZsgASoJdXMtZWFzdC0yMMgD.m3u8"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFW1ehmaZuNCQtXPM3Kovi5ixyBTA97rU5_xvyq5apgm4PS-wizpY0I7jXz8pRA0JDhpa2NZRdnfWqHnkrXnNGh5MjIkjxwmRdyKeQiFx5QVMn-za6EU6wmC2P8sY2Z0lgBLfvl1Bj9wDLbeHm7p99cib-xZMZbnU_caAQPAOXR3jwBjxBGfvX5-BfSpYpImwuO5jstCVGEVKHVh0U9r6D64bVorZU42HnYSQz8EwuxlkGTuDSgTDVyg1JyAUuo54gkVgnZ1PtSFKhDCH4GIpTFZEoffQyGHB8NgGnhBnJwIZlCl6V17zj4eATyouPXFqrlkTl2Ux_yM2-w61LHC1iaKzcg1UPUj0fEQCgU2gvrS8RUcjcpb6Rof4z1W3-o-8G2WEKqweyQ3m-jHFQg3w0dgRgwfjGACQS6QHKevIwNjiHH7cz99_YjHPvVnD1nRDeFK_91hGtcSvQKxCSBk1UHX3HeldbG0_BBjiKTP31eACoOYUwIt8uly4kygK6F-hrtEpQuVPnmz2x1mybtbEhSYqi6F3lOmipKTytVFs8dkBUn955JeZvSJugatcEK2GH3QgRw2byRJ9bbyrKKZBk9MjPFJiWmDxHul41hOZeTHwC7BFgR93hvYHFjlM_Eb48gjgRRQ6-mjfDWIiFNZ_jLLb9HmPil9L5Vcu9gpJ1t373SK7mkK37JfHcKcPF5glzxyo1skI_iO9HnBVJeIs0ABl2M7uQN_m16i3u_IfEZaeZNESlcqoFC7kHNqOighy_aMO7O7FJLhphje3qqGczp86FFx_HZWqaqQRDVdXDLRm4dV-glZde35J08_R04-xPHcq0uS51Yr0upRNwXC7fXJNsFKOimQGxRaRIaDcqUTAtb2FDGgwPycPXVrShZagNJzEgASoJdXMtZWFzdC0yMMgD.m3u8"
+                },
+                {
+                    "type": "BT sports FHD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpYFpgszYCfK1Ur6H-BWwY96EA5Xo6lhQQoK-d-fTqaj-cqSsoLas3dgqWoyajmshMqP6JdFvROGmAeXNhmdUPiliHaVHxxtn2uNCksDvLHzn2Z2vwYMB8OjyhytyZWhxLtBwRCHZ1tHzSoIEU5CTTggSmeGtmBx8YU0CeMQk6-CRI1CKgYHbYAmrgJzC4XKRT5lnI7BbCLrKkKXai3kP_JcWP_Z8I_yHa7zWxGk3z83zftMzNzkn1lDkVPe-QimK7xHhasR4Z9uJCmYb8XUbdXwdWjqMHXpEiYaFQF4tZeRL5W6zwPpjBJbTJ43J6NLjvMqz4oqdglADoJiH94LXy4KsiJEa6-Nrku71Tktf6mEafRgOT5etVTPu-VSWUiHCAMlkEtzwVJQyih1jesVSde-3a_nPyG85nWpoZNQMXUjkIJaNEX0L110-_IuPT2vajmwUS0NbQ8RIkKds-oaQuSiGkZscKFxwvvknTaqSwoJeKqRfZfnEqoALBTYJh_vqWtSQphn-HESkuQRuBBDkPuDJ7u3pQHI-G4EIvz60omqnwBOoNblgOdW5Rk_-EyX73EOY21ZGdwK5ziZfkPb-QnVV82Jg5lPRKg5FmdWzU0I249vqbeTzL57wiXQXlPmqI9Loop5765hUuVqYYAnCuVIgh2cLCG4G9uyGVTnTMsyjwhqaa3rEaagKYe0aVOy4MxOzxgRUd7_BM3fLJgcyFrCLxgUHjcg7F3XO20YAJ8hOjWD3zp9wUzYAxU4Nv8aZJ9D8ZGgvxIWsFTQTAuJroK3qIum2T30LrCpl7SHhyZpdCIALMwkplRWb8sO6Vy-hfezZLe1KtAWIY3vtO8eJ8H7fsZVhx-vNYgGNhB_R18rWEaZ3ANSrxIaDIV1RRhE6wo_i3c86yABKgl1cy1lYXN0LTIwyAM.m3u8"
+                },
                 
                 {
                     "type": "720 SD",
