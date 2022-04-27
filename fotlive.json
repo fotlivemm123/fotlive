@@ -13,7 +13,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFxv1fnb7kiAPmnz8EfxmesmYXAsnsezDZAI73uYiu5PjOQwDEI-1hTNt6WI8xqJQIQEy384nHYB7ufGdWVaoZlnQykPH_yo6qp7oXjp5oRD_0Vu4t-FTDaTevsv37Hqq0188d4QnaEP-tELYt_ZWlhlbi88o99W6r320zFpcmIJyGftDdJ3u5Pt4uS_xr5_eZQBV9J9FFIvlAXandPdXUVMZalQRvHJh49maOC8Wyltj3Jnm8qsPbNxPPxbzAzOEeEzT33WvElvs-iCpdBhIOoQjFbLEljjBZSRpScNdiLSYJjtSSZoh66YJn0q5__WR2isXhYfHP_FtyJpbwt3UpGHm-ZSKTjRrFt1yx5A-v4DGE1vzDy4c8LVBmCJQposypx-Y44mavceiKmKZ78z7-wIAHBdcOPXLxU6BjA35L3ACM9aaVQCrBPBAG-6lAhItJjsqv6PwC-jiVvrD3XnPtZ4je5fM2C-_VTXXuMpMiV1e9Pc9daDGTgmMfGeYEn97IbLAODftC1ICxp6qbeDbYJEaqAoqUEefoXLNeuXmqIUzbCe7lK7qyyXVASwVbGAzUHeu2nNjMifw0fX_GDyDfXZ2DPkkQX8YmItCeB_A4mrNA71M4K8wklvJ5Qcxsh7b7W06B9oqUhTDHfxReVWbGVwzfjqS3f9Hf9LGoUSNl_j-C4xBNRfVajbjDLAsLaeLW53cysaljoaa4sP8sR5xUB8EnC6g9dAtM6ycRUdwGyt2gp0bMsXy_sVRsrZ-JFwct-5dE7pZe0fdB0XmZEK8WMzKYdJlTn6qakRNoe6UL5oysSTPPT01R0tB8EU_prqAi-NqnlbU1VSTv6wTeSGBfOhPztyeZsBzQ8kz6owPdkyDbAsbwGgxMoqW3va8bcbuZyVMgASoJdXMtd2VzdC0yMMoD.m3u8"
     },
                 {
                     "type": "360 SD",
@@ -21,8 +21,8 @@
                 },
                 {
                     "type": "720 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQFdRsUFEcm0wuJ_dhC8ngUGOMPlFoc7tkUV6os9-q4FrdEKrIebuX458FwYlvD02pRP6NIh2IA1rlw21KhmRON0befLeZDu5n_gCd_oHzeflte3ekJ5DMSsQR6lWA29uvIPWrMKEHShEoyWm7yp5LZO-RriNMfoQms21a6aC1oGgy-qau-g94c13YUXsON5ZeT-wxzQT2h86gQRfEHVkxm_InAHiER0x7m7V7YQpDIe7L3BU7UEfpiDGcFIbmkFgihpbSpSNabX3Hau0dZCm87Xz8LhtlAEtdtal7VJU08Qo5BQxzFAY2j790ox7SlD-6J8VqI4CSQUBSbk_OjPJWaWOynKTJeCeBVO3toLn9as-OBagjh7_n61Eh1O0qmuguWHkBwrQ52x2rTBpX2PPAGFPMV81KWsGNIdf7JleGPD3JhgSoSmTjfq0Sx0mfJFxQAFEzXwsFpzEVPDrTdYDtvYMZHoJmky7E36j0iOJ_Oi02s5FDO616LqaqXRZshJUPTwFlq8U1gZwVwmlK9Hz8xkhOvoFoUbdoJa_c4F_RnYvsL46EP5loFNvuFIOfTjP2I0mXHlcuXKgpEw_tjbNWVslPCLnUErlenBvuLVU-cT4fu5XG7mcv-6-UU0Qh8Wx51r2Kb7LWUgx_RAy4t4KFk5zBUdPZgyfbt6mFz8nNtGawqCey8E62xr-4uwJS_CtcBfwNFA8_Wn8wG7tBlShiQrI3dyaa717JBDck43TE6VXftNJuOZbH-OFTFVcijTR9W7jlh-1OimjYMevaNRPwaJcVTSulLc3Vqrkd-WZtukkbukPY1_-p0IwrO85BjT_w83xQxYv2d8jNVYdAMOxzJJCJ655u_AYvh4oZ71I6kPJvcrhb6GgwcT9mpv6wlgJm3AcEgASoJdXMtd2VzdC0yMMoD.m3u8"
+  },
 {
                     "type": "Laliga Campeones HD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Zg6ECmP3lXgea1Tk6m353jJNEqdE80051C_nDS7qjWtq20uNmOf1Bin_4xJh4g0Qud71I537QbKxnyc7fDUong/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
