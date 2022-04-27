@@ -32,7 +32,7 @@
      {
 "league": "Serie A",
             "date": "April 28",
-            "time": "(00:45)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
             "teams" : "Atalanta Vs Torino",
@@ -40,16 +40,10 @@
             "ateam" : "Torino",
             "link":[
                 {
-                    "type": "480 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 HD",
-                "livelink":"0"
-                },
-                {
+                    
+                
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1650270580-0-0-17538c7bccec7438ccdb9471e475778b"
                 }
             ]
          },
