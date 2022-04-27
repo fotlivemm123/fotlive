@@ -28,9 +28,9 @@
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Zg6ECmP3lXgea1Tk6m353jJNEqdE80051C_nDS7qjWtq20uNmOf1Bin_4xJh4g0Qud71I537QbKxnyc7fDUong/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
                 {
-                    "type": "BT SPORT FHD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpYF-s1oa1O-ZgWL4V-l8HhscMjDv9bhnaibg6yndCjkTpqvLGGo5S-klvE8laexHAxfb_1Y5uZIm_ltGPGd_sXXuvhaNsvLoihACGY481NZSje-jbz9TRRUDVHrUMRGdBKWd4VNOSLme7_i2lLzWgUFRcgzxw4O4eSvpkPDrDEsRjbiN7NYs09HjRY7DkzJuH7e0E02oO_sJwTQCGEnw5ji0873HK0-Zn1cmmmpzY4BtRS1l6NGDrNNo53IPvNKzs9YTpGNBFrqVviAVIhNU_PRhse9W1443YNhMGI59p3NSVpqDndaQe5Xo0GTCrZrn3gFnmrdnZFyzYEcsGgbgWpDygwuOkzvySApUtjgiXz3MVdlbfH-EKK_Lkr32AKw0vS1eD2cfGMgyMVv9pbnwE6dJkTZ_U02w1ziaJxMUiTct46HYGJ2zBNSO0j3EfoCCQlitsgvL2-PdNpHoNRcK0EIY0tz9X5-8JuGbFmh_iPkN80UcErvxRIeY-ecYJ62S6tixeytw79PpAY728g7CJ3nZ7I1eCz_J9OnYs24Ac9UyqIeS4F789-RIIVsfy3RjEShPFuURUqpgTztxPcsLatNrqVjmOXC40njoTmQuk5vVMJZIZoiED8m_gChBl4jdHe5Eg9gqn9ST5aRdDp3THFQXQdx2JQLr52ch0mXzEwcYGDB0Ib7QlkQ77N8qeOUGUeLvR8CAFpem6shPTGnciiVL4fpMqmxe8jVbq5pRSxO7uGb6kXYX1tSoxNIEvmT5-WjTBpeuAj18N7kWAgOu9acIr4a7Cu7E7CMUiRmZ_Hp_-7TZtwpEwpDm3LU4fJtYC63quQgD4FoCVEOfHr7lbuF5P5wDsa1KwByD8jbNlhRBAitdV8B6VkaDBDfTOQzGQP4ePAwKyABKgl1cy13ZXN0LTIwygM.m3u8"
-         },
+                    "type": "beIN sports",
+                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/FGWn-Z6BPrpnK1f6vmfRuOPXtDQV8uR22iHGWvvGMRNrHWmc_-GnTlTUi8XmKVBZgmr-OmAfYGUZHSMb0_m5fA/non_transcode/eu-central-1/periscope-replay-direct-live/dynamic_highlatency.m3u8?type=live"
+      },
                 {
                     "type": "VIETNUM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62698214d559fd001c01f13d/62698214d559fd001c01f13d.m3u8"
