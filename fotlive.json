@@ -11,6 +11,18 @@
             "hteam" : "Liverpool",
             "ateam" : "Villarreal",
             "link":[
+  {
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "360 SD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "760 HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/7_K-z6HP4M32lytCLgsx3bZoUDKe22VcWk1ystcgTmq_WeYE3rx0k13-iYr02vSV4bwW1J3TnfkS2k08XbwK0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
                 {
                     "type": "VIETNUM SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
