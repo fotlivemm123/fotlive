@@ -1,150 +1,78 @@
 
 [
 
-  {
-"league": "Premier League",
-            "date": "Ended",
-            "time": "Ended 1-1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-            "teams" : "Man U Vs Chelsea",
-            "hteam" : "Man U",
-            "ateam" : "Chelsea",
+ {
+"league": "Ligue 1",
+            "date": "April 30",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+            "teams" : "Strasbourg Vs PSG",
+            "hteam" : "Strasbourg",
+            "ateam" : "PSG",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Wv42xvR8cLn4MQc0q36TFlROCxqLbdLjdMLB30yRh3dGtqu-0jftlCXBA4qmhJNGYmfEJEyHzoDkNlAZXOr33A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
-                    "type": "360 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Wv42xvR8cLn4MQc0q36TFlROCxqLbdLjdMLB30yRh3dGtqu-0jftlCXBA4qmhJNGYmfEJEyHzoDkNlAZXOr33A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                    "type": "320 SD",
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Wv42xvR8cLn4MQc0q36TFlROCxqLbdLjdMLB30yRh3dGtqu-0jftlCXBA4qmhJNGYmfEJEyHzoDkNlAZXOr33A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-    {
-                    "type": "Main Event FHD",
-                "livelink":"http://d2cpkh467fronq.cloudfront.net/stream/NDA2Nw==/1080p.m3u8"
-                },
-{
-                    "type": "DIEMA Sports",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H376664.m3u8?txSecret=d8fbe30e8061412673897c5664508a45&txTime=626C2206&_s=stream"
-                },
-{
-                    "type": "SKY Sports FHD",
-                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658"
-   },
-                {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "VIETNUM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/626ad18f86430c001c9a6fef/626ad18f86430c001c9a6fef.m3u8"
+                "livelink":"0"
                 }
             ]
          },
-
-{
-"league": "Europa League Semi-Final",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "ENDED",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548.png",
-            "teams" : "RB Leipzig Vs Rangers",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Rangers",
+     {
+"league": "Laliga",
+            "date": "April 30",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
+            "teams" : "Sevilla Vs Cadiz",
+            "hteam" : "Sevilla",
+            "ateam" : "Cadiz",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Tr0xqsxz3GS8K0aPaXLxZzeFrwjXs8ii_QtID7cLJVwM8PAk1a7I_O1eQjH_ZYXbNbZBXS67JZx2uLq5eQtWjw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
- },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Tr0xqsxz3GS8K0aPaXLxZzeFrwjXs8ii_QtID7cLJVwM8PAk1a7I_O1eQjH_ZYXbNbZBXS67JZx2uLq5eQtWjw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-   },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Tr0xqsxz3GS8K0aPaXLxZzeFrwjXs8ii_QtID7cLJVwM8PAk1a7I_O1eQjH_ZYXbNbZBXS67JZx2uLq5eQtWjw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-  }
-            ]
-         },
-
-{
-"league": "Europa League Semi-Final",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
-            "teams" : "West Ham Vs Frankfurt",
-            "hteam" : "West Ham",
-            "ateam" : "Frankfurt",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/wf3D-FORGhn0ytdgyaNWB4FzrfqCXixhuulOJy-C8AQHZutUNW9bh2Xp9gSGjucJCavSBNtlCD_wBN9AgwhONA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/wf3D-FORGhn0ytdgyaNWB4FzrfqCXixhuulOJy-C8AQHZutUNW9bh2Xp9gSGjucJCavSBNtlCD_wBN9AgwhONA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/wf3D-FORGhn0ytdgyaNWB4FzrfqCXixhuulOJy-C8AQHZutUNW9bh2Xp9gSGjucJCavSBNtlCD_wBN9AgwhONA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          },
-
-{
-"league": "Europa Conf Semi-Final",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-            "teams" : "Feyenoord Vs Marseille",
-            "hteam" : "Feyenoord",
-            "ateam" : "Marseille",
+     {
+"league": "Bundesliga",
+            "date": "April 30",
+            "time": "(1:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8357.png",
+            "teams" : "Union Vs Greuther",
+            "hteam" : "Union",
+            "ateam" : "Greuther",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/2gcC33WTVJ6E_i1ThL4p_zjV5JYIDrAT_6eiGdNJV_sEDoriUaAsllhfQQZrquZyTyjMoSNSD8mVTAFD4LWgnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/2gcC33WTVJ6E_i1ThL4p_zjV5JYIDrAT_6eiGdNJV_sEDoriUaAsllhfQQZrquZyTyjMoSNSD8mVTAFD4LWgnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/2gcC33WTVJ6E_i1ThL4p_zjV5JYIDrAT_6eiGdNJV_sEDoriUaAsllhfQQZrquZyTyjMoSNSD8mVTAFD4LWgnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Europa Conf Semi-Final",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
-            "teams" : "Leicester Vs Roma",
-            "hteam" : "Leicester",
-            "ateam" : "Roma",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/fnOEYEtl9sb2xd5o-F7sLVfYm1x2elHyyBZOn0FtokNxNBAQizgQzgqw-EmwjXiUU3CnsZkn0wAoy9qrTdlTcA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/fnOEYEtl9sb2xd5o-F7sLVfYm1x2elHyyBZOn0FtokNxNBAQizgQzgqw-EmwjXiUU3CnsZkn0wAoy9qrTdlTcA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/fnOEYEtl9sb2xd5o-F7sLVfYm1x2elHyyBZOn0FtokNxNBAQizgQzgqw-EmwjXiUU3CnsZkn0wAoy9qrTdlTcA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          }
-
+     
    
 ]
