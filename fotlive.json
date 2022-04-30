@@ -2,46 +2,6 @@
 [
 
 {
-"league": "Premier League",
-            "date": "ENDED",
-            "time": "ENDED 0-1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Newcastle Vs Liverpool",
-            "hteam" : "Newcastle",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "BT sports FHD",
-                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDA4MQ==/1080p.m3u8"
-                },
-{
-                    "type": "beIN Sports  HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/626d149386430c001c9a7081/626d149386430c001c9a7081.m3u8"
-                }
-            ]
-         },
-{
            "league": "SERIE A",
             "date": "Vpnသုံးကြည့်ပေးပါ",
             "time": "live",
@@ -141,32 +101,33 @@
      
      {
 "league": "Premier League",
-            "date": "April 30",
-            "time": "(8:30)PM",
+            "date": "VPNသုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
             "teams" : "Aston Villa Vs Norwich",
             "hteam" : "Aston Villa",
             "ateam" : "Norwich",
             "link":[
+                
                 {
+                    "type": "720 HD",
+                "livelink":"https://d3ey87gv7ph93m.cloudfront.net/hls/sknet2/index.m3u8"
+                },
+{
                     "type": "480 SD",
                 "livelink":"0"
                 },
                 {
                     "type": "320 SD",
                 "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
                 }
             ]
          },
      {
 "league": "Premier League",
-            "date": "April 30",
-            "time": "(8:30)PM",
+            "date": "VPN သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
             "teams" : "Southampton Vs Crystal Palace",
@@ -175,22 +136,22 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
      {
 "league": "Premier League",
-            "date": "April 30",
-            "time": "(8:30)PM",
+            "date": "VPNသုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
             "teams" : "Watford Vs Burnley",
@@ -199,22 +160,22 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
      {
 "league": "Premier League",
-            "date": "April 30",
-            "time": "(8:30)PM",
+            "date": "Vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "teams" : "Wolves Vs Brighton",
@@ -223,23 +184,16 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2"
                 }
+                
             ]
          },
 
 {
 "league": "Laliga",
-            "date": "April 30",
-            "time": "(8:45)PM",
+            "date": "Vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
             "teams" : "Real Madrid Vs Espanyol",
@@ -248,7 +202,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7"
                 },
                 {
                     "type": "320 SD",
