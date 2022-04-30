@@ -3,64 +3,13 @@
 
      {
 "league": "Premier League",
-            "date": "April 30",
-            "time": "(11:00)PM",
+            "date": "Vpn သုံးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "teams" : "Leeds Vs Man City",
             "hteam" : "Leeds",
             "ateam" : "Man City",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
-
-     
-     {
-"league": "Premier League",
-            "date": "VPNသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
-            "teams" : "Aston Villa Vs Norwich",
-            "hteam" : "Aston Villa",
-            "ateam" : "Norwich",
-            "link":[
-                
-                {
-                    "type": "720 HD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H376356.m3u8?txSecret=f2d02f5f38b991b4ce2c241aeadc98fb&txTime=626E4423&_s=stream"
-                },
-{
-                    "type": "CCTV",
-                "livelink":"https://livehdl2.ltjuq.top/ofmatch/HD362851.flv"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "VPN သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-            "teams" : "Southampton Vs Crystal Palace",
-            "hteam" : "Southampton",
-            "ateam" : "Crystal Palace",
             "link":[
                 {
                     "type": "480 SD",
@@ -76,73 +25,10 @@
                 }
             ]
          },
-     {
-"league": "Premier League",
-            "date": "VPNသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-            "teams" : "Watford Vs Burnley",
-            "hteam" : "Watford",
-            "ateam" : "Burnley",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-            "teams" : "Wolves Vs Brighton",
-            "hteam" : "Wolves",
-            "ateam" : "Brighton",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2"
-                }
-                
-            ]
-         },
 
-{
-"league": "Laliga",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-            "teams" : "Real Madrid Vs Espanyol",
-            "hteam" : "Real Madrid",
-            "ateam" : "Espanyol",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8"
-              
-                }
-            ]
-         },
+     
+     
+
      {
 "league": "Ligue 1",
             "date": "April 30",
@@ -185,8 +71,8 @@
      
      {
 "league": "Laliga",
-            "date": "April 30",
-            "time": "(11:00)PM",
+            "date": "Vpn သုံးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png",
             "teams" : "Valencia Vs Levantine",
@@ -195,15 +81,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/lQbyV9jWKjPq5Xx718fqy-2gJO93bFoUa8IAMN4XRXZRG5BSQGOsh8tmnv8rEyHDgJRdm643P0o00mFtAdzLEA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/lQbyV9jWKjPq5Xx718fqy-2gJO93bFoUa8IAMN4XRXZRG5BSQGOsh8tmnv8rEyHDgJRdm643P0o00mFtAdzLEA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/lQbyV9jWKjPq5Xx718fqy-2gJO93bFoUa8IAMN4XRXZRG5BSQGOsh8tmnv8rEyHDgJRdm643P0o00mFtAdzLEA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
