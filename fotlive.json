@@ -68,13 +68,17 @@
 {
 "league": "Laliga",
             "date": "April 30",
-            "time": "(6:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
             "teams" : "Deportivo Vs Villarreal",
             "hteam" : "Deportivo",
             "ateam" : "Villarreal",
             "link":[
+  {
+                    "type": "VIETNUM SD",
+                "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8"
+                },
                 {
                     "type": "480 SD",
                 "livelink":"0"
@@ -86,6 +90,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"0"
+                },
+   {
+                    "type": "VIETNUM SD",
+                "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8"
                 }
             ]
          },
