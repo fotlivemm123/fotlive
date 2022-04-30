@@ -162,8 +162,8 @@
          },
      {
 "league": "Serie A",
-            "date": "April 30",
-            "time": "(10:30)PM",
+            "date": "Vpn ချိတ်ပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
             "teams" : "Sampdoria Vs Genoa",
@@ -172,16 +172,13 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/152.m3u8?md5=hQ4URaZcjr7TIlZR4c8aew&expires=1651337958"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "CCTV HD",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H378262.m3u8?txSecret=6a961239b9ad337a0a70e9fc83044054&txTime=626E4423&_s=stream"
                 }
+             
             ]
          },
     
