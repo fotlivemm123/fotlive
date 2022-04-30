@@ -146,24 +146,17 @@
      {
 "league": "Ligue 1",
             "date": "April 30",
-            "time": "(9:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
             "teams" : "Lens Vs Nantes",
             "hteam" : "Lens",
             "ateam" : "Nantes",
             "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDA5OA==/1080p.m3u8"
                 }
             ]
          },
