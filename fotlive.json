@@ -110,6 +110,19 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UH8dOHFRg-Cz28YpdImn0fHG8HwjbkNdpSgnD7025Gi86hfaqRym6RoA1F4yJF0-IrHD847GglT3f21E_2XYJg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "CCTV",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H376360.m3u8?txSecret=bff46f5ebffe127aab5a4c6254febee8&txTime=626FA85F&_s=stream"
+             
+                },
+                {
+                    "type": "No Voice",
+                "livelink":"https://livehdl2.ltjuq.top/ofmatch/HD366199.flv"
+                },
+                {
+                    "type": "VIETNUM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/626e776f5a8895001ca8a774/626e776f5a8895001ca8a774.m3u8"
                 }
             ]
          },
@@ -187,30 +200,7 @@
             ]
          },
      
-     {
-"league": "Serie A",
-            "date": "May 1",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
-            "teams" : "Empoli Vs Torino",
-            "hteam" : "Empoli",
-            "ateam" : "Torino",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
    
      {
 "league": "Serie A",
