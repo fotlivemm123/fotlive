@@ -1,85 +1,133 @@
 
 [
-  
-   
-
-                    
-   
-
-{
-"league": "Laliga",
-            "date": "May 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
-            "teams" : "Barcellona Vs Mallorca",
-            "hteam" : "Barcellona",
-            "ateam" : "Mallorca",
+  {
+"league": "Premier League",
+            "date": "May 3",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "teams" : "Man U Vs Brentford",
+            "hteam" : "Man U",
+            "ateam" : "Brentford",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/0gON_swMcxe7V8opBtB8bChFxekqpon_kN-PHJMXp9CQsJUBYular7s1Dm1E0FEKO5vdhrq1ddeDl_ZiRjVNxg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/0gON_swMcxe7V8opBtB8bChFxekqpon_kN-PHJMXp9CQsJUBYular7s1Dm1E0FEKO5vdhrq1ddeDl_ZiRjVNxg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/0gON_swMcxe7V8opBtB8bChFxekqpon_kN-PHJMXp9CQsJUBYular7s1Dm1E0FEKO5vdhrq1ddeDl_ZiRjVNxg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          },
 
 {
-"league": "Ligue 1",
-            "date": "May 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-            "teams" : "Marseille Vs Lyon",
-            "hteam" : "Marseille",
-            "ateam" : "Lyon",
+"league": "Bundesliga",
+            "date": "May 3",
+            "time": "(1:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+            "teams" : "Leverkusen Vs Frankfurt",
+            "hteam" : "Leverkusen",
+            "ateam" : "Frankfurt",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3rZd13Qns2ONozl1YHhP2f2MLJNIvSMQ2qLqQxUaKyPe-B9Ku-23s2UDI0JX416b56S79uijk80UbH96S-Twqw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3rZd13Qns2ONozl1YHhP2f2MLJNIvSMQ2qLqQxUaKyPe-B9Ku-23s2UDI0JX416b56S79uijk80UbH96S-Twqw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3rZd13Qns2ONozl1YHhP2f2MLJNIvSMQ2qLqQxUaKyPe-B9Ku-23s2UDI0JX416b56S79uijk80UbH96S-Twqw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Bundesliga",
+            "date": "May 3",
+            "time": "(1:00)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+            "teams" : "M'gladbach Vs RB Leipzig",
+            "hteam" : "M'gladbach",
+            "ateam" : "RB Leipzig",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Laliga",
+            "date": "May 3",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+            "teams" : "Getafe Vs Real Betis",
+            "hteam" : "Getafe",
+            "ateam" : "Real Betis",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
                 }
             ]
          },
 
 {
 "league": "Serie A",
-            "date": "May 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-            "teams" : "Roma Vs Bologna",
-            "hteam" : "Roma",
-            "ateam" : "Bologna",
+            "date": "May 3",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
+            "teams" : "Atalanta Vs Salernitana",
+            "hteam" : "Atalanta",
+            "ateam" : "Salernitana",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n3ScHHw_2LCLLBVr4FB5EpgRZmxKKz7wWZ_Qee2NCpvTQxJi2TTdEGDR7Xz5gfkto5SgDJvbYJvR1RUa7hHx7g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n3ScHHw_2LCLLBVr4FB5EpgRZmxKKz7wWZ_Qee2NCpvTQxJi2TTdEGDR7Xz5gfkto5SgDJvbYJvR1RUa7hHx7g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n3ScHHw_2LCLLBVr4FB5EpgRZmxKKz7wWZ_Qee2NCpvTQxJi2TTdEGDR7Xz5gfkto5SgDJvbYJvR1RUa7hHx7g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          }
+   
+
+                    
+   
 
        
    
