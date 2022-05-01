@@ -2,15 +2,17 @@
 [
   
    
-    {
+
+                    
+     {
 "league": "Premier League",
             "date": "Vpn သုံးပေးပါ",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-            "teams" : "Everton Vs Chelsea",
-            "hteam" : "Everton",
-            "ateam" : "Chelsea",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "West Ham Vs Arsenal",
+            "hteam" : "West Ham",
+            "ateam" : "Arsenal",
             "link":[
                 {
                     "type": "480 SD",
@@ -23,131 +25,6 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/btd6So_jbXwOkZdQ8imCXDwFo-enV43dtqzRNoyuNo8WkvX5vtOV1LNt4KlOlwpKqykhvRw7PE-SjcYi0sSQ3g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H376361.m3u8?txSecret=1ee834d6007c83f983e9798241bda8a3&txTime=626FA85F&_s=stream"
-                },
-                {
-                    "type": "Thai FHD",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H376361.m3u8?txSecret=1ee834d6007c83f983e9798241bda8a3&txTime=626FA85F&_s=stream"
-                },
-                {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-{
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/626e7c0401c217001cc896e1/626e7c0401c217001cc896e1.m3u8"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-            "teams" : "Tottenham Vs Leicester",
-            "hteam" : "Tottenham",
-            "ateam" : "Leicester",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UH8dOHFRg-Cz28YpdImn0fHG8HwjbkNdpSgnD7025Gi86hfaqRym6RoA1F4yJF0-IrHD847GglT3f21E_2XYJg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UH8dOHFRg-Cz28YpdImn0fHG8HwjbkNdpSgnD7025Gi86hfaqRym6RoA1F4yJF0-IrHD847GglT3f21E_2XYJg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UH8dOHFRg-Cz28YpdImn0fHG8HwjbkNdpSgnD7025Gi86hfaqRym6RoA1F4yJF0-IrHD847GglT3f21E_2XYJg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "CCTV",
-                "livelink":"https://hll.hnzzdf.com.cn/live/H376360.m3u8?txSecret=bff46f5ebffe127aab5a4c6254febee8&txTime=626FA85F&_s=stream"
-             
-                },
-                {
-                    "type": "VIETNAM SD",
-                "livelink":"https://livehdl2.ltjuq.top/ofmatch/HD366199.flv"
-                },
-                {
-                    "type": "VIETNUM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/626e776f5a8895001ca8a774/626e776f5a8895001ca8a774.m3u8"
-                }
-            ]
-         },
-{
-"league": "Serie A",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-            "teams" : "AC Milan Vs Fiorentina",
-            "hteam" : "AC Milan",
-            "ateam" : "Fiorentina",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n5Mp-h7ASHcvTQIkBsVVAHegzPG5UdmvlEw8cb7fnIFs5GG9lMTZkew75c-cZtwLiBNLrNjcpB6QsTEtZoBohw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n5Mp-h7ASHcvTQIkBsVVAHegzPG5UdmvlEw8cb7fnIFs5GG9lMTZkew75c-cZtwLiBNLrNjcpB6QsTEtZoBohw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/n5Mp-h7ASHcvTQIkBsVVAHegzPG5UdmvlEw8cb7fnIFs5GG9lMTZkew75c-cZtwLiBNLrNjcpB6QsTEtZoBohw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-{
-"league": "Laliga",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
-            "teams" : "Elche Vs Osasuna",
-            "hteam" : "Elche",
-            "ateam" : "Osasuna",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/OH57P-6yIDo0KPnUAu7TiCso3baB9L1eb8JVlZ0fOVaY9am-dtafM4LfGoN9GvyUr8VAq-xA68BiphQl01QHmw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/OH57P-6yIDo0KPnUAu7TiCso3baB9L1eb8JVlZ0fOVaY9am-dtafM4LfGoN9GvyUr8VAq-xA68BiphQl01QHmw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/OH57P-6yIDo0KPnUAu7TiCso3baB9L1eb8JVlZ0fOVaY9am-dtafM4LfGoN9GvyUr8VAq-xA68BiphQl01QHmw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "May 1",
-            "time": "(10:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-            "teams" : "West Ham Vs Arsenal",
-            "hteam" : "West Ham",
-            "ateam" : "Arsenal",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
                 }
             ]
          },
