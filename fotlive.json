@@ -1,30 +1,7 @@
 
 [
 
-{
-"league": "Championship",
-            "date": "Vpn သုံးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
-            "teams" : " Fulham Vs Luton Town",
-            "hteam" : "Fulham",
-            "ateam" : "Luton Town",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
+
      
   {
 "league": "Premier League",
@@ -53,33 +30,26 @@
 
 {
 "league": "Bundesliga",
-            "date": "May 3",
-            "time": "(1:00)AM",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
             "teams" : "Leverkusen Vs Frankfurt",
             "hteam" : "Leverkusen",
             "ateam" : "Frankfurt",
             "link":[
+                
                 {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "beIN Sports",
+                "livelink":"https://video-weaver.hou01.hls.ttvnw.net/v1/playlist/CpcEDdZ4ux9PtPbPvVJwd4P4CLlyV8ICLCxoQdBSmcM-F1_BJWoFq4gF6fJ3Y_uMKhTQwwcY7B9L-POiwuSZhxNYKY8gPxR-B_9EVQJvAmy7NW3vq_omsNTiv8eMB1l8-bOMGVRMCnFw6n7YUD9C1C8r1Ly8oE5gKxL_mmmCMbuOA2Rpkor_H-THLPQ6CBHE8Jt1qUrimblVdbhmiJ8BTf680DE6ZiVhOp6L8b10-pHh2IyB0Fc4rTTsQ6Hr3LyRMDK8CbLrNHArzgAe_50P6yllrPFDCk3zP0v9xO5SLzNJAu0gOs3y__5xGIGKfaBmFnSqVyNJVaHkZZqTGeyqtRCHv8MgpbvwjE209dzYDJof_rerD0WiIoJ8urTCXfaoQwFpNap6Odv_B1nVDG-rOOVYk2fQXAN0chiFd5ayAAOLNOQkJtLcki9lw2sPgr7fl5PSKUsEeLMDKsnhiZrSu6B0lcKvmf7sDIjBSIpvUkrYxLw0NObETE2PEFTEfOlUJ90neeUnhT81eG35vskZexuX6P4FZFQjCT1zB01GxC9LT535va1wpScYYSZRsnsAAM4OxKWuUKMTi4JKj3JbMjyM8VNTulxhJGvAHH7oLc3oM8BoMLeJoUtQESm1bs2f-cfj8HT25pIABSnfMp7sPU6swxkIp4PG_yRm1ospHfZ9I_f99KlTzoMUoibBRTrzqSPfYlCjgMIZbhoM4hBfoOTRDpyHsH7lIAEqCWV1LXdlc3QtMjDPAw.m3u8"
                 }
             ]
          },
 
 {
 "league": "Bundesliga",
-            "date": "May 3",
-            "time": "(1:00)AM",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
             "teams" : "M'gladbach Vs RB Leipzig",
@@ -88,15 +58,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/inyguoX5Q9ghrrZB_HtEc0aZHjFhWO1q-QPercjQVGz7YXDru0nIcdn4V3C7hunxhF1-hZoQcAFRrV0nSbxJIA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
