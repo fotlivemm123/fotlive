@@ -74,7 +74,7 @@
 {
 "league": "Laliga",
             "date": "May 3",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
             "teams" : "Getafe Vs Real Betis",
@@ -83,15 +83,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/lTRA15CsR_QWxpbHS5zuvzCTTG6VmLiclhQd2oUOs5orfxcko6zGhW-UeuU2WuFIXltfUXPYkvn56MoQoIBk0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/lTRA15CsR_QWxpbHS5zuvzCTTG6VmLiclhQd2oUOs5orfxcko6zGhW-UeuU2WuFIXltfUXPYkvn56MoQoIBk0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/lTRA15CsR_QWxpbHS5zuvzCTTG6VmLiclhQd2oUOs5orfxcko6zGhW-UeuU2WuFIXltfUXPYkvn56MoQoIBk0A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -99,7 +99,7 @@
 {
 "league": "Serie A",
             "date": "May 3",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
             "teams" : "Atalanta Vs Salernitana",
@@ -108,15 +108,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0nj0Uo_Lx3NwRJo8jiavKaWfaI0W4JYIgocX6sV3VskOZGjJAdCHrqdzU7_ihavYF6nJjZFk3Ntzmaett8nhbw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0nj0Uo_Lx3NwRJo8jiavKaWfaI0W4JYIgocX6sV3VskOZGjJAdCHrqdzU7_ihavYF6nJjZFk3Ntzmaett8nhbw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0nj0Uo_Lx3NwRJo8jiavKaWfaI0W4JYIgocX6sV3VskOZGjJAdCHrqdzU7_ihavYF6nJjZFk3Ntzmaett8nhbw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          }
