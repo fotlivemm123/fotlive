@@ -1,85 +1,29 @@
 [
 
 {
-"league": "Championship",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-            "teams" : "Bournemouth Vs Nottingham",
-            "hteam" : "Bournemouth",
-            "ateam" : "Nottingham",
+"league": "Champions League S-F",
+            "date": "May 5",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "teams" : "Real Madrid Vs Man City",
+            "hteam" : "Real Madrid",
+            "ateam" : "Man City",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/cJMlOVlQ_-i-ZEjAjACZlPbJi7BpOfKEEgoZftVkBJAhy0IMdWpv9QIKmFWs8dg5GJLSX63ALZixLH6J6FepKA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/cJMlOVlQ_-i-ZEjAjACZlPbJi7BpOfKEEgoZftVkBJAhy0IMdWpv9QIKmFWs8dg5GJLSX63ALZixLH6J6FepKA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/cJMlOVlQ_-i-ZEjAjACZlPbJi7BpOfKEEgoZftVkBJAhy0IMdWpv9QIKmFWs8dg5GJLSX63ALZixLH6J6FepKA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-{
-                    "type": "Liga Campeones",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/wPRhjPwVkgK6Dcd_kFoqamzLJDKNWN1xMojdxvfBB8FL2_l71Dr5Cfl6WBTdCmuKoCK8xygbVg-RltHD-igczA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "CANAL PLUS",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Spbl1b5Dvm_No72O6Yw4YjtibbRQIT6mBut57AxutED4iEeiAB2PdvQ7PbJkoXD-NjfuDgh4zD2BtIqYMwD2yg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
-         
             ]
-         },
-     {
-"league": "ဒေတာသမားတွေအတွက်",
-            "date": "Vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Villarreal Vs Liverpool",
-            "hteam" : "Villarreal",
-            "ateam" : "Liverpool",
-            "link":[
-     
-                
-                {
-                    "type": "CANAL PLUS",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Spbl1b5Dvm_No72O6Yw4YjtibbRQIT6mBut57AxutED4iEeiAB2PdvQ7PbJkoXD-NjfuDgh4zD2BtIqYMwD2yg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-    {
-                    "type": "VIETNUM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                }
-         
-            ]
-         },
-{
-"league": "Champions League S-F",
-            "date": "FHD လိုင်းတွေပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Villarreal Vs Liverpool",
-            "hteam" : "Villarreal",
-            "ateam" : "Liverpool",
-            "link":[
-{
-                    "type": "BT Sports FHD",
-                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDEzMg==/1080p.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62716fb001c217001cc897b1/62716fb001c217001cc897b1.m3u8"
-                },
-                {
-                    "type": "BEIN Sports FHD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQF5WEO2LUeOxLF9QLkoTg2052AkPWETY-j6K4LlYI14FcXs_Po9N-Md1oeMpwbQExK1qyasWQRu0GweG19GzxGQoyd76GhnndFcWWw3gecvs_p-XYc5qfSMBbfCxl8rnRYVhRtdW0Ne5iq73feTpSwFlCxISFD-MuPa7hgqlVJSg8VXHQIa02ehDvBcs3-Ch2dgIWNHTjg02Ja5vuEDjnH32bOybah4AU0I7gWGZ0UGtLmn9Hi1JHAMqQK1xd3UyOyH4WK3se9u74HIO96iGMdEJAU0t2FJAABtgDLK0THligoavCg3zhAhEQrgtCezFyiKIBMRKkjvznLI0xkg3HL13cC3UgiRlgI9TyDA3WIR-nOGT_1MBp0N-lpzcGx9suPFdUhNHFVA3P2wycSNlupWiNFYiiix1yELix7Szgz27D2LK75lxOdHetqjNmikaRpNsoOyVYP6CLCBID4M4frZgmtqXQbl4sKvGIsF2Vb740tQSmUhT7H1fpBx6J8_2FA0p7eIF4lnINYCJQDVAMTZ2zHD8E4n_CdLLSFokJSf-ePNpChJ_nggi9A0xPwl9sOhc0tr5vIYqp5LgFGNOxOpWVm-rXLKq5qmwmRdJhXZbFUgFRnVYkuxuyMHRSk0X39ZErn0UHCK-fuCDuu67b2CVqj69wBIMZaSw4CJTvpPoNXZlZ6Yp4NNf83USZUf7ekbgDjHkz2RfIbuRPvvD-Mlmja-vBypSVM93iRqAtXQcqgtEW7TznDGhzec8I63nEnO4nOZw_u98cg7b0NH_nSc6lPDHhEwU0e1_BTki0KdizS4kzNSsxMl2oKOtMJ5argp5e16vAv5wvdm7AZLTuSW5UOFct0rH-KcivqndUu34Wgc1D4Ggw8xxCEBvtocQM_wCEgASoJdXMtZWFzdC0yMM4D.m3u8"
-          }
-       ]
-    }
-     
+         }
+
 
 ]
