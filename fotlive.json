@@ -43,6 +43,10 @@
             "hteam" : "Villarreal",
             "ateam" : "Liverpool",
             "link":[
+     {
+                    "type": "BEIN SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpIFFJnPvSJSsTl6e4OQQkBGA04lSHwixRXJUv_MtT8n92H3hlkFFZXW-fh6oHYrldaxC4nclB7eVfxMyTB9R-r3TG1nAqrUvzGXgCfsWCf7YfaKEAA96u0pDczKLyMn_kADiksy8eaoRYNs6CpLS9MubwpkfOkuIJUBTGZhOpo0WGPYTtkvsLknbMpZs1jSv9GysLf7L21FX8xeoirgTgeRDjhzz2UXGhSgiQjbXKt9-p8t-DXdO2rtwML3P_ReCKJ2QOLkwtn2R9ZEyemUwrPpx0V16RYOQ3Z67uTJJMZ859Kz1zJ6_JKPtOxVvmKkFAOt4t-_I5XGGe4m3E0fn1ZUFtohl0KW5MZNhFvJcjhbnqp7pxX1_87SxRk_gBbPgmP_IkBugNv7hqmDuDydIOcm31qt9Ywkb3o6ZvgvtaA0op7OETWd5gWZ4ccLSNaWWwSAN7xgBWFaQEwL-Ukm9f43JKuWtl-yDEvLTQs0ZRjqjgD6UL7agtGNl7RErYUshjzo0V4ZV290bVnVlFH_XVYUhbZeRKxMtrtnU_DcZU66y7xdX4iCAfuMSJlJFKzbRgKkJ4Qqb73zLfTECci_nQbKshGKYCWA23_X_oK8urhcDYPcKA4BsV3_BmUplIbxnZToDjhoHq6ealv6cqJtmKeWjgBqmXxooTfHCxE_M43TD80yKv6mJ21-XvFIF0UzdG9JTR-mcqjE_AUlN-rsjISxVuaqeenYY4zxwdfMyYDOeMWWMhdkaYq4L0w8zX8iPIYCDWJrD4vQVG4uFoZAHgJvoT0kW5DA9gRwSxjpFyYiA2s0YvrhoAFbtBYb--63NbajOtg1xjw9I3473FYWUDE7NPtMvmDBLe4OHzMG0-5csGV5FRoMLuHAX7sVQWWhFIcPIAEqCXVzLWVhc3QtMjDOAw.m3u8"
+       },
                 {
                     "type": "480 SD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/11PmVZ7dNFByiQesxq0S65ixCo21rjdU7bn_fXFFxYk5VQTooH29uuUxU9XIgpijh92sRHJus9623HXV7bcPCw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
@@ -89,8 +93,8 @@
                 "livelink":"https://livestream.socialstreaming.tv/live/62716fb001c217001cc897b1/62716fb001c217001cc897b1.m3u8"
                 },
                 {
-                    "type": "S Sports",
-                "livelink":"https://covid19.t4m.xyz:2083/live/bn1/chunklist_w1413130119_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTYwNDc5OSZ3b3d6YXRva2VuaGFzaD1mMThiemFoSWlqRGFzdlRzQ0hGbW90Y1VTYUhQSU5Qa0UyVWJUZ0hKTHhqdTE4bk9QZU5UX2FBQWRaZ2d5U2d3UVRwYnFkQXJXaHFvZlI3RGxYZkR5dz09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1MTYwMjk5OQ==.m3u8?wowzatokenendtime=1651604799&wowzatokenhash=f18bzahIijDasvTsCHFmotcUSaHPINPkE2UbTgHJLxju18nOPeNT_aAAdZggySgwQTpbqdArWhqofR7DlXfDyw==&wowzatokenstarttime=1651602999"
+                    "type": "BEIN Sports FHD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpQF4GhATc3L1kdOxDZlO37h0jDN6OWD1ibpbqIJ_sfBv-sT0_k0RyD72t3k3FdU_28jVXjale7NmTAqX-ygsrHogX8sOBy-qHh7zfz9_JiEyKzm4CtYO46dI0rHWBqZfSB-N7QP8wpTgc1XgdeNZCEuxFAdquZdbOf_49wnxk_Rrr8UjXGfDPh711L0JUGAGBwjTPSpO6_luE8gMcHhDqauIXAwji2bN5n9M4Dv0Iv7Cz_DblnaHaC9pUykBDhjTxuLTvzjMxbpjWBpJl0GefxPXCzXtTjgNGxLK4J8HMA0S674_1cVi7ROGim41xS63juJSTF0H8UKXOYAYQj8qb9xLbzTphM77L-QnqxLHhP0DiQRF3vQxrTCFPdYLWEzoB-7bKfVhjG6eXPXzDWZ6AYS1LzADHVk74SEPOICB9fLaZFFrEd_wgdKAhy3cfoOEuQ9egENjFdfyas-YchahEbtLsWIFCPRrF9SDnpAsCdx9CeP4HoObE0mJsrFGAXITEVIrbR-7TQMVeso--KXWA1TufqM0iSFeTuWYEY5B9VhLK6MfoJtNTdIglrDoh2FvYbyxHs-sCy9yhIWyNCzIB3OpXH-zpWRBWy8pGpGh1tcPbW0EjS7k-L_QzkLpQS_EBarQ8QFBhAguUSpZbMFl91misiPTC_dd45VhSLv65yQoBdbHB6Uv4aYVl7RlUVpo5YoUgKWPGiUkhQyd-T6tIcJs1POtjkhHw9GqJVIt06zWYT6veXNJgeDG53ikUBfCH9FZVBJqNtvyXrXeS7eIhvZs_dQTZkmPx-a3ermviQp1XIDLPl-XZRaLUWP6HgFUgkBo08O25a4Pq0C84-7sLwJATHXKAIQ_ebzZhT6kE1xzfAO8cGbGgxBwXEwyZ-YMygfTDMgASoJdXMtZWFzdC0yMM4D.m3u8"
                 }
        ]
     }
