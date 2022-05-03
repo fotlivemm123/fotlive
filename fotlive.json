@@ -43,10 +43,7 @@
             "hteam" : "Villarreal",
             "ateam" : "Liverpool",
             "link":[
-     {
-                    "type": "BEIN SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpIFflquu36v3uUOe4bPGfd1HMpBDsNAprBOemNyol3utnpaE--vX1K7bE0eXn2pXiX6852SbIVlTYX-dkG7VTx9Un7aF1QFkyM9eQJF0sMjNrJgheZXg91NF80A_6lFvNni2OXIklkUYp3nsPzFN0jXTFgErTqDFQeu3-1fEQW8TNONF88lHVtHJHFEXxtq8aJKdhnhOJ4WCMz9OozLFRPbvobKsIm8nGpcaEsVv5wzAtakAuqhlStYHipfDPINTWVEwHn8AvkDX25cGL51UXLqMvxpZtgDYd5MtHBUfuOfcqSYyxDScLTdrebBPh3cn_gbfBRWLbz6dwgxz_rnTHOsW_nTvo9RTvNpcb24W1nLPjK6G4saxRq5Mbyjokq3KiGWZtVMBlI33ewz6pxE6h2b3i59R9k395at51oKUbY7O1rzu1lAEYyGhzRX7TVSBHO6Qz5K1DpRP7zt8b5kv1OGQjJ_Lj7kktm7yBgHVmqLM1QoiA9qCNtkv2tjQqCHBzka5TfEpx7dvHcy3KmBiJ_oP4UTPuk8EDK27XvMPQGrVYkkDA2BFv2atfHBVRFR8AcaUF6nOHxNUl1t06_fP31lG1K4y0WlUo7N5DWgn1qSEANGOXRkYnZyBj3HrSSdK-YjTVBKN4fBA8HhRH9w9dL2qF1QWohHO6eOyDNny_azPc9aEWoFT_P3U9R4bQsn_55_ICR5pWmkbCwvuwRFCorVjJqZrfjPdbHsm8oOcgezPWl0LTD0LVPo6pWzLEJpcyJtmBRw2ZwM3IJWpTnRQ58n1OlfyOQ23hUSCoO1AteUbO1JcvYhxh_IGjiA522HLCKJGKPzucVMWbJDq8LQbHtvuR1NMDHhchdyY8momCcO0405ZhoMmcqm_p0yviUvQ00AIAEqCXVzLWVhc3QtMjDOAw.m3u8"
-     },
+     
                 {
                     "type": "480 SD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/11PmVZ7dNFByiQesxq0S65ixCo21rjdU7bn_fXFFxYk5VQTooH29uuUxU9XIgpijh92sRHJus9623HXV7bcPCw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
