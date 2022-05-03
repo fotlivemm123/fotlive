@@ -34,7 +34,7 @@
             ]
          },
      {
-"league": "Champions League S-F",
+"league": "ဒေတာသမားတွေအတွက်",
             "date": "Vpn သုံးပေးပါ",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
@@ -62,10 +62,38 @@
                 {
                     "type": "CANAL PLUS",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Spbl1b5Dvm_No72O6Yw4YjtibbRQIT6mBut57AxutED4iEeiAB2PdvQ7PbJkoXD-NjfuDgh4zD2BtIqYMwD2yg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+    {
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
          
             ]
-         }
+         },
+{
+"league": "Champions League S-F",
+            "date": "FHD လိုင်းတွေပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Villarreal Vs Liverpool",
+            "hteam" : "Villarreal",
+            "ateam" : "Liverpool",
+            "link":[
+{
+                    "type": "BT Sports FHD",
+                "livelink":"http://d3fux4819m73bb.cloudfront.net/stream/NDEzMg==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62716fb001c217001cc897b1/62716fb001c217001cc897b1.m3u8"
+                },
+                {
+                    "type": "S Sports",
+                "livelink":"https://covid19.t4m.xyz:2083/live/bn1/chunklist_w1413130119_tkd293emF0b2tlbmVuZHRpbWU9MTY1MTYwNDc5OSZ3b3d6YXRva2VuaGFzaD1mMThiemFoSWlqRGFzdlRzQ0hGbW90Y1VTYUhQSU5Qa0UyVWJUZ0hKTHhqdTE4bk9QZU5UX2FBQWRaZ2d5U2d3UVRwYnFkQXJXaHFvZlI3RGxYZkR5dz09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1MTYwMjk5OQ==.m3u8?wowzatokenendtime=1651604799&wowzatokenhash=f18bzahIijDasvTsCHFmotcUSaHPINPkE2UbTgHJLxju18nOPeNT_aAAdZggySgwQTpbqdArWhqofR7DlXfDyw==&wowzatokenstarttime=1651602999"
+                }
+       ]
+    }
      
 
 ]
