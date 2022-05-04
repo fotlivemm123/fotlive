@@ -44,12 +44,12 @@
             "ateam" : "Man City",
             "link":[
                 {
-                    "type": "Liga Campeones HD",
+                    "type": "BT Sports FHD",
                 "livelink":"http://dtsfu8xo15mhy.cloudfront.net/stream/NDE0Ng==/1080p.m3u8"
        },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://bs.28assia.com/hls/84.m3u8?md5=4n3YpR1MNOBn276eNNSSyA&expires=1651693244"
                 },
                 {
                     "type": "VIETNAM FHD",
