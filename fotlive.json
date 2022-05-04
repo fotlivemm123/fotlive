@@ -34,9 +34,9 @@
 
 
 {
-"league": "Champions League S-F",
-            "date": "May 5",
-            "time": "(1:30)AM",
+"league": "FHD လိုင်းတွေပါ",
+            "date": "Vpnသုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "teams" : "Real Madrid Vs Man City",
@@ -45,7 +45,7 @@
             "link":[
                 {
                     "type": "Liga Campeones HD",
-                "livelink":""
+                "livelink":"http://dtsfu8xo15mhy.cloudfront.net/stream/NDE0Ng==/1080p.m3u8"
        },
                 {
                     "type": "320 SD",
