@@ -21,6 +21,10 @@
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/LM0IZeXWU1Ow93HSKpBJxIS_jMb5p0jXuhh9uOZhFRxRZmJx_dc6s1Cpj2gxlOadF38o1SLnUYMUrWXHX2zcOQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 },
+{
+                    "type": "BEIN Sports",
+                "livelink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1DIEIimJBjyszTTUQIHmVI6ZFFx8Hel5p9KcS5ET7RRUSSyOf-ZuaKmYvSmU8ZjzsNWGONEDMB-znwico4r49g/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
      {
                     "type": "VIETNAM SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
