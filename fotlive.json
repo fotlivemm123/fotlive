@@ -1,23 +1,6 @@
 [
 
 {
-"league": "Serie A",
-            "date": "FHD",
-            "time": "live",
-            "himg": "https://cdn.sportmonks.com/images/soccer/teams/31/7743.png",
-           "aimg": "https://cdn.sportmonks.com/images/soccer/teams/11/267.png",
-            "teams" : "Salernitana Vs Venezia",
-            "hteam" : "Salertinata",
-            "ateam" : "Venezia",
-            "link":[
-                
-                {
-                    "type": "720 HD",
-                "livelink":"http://d2tvucs557ov9o.cloudfront.net/stream/NDE3NA==/1080p.m3u8"
-                }
-            ]
-         },
-{
 "league": "Europa League S-F",
             "date": "May 6",
             "time": "(1:30)AM",
