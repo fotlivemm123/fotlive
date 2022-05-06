@@ -88,8 +88,8 @@
          },
      {
 "league": "Serie A",
-            "date": "May 7",
-            "time": "(1:30)AM",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
             "teams" : "Genoa Vs Juventus",
@@ -97,16 +97,13 @@
             "ateam" : "Juventus",
             "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
+                
                 {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62754a37686ac3001cffd876/62754a37686ac3001cffd876.m3u8"
                 }
             ]
          }
