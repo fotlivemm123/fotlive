@@ -3,7 +3,7 @@
 {
 "league": "Serie A",
             "date": "May 6",
-            "time": "(11:15)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
             "teams" : "Inter Vs Empoli",
@@ -11,16 +11,13 @@
             "ateam" : "Empoli",
             "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "VIETNUM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62754a37686ac3001cffd876/62754a37686ac3001cffd876.m3u8"
+                
                 }
             ]
          },
