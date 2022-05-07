@@ -48,6 +48,10 @@
                 {
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/627697c14f263e001c703494/627697c14f263e001c703494.m3u8"
+                },
+   {
+                    "type": "CCTV HD",
+                "livelink":"https://hll.hnzzdf.com.cn/live/H381821.m3u8?txSecret=7f4eac4ab0f9522c3cb71e9c77059b3b&txTime=62777901&_s=stream"
                 }
             ]
          },
