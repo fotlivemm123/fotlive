@@ -31,7 +31,10 @@
             "hteam" : "Mallorca",
             "ateam" : "Granada",
             "link":[
-                
+                              {
+                    "type": "HD",
+                "livelink":"https://srv05.varcdn.top/setanta1/tracks-v1a1/mono.m3u8"
+                },
                 {
                     "type": "720 HD",
                 "livelink":"https://bs.28assia.com/hls/148.m3u8?md5=5bsAv8t_mw1pgEHifMy7ZA&expires=1651929355"
