@@ -25,6 +25,31 @@
                 }
             ]
          },
+
+{
+"league": "Premier League",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "teams" : "Brighton Vs Man U",
+            "hteam" : "Brighton",
+            "ateam" : "Man U",
+            "link":[
+                {
+                    "type": "Sky sports FHD",
+                "livelink":"http://d2tvucs557ov9o.cloudfront.net/stream/NDIwNQ==/1080p.m3u8"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"http://d2tvucs557ov9o.cloudfront.net/stream/NDIwNw==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/627697c14f263e001c703494/627697c14f263e001c703494.m3u8"
+                }
+            ]
+         },
      
 
 
