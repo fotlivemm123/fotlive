@@ -41,6 +41,30 @@
                 }
             ]
          },
+     {
+"league": "Serie A",
+            "date": "vpnသုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+            "teams" : "Torino Vs Napoli",
+            "hteam" : "Torino",
+            "ateam" : "Napoli",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"https://bs.28assia.com/hls/80.m3u8?md5=2Yoq_QzTHA6ccXaSJMi1mA&expires=1651930291"
+                },
+                {
+                    "type": "Super Sport FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIxNA==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/6276620d653739001cbbf11e/6276620d653739001cbbf11e.m3u8"
+                }
+            ]
+         },
 
 {
 "league": "Premier League",
@@ -333,30 +357,7 @@
                 }
             ]
          },
-     {
-"league": "Serie A",
-            "date": "May 7",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-            "teams" : "Torino Vs Napoli",
-            "hteam" : "Torino",
-            "ateam" : "Napoli",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
      {
 "league": "Serie A",
             "date": "May 7",
