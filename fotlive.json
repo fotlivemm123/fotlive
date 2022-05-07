@@ -58,7 +58,7 @@
      {
 "league": "Bundesliga",
             "date": "May 7",
-            "time": "(11:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
             "teams" : "Hertha BSC Vs Mainz",
@@ -67,19 +67,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
- {
-                    "type": "BEIN Sport HD",
-                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+                "livelink":"https://hll.hnzzdf.com.cn/live/H159037.m3u8?txSecret=174b5cadebc044479fbcab91a8a9efac&txTime=62777901&_s=stream"
                 }
             ]
          },
@@ -88,31 +76,7 @@
      {
 "league": "Laliga",
             "date": "May 7",
-            "time": "(11:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
-            "teams" : "Cadiz Vs Elche",
-            "hteam" : "Cadiz",
-            "ateam" : "Elche",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
-     {
-"league": "Laliga",
-            "date": "May 7",
-            "time": "(11:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
             "teams" : "Celta Vigo Vs Deportivo",
@@ -121,15 +85,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMF6BUH5kCLo4LVWlNaZcSp3AI5q4JUAjLqVl5JTUPMXYnUOqYh09KKBXLQt-jvLCj8qfHdqXgjX8E2CcYH2BP18hfZE9DWyyEqdbzXFC3dDYyMS-gbuE0BQQJYr6NvhPO7qFXhR8VoZEvJaYTL3gTJqfbN8i2BdVmppRDLnBL6DXllEq3Js9giyYwjs-pV_vuoA2zqQTsUbt7fFNgdJUefzUvxlm2QNbS8XLWv7C-2evQ97C0dhSUA-_g4lGJT9ixD7QGO7syz71iFciqtlgZ_4qTcjMb3g-rJiynBGdobIAbSXk4Uh8aSxdUuqenVXscwVHdHaoibn4iv6SSUwQXagHPyvxkXS4p0IUQBoIRX31FfosGmJ7yTq4mQuW0fskoH3OvN-4soKU_UoVKPlgH_tItRdZlqnBMijmd87moJmSVYR1AT2hA_Lda7_aDfHiDRTLjtvnfhsTxGmXuBQ2su5KXgcQG5A37CMAzCOJzq2ZWCTpWYdca-khSwNDwdu2wKcq4NTYcJ7i2jUg01wnlHio4g5eqx6mlTKHlWUZBh6dsuo4mkh8MWoxcJyrwchNlnFh6YD0Gvy0gLBsltYMYG_p4pRCZwXfNggfozA9-1fJaPgvDhB_m3iYtU_CWsDKf4CbegYc5VEiM95aSwg0GU2mZwuyzejhrftEBD1RJW7Y3bzc0VHBPWFVJbRr6jgiAlrLzElgzWus_cT4buskXxgqh95gn2kmPuS7B3L4E8VgES3kLpzs-QwjS4GIKSjxaEoVOQTnnbf2fP2XWOpJfoFn-zBPKGU5AZjmDZ0C68pNBvRFJaG0hLsgNWsqiwpm_Sdq5FGebnD6ynCceC7S4n1G3vAAgvyM9PN-j4su4sKkfuqJ8aDLdoqeUm14isPt7uWyABKgl1cy13ZXN0LTIw0wM.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMFsI-WhZP4QN2RQRXOkGNWSvHGhLLeFSPftgfLSuCz4iOKicyH09oqbzv1Dxnm82rUvAyzwyONdMrgxDdph54KtPIiCckKrgPQxsAJxIJ6NnoYrQAgD0b-k31Qb4RA6jLq6ifsN0cpT9wEGFtGDSNBs8IIYxJZswZ6i4HUQXjCh0EjxF8pyk3dpFnghr1VSwQijl9-TcnbAalScI_nj8N9tTVha3SZIjIZmAI_ImBaQlW1H6cl6Ypd2Fb2d428fP1_TLR5WOXWFmaCpSfBSPW0UB5obfk8aV_5HenvR5Ox-YNZSY3a7HDz2zfq6PV7Uq-qM2pk8k_QWVxyG65tJcjofpx7ZISwlG1ZiPSn0-vaM4blpjwrguU6K3p0xH66xzrHpTZK4n9-VcgT0jWHRsdGRT2eTr-U_5E2jA82yC8RHpEQS8z-GmypwsWRmtqt76HI5FNrGJ9B7x_H3QPMRzhZWwFyp64xWHmt9GDCNjmbxuWexNgdMkDRx68qCOLuiyep8ehsokMRdIE4Y3Mb-lx_jYDDrcujn4si3b9QdQLRxa00ObrxFAZysZJbgT-IbEd1_QUrPNTchRBsADUNWiDwUGCYXQKXfpB7xrCcDeWDIfKW_8HduGlf_uJua3Jewb42-iK0gChp2E5GUgN3Fn5zxOwMYT8cc5hIsVtECZlEYBAT-UYKXWrfdzXtO3nqu561IZSrK_vZWVuGwJeICMfNIvBvk7Wn8xNUMe99bRq-2vPt19ZWOZbQXbBjnjgWBzgzCw67gWERycoJFuFd_7Ht_x6WJ36EYYjcUmA0c4w6-bEZYp2vQ1gb2VjON0T6XaVzTC_zy36VenIjLgPqtmjDaLsuICTzUDCuOPW7jJrdlQDuIPcaDEruNzYMJYjEAarVXCABKgl1cy13ZXN0LTIw0wM.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMFmiugAqyaWASKj4HLXUCvlWVW2GkXOnPxCFP0QWlIhV7BPbkszGHkvPNYaMXoOw789fkYXdam7oYjHehwZfVUSMw2kdfFXZCD1BG1tKyrwRUOHA69j3wW-iZ9XsEiaX7Y3UAyMHyJ_tdnaHgHdTA8hVTeFsGGudPRzHZzCgHKAhF0z-15JVtQKkJFJxe2DJ7NQlFAZH0JrbJAMbXpzEESioElT2fHvG05h6UpFjrX7f6mZhhEGg_9uIJg2OvuT7GkNLFOfk0JTMvu1Iy4t1ezzr6CtfSit_VVqJM__vREUAJHOV8ZUrl8Sd0d2CMpr2hsaCBFc7MsdEqMxLUjprd73okCQDcc5KEkUc7lLpsPolRDjTK0hrRlRi-vubwp9k9wG9lMY-DhZ9pwkjRMCJlyoCbUAujJLqit6K3fbXlQM7WlR_VqgIrWFasf8E5L2LI5Ua0WWRTJfgchA1iApPQRyZlxPJFntFrhuR82MThkVHPHCkajyoG1tivcNovwYDKv7iYGBv3uOgQVsF-PHW5vU--lAprYZpZQZTAYzDslF35xekO8TnlS0ZezFhlVLd-duHyJ3iFhH9NQ_EIBUtGPrhtsM-IwSN34G7MQUh0N1pCDCcQy5a_t9zOueMsxYspERxhBSF3GkEOPVptb7nA_HDSoW_pDp9mHPIRXgCCZkBw18PSb7DYSO8Edn-S3L1Kfvvpxp048fAIk4EvL-wLMEhKHs1dIMosEOGVbUvTl3ytfBFAIe9P0UdrUBi5c8QCWFO1XmvO438yyAsGfnJRzzEiqS2HnDqESzFYK17ROKOlvBZamNfbGS-RhsxBhacJYfQkHdCoNGG1i41y2oZb6klIV20SGc1FiET5mAJ1koR15t5oaDM7ap29zg7vvlILMqSABKgl1cy13ZXN0LTIw0wM.m3u8"
                 }
             ]
          },
