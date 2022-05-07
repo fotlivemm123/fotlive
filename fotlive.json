@@ -33,7 +33,7 @@
             "ateam" : "Wolves",
             "link":[
                 {
-                    "type": "480 SD",
+                    "type": "VIETNAM SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
@@ -45,8 +45,8 @@
                 "livelink":"https://livestream-2.socialstreaming.tv/live/627672b977bd30001c6966e1/627672b977bd30001c6966e1.m3u8"
             },
 {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                    "type": "480 SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/1vV9OBaZ_CB90Lz7TAEvTMxyxLkn0YcNqnmcxJoGSrpo1dKoIIKFguuSyNGhxlojI0a2DTmwKcWk7OLP-mchDQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
  }
             
          
@@ -220,30 +220,7 @@
             ]
          },
 
-     {
-"league": "Laliga",
-            "date": "May 7",
-            "time": "(8:45)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
-            "teams" : "Athletic Club Vs Valencia",
-            "hteam" : "Athletic Club",
-            "ateam" : "Valencia",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+     
      {
 "league": "Laliga",
             "date": "May 7",
