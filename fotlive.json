@@ -1,27 +1,6 @@
 [
 
-     {
-"league": "Serie A",
-            "date": "vpnသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-            "teams" : "Torino Vs Napoli",
-            "hteam" : "Torino",
-            "ateam" : "Napoli",
-            "link":[
-                
-                {
-                    "type": "Super Sport FHD",
-                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIxNA==/1080p.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/6276620d653739001cbbf11e/6276620d653739001cbbf11e.m3u8"
-                }
-            ]
-         },
-
+     
 {
 "league": "Premier League",
             "date": "vpn သုံးပေးပါ",
