@@ -190,8 +190,8 @@
 
 {
 "league": "Bundesliga",
-            "date": "May 7",
-            "time": "(8:00)PM",
+            "date": "Vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8357.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
             "teams" : "Greuther F Vs Dortmund",
@@ -199,23 +199,23 @@
             "ateam" : "Dortmund",
             "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "English HD",
+                "livelink":"https://bs.28assia.com/hls/74.m3u8?md5=kfZOhhcB2z9PHaZEa9Qx2w&expires=1651933047"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/627667beaea5b7001cc289f7/627667beaea5b7001cc289f7.m3u8"
                 }
             ]
          },
      {
 "league": "Bundesliga",
-            "date": "May 7",
-            "time": "(8:00)PM",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
             "teams" : "Hoffenheim Vs Leverkusen",
@@ -224,16 +224,9 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/76.m3u8?md5=5Gz4Ho7l2nYo0BF3TP3B-A&expires=1651933197"
                 }
+                
             ]
          },
      {
