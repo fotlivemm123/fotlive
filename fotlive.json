@@ -11,7 +11,15 @@
             "hteam" : "Liverpool",
             "ateam" : "Tottenham",
             "link":[
+               {
+                    "type": "480HD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMF1QeZsnl-xxppDVV7f9piq2ip3P1WO-w9tULXrDuDfNHMAqqsQ32LKLhTIx3XQ8NruTlGx6RyfyGg0BsZ1FoZiovVa_dKPs8JmGi4ZVkjPSUUzOXBw4LKHIWlqYNupX4GvT1YLLd-DPjbjh4wfWlg8KL810bc3aPSjOQUmZUonAQIMaKEDc7jUvBXr3qGkIKFi_-gY6sVJe9bXGkWc-reiFYdvTSgCQztNUiCiiUmprXDx5psWxQFHNLBdepnNPZnzOPZOe1fb_yHwepTMTUrAHemGkeYtRBv7fawHPC0FnElSIW3i9QdYa_yFCpGNxfJ9z1vtknJwE24I6gO-MOae7wjg2Fb9gWNgf_sNM-r6n-lP3hSxoPJHEzX7WMiqWlmQznmo24hknq9pLSerKhopnVXmk5kf1_4wgxH1CE5FtAzd3CBQYoWKlgDJlnjpsTY8mSR87DUhbOTPTCCfbopDl75bpsGlCVYsOtGJ9tzXAMcAoeTIrtdLhGZoA0aGU55ga0wrOIuE7Jld8G1RBBXsg52xI9qnRxPlHGX-7Q7YjClvosC_r5FsnInuCHakd-4DNFf3-UtJI3y87XSxEEaRRbEhvB8fPqwbbPlYqnsBocEPi2hoZD_kqsogLYMd46pZBxj81dyMKNGxXiagHBBOVIvGm7x4SG6tbCCxB9KYazRyYnp1hoslt-00yiD6w4uIJWYlNqDObj0INf5hqGZEOeSWnssxqDE6uupiDDaDMzhPhu6ONM84SPzhCyhAClSk8oJbnpCclQUcDe7SWM-052xdULV5dWofMridLiXP1ggLz5Cpm8txXwMardirlLpFYn4UAqkwH-5I1nMjrvaMck1K84XvTtO8cdkUudIHl-ACwYaDNSgWWZ3Bi_Gfk4mGSABKgl1cy13ZXN0LTIw1AM.m3u8"
+                },
                 {
+                    "type": "360SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMF7H8OaP8R2FZFvOpa3NFn2P_0ISLCd1reMSz0_6QfnGsp8RYqtMF3Jl8tRKiQu5pmAaVC_z48o1byNRSER_FmLdsbmF4cHfe7hCCjo84pq8uhh9JKss9Vfu1fLK4qHpiGW0yXTmnSaO47IMKUu1wP1sP3Ve5g2Pwu99LJelmeVwtFU0iTuq8WOzfbWxUKx9QkFU8dH9M9geT25Gtk2STSzNF77uj8XAdXz9SNxymWMEln9FIwozD-NFTZeHwgHxdnoitcYLhcWGmCn4inRfVVMV8qsV0KaaPMng2x0SFkwl7As6Kc6QHnK689jBbzSLHLi6bySnKZpXgXveaIj-eoF1sEdZ0G26Eo90tVfw8VCcqpHYZ-xEPj8aiDaZhrxeHgUndD6VKCwGmql3PMEv4eKKYwctHuyKlre0SB810VGCK1nl6S1CgWrZHBCVjUgNNoyPV1mrOQgCnRZsRlVf7ORtOl0vkCE9wnRKgOo6uTfjJR6-fkhzRUlD4eg6I6PlyYjULQsmStJP-CXWuasEwEa5mUEd8bUjiibodtnAmHg6W3bFytB9HjdntUJDvpGdRExCAZ2q0bWDCu4UUz5DtncwHgFX7Uyr4mNABne8jMCWR2YdGVbrwdSkasDUMovMBgWE0CHYU3kIazndAdjq5Qncff-iqkvwzsFuPQ5DEPEPTvZvRX0ZSiVTJGMw_9wE9eLodHlC-_Z8il4c8_OhSF690-GnTJgb_yeqL9ocEyzDka94gWyH0e7Fb1KV7dpesmuuszpFAY8L7fvDl9KKw8zj2rdic8Z5J5oQWJq7GhQo9bRtqaE6OCxn0eSMpk4XiWUpIqB9rkV_U_cBq6hEriZ6jY9FF-lOxXkHmTegwMyS_1Qx0aDGM6_t5kH4ERGL76RSABKgl1cy13ZXN0LTIw1AM.m3u8"
+                },
+  {
                     "type": "480 SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
