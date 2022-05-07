@@ -22,6 +22,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
          },
@@ -72,6 +76,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"0"
+                },
+ {
+                    "type": "BEIN Sport HD",
+                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
                 }
             ]
          },
@@ -130,7 +138,7 @@
      {
 "league": "Serie A",
             "date": "May 7",
-            "time": "(10:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
             "teams" : "Sassuolo Vs Udinese",
@@ -139,16 +147,9 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://srv02.cdnapp.top/m1/tracks-v1a1/mono.m3u8"
                 }
+                
             ]
          },
      {
