@@ -1,5 +1,26 @@
 [
 
+     {
+"league": "Serie A",
+            "date": "vpnသုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+            "teams" : "Torino Vs Napoli",
+            "hteam" : "Torino",
+            "ateam" : "Napoli",
+            "link":[
+                
+                {
+                    "type": "Super Sport FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIxNA==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/6276620d653739001cbbf11e/6276620d653739001cbbf11e.m3u8"
+                }
+            ]
+         },
 
 {
 "league": "Premier League",
@@ -29,31 +50,6 @@
                 }
             ]
          },
-
-{
-"league": "Premier League",
-            "date": "FHD သမားတွေအတွက်",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-            "teams" : "Chelsea Vs Wolves",
-            "hteam" : "Chelsea",
-            "ateam" : "Wolves",
-            "link":[
-{
-                    "type": "Premier Sport FHD",
-                "livelink":"http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwNQ==/1080p.m3u8"
-                },
-                {
-                    "type": "HD",
-                "https://mdauxvlfhilnqjzb.wzcdn594.net:8443/hls/c2kxuno.m3u8?s=hp-pqurhoXL9Hqk0NFBJBw&e=1651952637"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "https://livestream-2.socialstreaming.tv/live/627672b977bd30001c6966e1/627672b977bd30001c6966e1.m3u8"
-                }
-]
-},
      {
 "league": "Premier League",
             "date": "vpn သုံးပေးပါ",
@@ -90,22 +86,22 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          },
      {
 "league": "Premier League",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
+            "date": "May 7",
+            "time": "(8:30)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
             "teams" : "Crystal Palace Vs Watford",
@@ -114,41 +110,18 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6J80g9x2PE8pbKR5Ntnabfia3i79otARzu5QLYFNGNxug-5e4M7qSZTq-OXiVOb9NVbn68vJFtis3ckkCs3P9g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6J80g9x2PE8pbKR5Ntnabfia3i79otARzu5QLYFNGNxug-5e4M7qSZTq-OXiVOb9NVbn68vJFtis3ckkCs3P9g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6J80g9x2PE8pbKR5Ntnabfia3i79otARzu5QLYFNGNxug-5e4M7qSZTq-OXiVOb9NVbn68vJFtis3ckkCs3P9g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          },
-
-     {
-"league": "Serie A",
-            "date": "vpnသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-            "teams" : "Torino Vs Napoli",
-            "hteam" : "Torino",
-            "ateam" : "Napoli",
-            "link":[
-                
-                {
-                    "type": "Super Sport FHD",
-                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIxNA==/1080p.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/6276620d653739001cbbf11e/6276620d653739001cbbf11e.m3u8"
-                }
-            ]
-         },
-
      {
 "league": "Premier League",
             "date": "May 7",
