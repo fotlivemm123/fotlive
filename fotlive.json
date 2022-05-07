@@ -10,10 +10,7 @@
             "hteam" : "Torino",
             "ateam" : "Napoli",
             "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://bs.28assia.com/hls/80.m3u8?md5=2Yoq_QzTHA6ccXaSJMi1mA&expires=1651930291"
-                },
+                
                 {
                     "type": "Super Sport FHD",
                 "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIxNA==/1080p.m3u8"
