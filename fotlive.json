@@ -5,110 +5,6 @@
 "league": "Premier League",
             "date": "vpn သုံးပေးပါ",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-            "teams" : "Chelsea Vs Wolves",
-            "hteam" : "Chelsea",
-            "ateam" : "Wolves",
-            "link":[
-                {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwNQ==/1080p.m3u8"
-   },
-                {
-                    "type": "Vietnam FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/627672b977bd30001c6966e1/627672b977bd30001c6966e1.m3u8"
-            },
-{
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/1vV9OBaZ_CB90Lz7TAEvTMxyxLkn0YcNqnmcxJoGSrpo1dKoIIKFguuSyNGhxlojI0a2DTmwKcWk7OLP-mchDQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
- }
-            
-         
-     ]
-
-},
-
-     {
-"league": "Premier League",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-            "teams" : "Brentford Vs Soutampton",
-            "hteam" : "Brentford",
-            "ateam" : "Southampton",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4BaSY5CKDdvyoqNuKUimHy0B0oVkRqHlLiyE9RWU1LeTPRgGVtJ7dqJoPYlViVwK6rhvkFbORcBMXDzXOSmiDA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4BaSY5CKDdvyoqNuKUimHy0B0oVkRqHlLiyE9RWU1LeTPRgGVtJ7dqJoPYlViVwK6rhvkFbORcBMXDzXOSmiDA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4BaSY5CKDdvyoqNuKUimHy0B0oVkRqHlLiyE9RWU1LeTPRgGVtJ7dqJoPYlViVwK6rhvkFbORcBMXDzXOSmiDA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "vpnသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-            "teams" : "Burnley Vs Aston Villa",
-            "hteam" : "Burnley",
-            "ateam" : "Aston Villa",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qgqDTm-Q1mGQDYMgT2LGBZIJQQz6wDcTfkM15npDGLNbQCnV0epDx4HyJk-gVM6hissQtOkVGNkUCFVMdJf8gg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "vpnသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
-            "teams" : "Crystal Palace Vs Watford",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Watford",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6J80g9x2PE8pbKR5Ntnabfia3i79otARzu5QLYFNGNxug-5e4M7qSZTq-OXiVOb9NVbn68vJFtis3ckkCs3P9g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6J80g9x2PE8pbKR5Ntnabfia3i79otARzu5QLYFNGNxug-5e4M7qSZTq-OXiVOb9NVbn68vJFtis3ckkCs3P9g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/6J80g9x2PE8pbKR5Ntnabfia3i79otARzu5QLYFNGNxug-5e4M7qSZTq-OXiVOb9NVbn68vJFtis3ckkCs3P9g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "May 7",
-            "time": "(11:00)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "teams" : "Brighton Vs Man U",
@@ -207,30 +103,7 @@
                 }
             ]
          },
-     {
-"league": "Ligue 1",
-            "date": "May 7",
-            "time": "(9:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
-            "teams" : "Brest Vs Strasbourg",
-            "hteam" : "Brest",
-            "ateam" : "Strasbourg",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 
      {
 "league": "Serie A",
