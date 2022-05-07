@@ -21,6 +21,23 @@
                 }
             ]
          },
+{
+"league": "Laliga",
+            "date": "Vpnသုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
+            "teams" : "Mallorca Vs Granada",
+            "hteam" : "Mallorca",
+            "ateam" : "Granada",
+            "link":[
+                
+                {
+                    "type": "720 HD",
+                "livelink":"https://bs.28assia.com/hls/148.m3u8?md5=5bsAv8t_mw1pgEHifMy7ZA&expires=1651929355"
+                }
+            ]
+         },
 
 {
 "league": "Premier League",
@@ -216,30 +233,7 @@
                 }
             ]
          },
-     {
-"league": "Laliga",
-            "date": "May 7",
-            "time": "(6:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
-            "teams" : "Mallorca Vs Granada",
-            "hteam" : "Mallorca",
-            "ateam" : "Granada",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
      {
 "league": "Laliga",
             "date": "May 7",
