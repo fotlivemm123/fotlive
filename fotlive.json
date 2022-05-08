@@ -152,7 +152,7 @@
      {
 "league": "Serie A",
             "date": "May 8",
-            "time": "(10:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
             "teams" : "Salernitana Vs Cagliari",
@@ -161,11 +161,11 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/152.m3u8?md5=6HjUHaVLaMwRJnpjv-O9SA&expires=1652030704"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIzMA==/1080p.m3u8"
                 },
                 {
                     "type": "720 HD",
