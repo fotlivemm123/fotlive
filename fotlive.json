@@ -99,41 +99,7 @@
             ]
          },
      
-     {
-"league": "Bundesliga",
-            "date": "May 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
-            "teams" : "Frankfurt Vs Borussia",
-            "hteam" : "Frankfurt",
-            "ateam" : "Borussia",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://bs.28assia.com/hls/143.m3u8?md5=9CMIy4ai5Ec8HlfhBGWn0g&expires=1652023237"
-                }
-                
-            ]
-         },
-{
-"league": "Serie A",
-            "date": "May 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7881.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-            "teams" : "Venezia Vs Bologna",
-            "hteam" : "Venezia",
-            "ateam" : "Bologna",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"https://bs.28assia.com/hls/69.m3u8?md5=gEpkscUeBZA-TYAW5_2kEA&expires=1652022973"
-                }
-                
-            ]
-         },
-
+     
      
      {
 "league": "Laliga",
@@ -145,19 +111,13 @@
             "hteam" : "Villarreal",
             "ateam" : "Sevilla",
             "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://bs.28assia.com/hls/144.m3u8?md5=4ordhnlnlfyzmx1UliQ25g&expires=1652023360"
-                },
+                
                 {
                     "type": "320 SD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/V7Hy2oMAnk3Rv-cDEziL_pjdq-spESahVCLdVXcEIoi0CG-J5yXkh00u1gTN7SglYPWHMdIJ_FSH36okGhCF0w/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
              
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
                 }
+                
             ]
          },
      {
