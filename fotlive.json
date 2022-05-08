@@ -26,7 +26,7 @@
          },
      {
 "league": "Premier League",
-            "date": "vpn သုံးပေးပါ",
+            "date": "FHD သမားတွေ",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
@@ -43,8 +43,8 @@
                 "livelink":"https://livestream-2.socialstreaming.tv/live/6277daef914919001c12f2e0/6277daef914919001c12f2e0.m3u8"
                 },
                 {
-                    "type": "320SD",
-                "livelink":"0"
+                    "type": "BEIN",
+                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
                 }
        ]
    },
