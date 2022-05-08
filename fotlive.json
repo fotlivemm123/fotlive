@@ -1,104 +1,34 @@
 [
  
      
-     {
-"league": "Bundesliga",
-            "date": "use vpn",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
-            "teams" : "RB Leipzig Vs Augsburg",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Augsburg",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
-"league": "Laliga",
-            "date": "vpn နဲ့",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "teams" : "AT Madrid Vs Real Madrid",
-            "hteam" : "AT Madrid",
-            "ateam" : "Real Madrid",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/71YQA_XtWY6njRzYur0gN-lu1A6PwKJ1TRhF3S4KUWl77_lUlQsJm7xiB4qaSg063uf9uUWtEAKB31qwyCVIaQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-  },
-                {
-                    "type": "FHD",
-                "livelink":"http://d1qml2yr7t2k20.cloudfront.net/stream/NDIyNw==/1080p.m3u8"
-  },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/71YQA_XtWY6njRzYur0gN-lu1A6PwKJ1TRhF3S4KUWl77_lUlQsJm7xiB4qaSg063uf9uUWtEAKB31qwyCVIaQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-   }
-            ]
-         },
-
-{
-"league": "Ligue 1",
-            "date": "May 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242.png",
-            "teams" : "PSG Vs Troyes",
-            "hteam" : "PSG",
-            "ateam" : "Troyes",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
+ {
 "league": "Serie A",
-            "date": "May 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-            "teams" : "Hellas Verona Vs AC Milan",
-            "hteam" : "Hellas Verona",
-            "ateam" : "AC Milan",
+            "date": "May 10",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+            "teams" : "Fiorentina Vs Roma",
+            "hteam" : "Fiorentina",
+            "ateam" : "Roma",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpsFa0JmfRjRdmYZSJYIa-aje2khOyHr-XoQyKArSa3d8zgJpiPMyl1soF76VPbU1Y2RTVvVRMmmZ-U9-7yu4rRN1r6MNedpMMmfye4LGMfjEfgAakcmrs5qexIg7R0apjFQHAf6tH322D8j0VBYcoAz-Jio_xBjnTbktVw5J2CO7kKDODYyc-MlDYsVkW5cx4WKGLGhd1lDKslQ9U97crkXbNEOzhfkR2jnRMUvZ6WYEsD2_x4qIjuXRJQQIGfg_vDSYWU84n7hcIcC6VsgXjzcq_fIXlVy5mhNvJik8dxHGtgWGaqP-B2UUEl3sQ0bjZ-3FR7CBASvkNZ2S4-hTQwNdrIxUJemPFYUKXXNwyb-opH_c4zVopPAugupIrdannT3bUCpH4u-Qn9mIgOHXxl4rjx0FS3kLU1ZlcdQYAjD9ucctfz7v1KaW03Rn7O_mHfCYZ88-xxZgHhbaxi8wF0sMOyi1XYa5v2Gs7aixByK7cCq51lDGf0A1cv8ol3lynHWcZmsgzR1_yc1bE6ij48LzSErr8JcgsFwayuK1tVYqjV6Pe1XXle9q2Dn-kBYxDN6sa5JZS5Y9bByeTyiA9EPAZwsvJsonA2wKlceJHpSSI1a_s6ftEtifAe5PhKo-KX8sGRS6MnyNSRvHn5bSvgry6FK-jGhDh9hOh-NNJIx4gN0os-qDF8XKkWx4uummnSHrGlBE-lTNBQ13d2kttsFsPycJ0lnDJKRMb7tEVJPG0CaGEWe4pdSGS8adzLO2mPJxIzfk-kV6Wzd5h6fVNXIF47jD6RQpELQi7t45Ii_M0qS_lpuGtw82yLqQyN3-duQ7ZWMR6KVSWqA3RilDve_GQ40LsNRk1hHlQofJPzSKKrEw8M1JGvwfyy_TxoMMsEPS4d3dC6I1x2NIAEqCXVzLXdlc3QtMjDVAw.m3u8"
-    },
+                "livelink":"0"
+                },
                 {
                     "type": "320 SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpsFM2bAhwjCF1kGod2WtjLlK-vbjjrwK9ooKcPNf0Jvbq_gvxr9fobnpmPZJzPxQr0m5dB6OSwh-scaRwC2VBCkl1_Vu9UMgyf5dk7Xx4b6qdtsvZ7D5u8NzqHMFKIlAtg016wqpFYp_WZkqeZLT8l4Hu3q5Vo5nOv9FYDYiPm9csDOwHeHPtgLFM8c5fHeRuG7Kn9DSyxQBROMses_m4wOQKj9qoxgMCNFDvE3c6xInG16uB5hOgvAlOF6ygIBapoEZy-XOYaKhX9T_vy1qolYXTrLxgpHVj4UX17Y_xz7jjo2kdSHR8IElsCCGfWXC1sttfmCqY6XKTeJmbewrLfa79zNEeUuvoNSFtqWjXttu-1N6vr8GdSOd-A03njB6OG2FxnkzdaktxlC9zlHIcWzGu5bqToAPc4VFiy-2EXmNfvI3oS775WPeJz4S-GdpR8TUNuHVj479CduN6py0aREQVO1kuv1x87N7vteXPjujIHGVmRg98nb0dJIw0LnXNwtba89aTyhP1A9REnZhDTrAafBeDlQ7ZJmMHpnoQH2A5BfZ9QQAid5nkxi5uMbrAVOF_L0n9isWP8sZvmuMFewLAkHrJLlTaDelcmq6FcVU3PPbs_aN-u02LU2DIcpAYmGpcg6gqmuuqQM1N99LglF_vh9rSBIcRFqCM2AQ0ufLX8M28FheS8OCKvKXTTSUO6rDN-2EFkh6Jao26bVg-TH3WE7AEtQgihxSEClQRinN604zqoxygJmWPNUYdjP8ZTbgd3LFRT0SAEgghXGZCnt4QuNT3YWLrySZGPis-EtvSB0vXaIyZ8LQKPK5st5AlonZYo_WjxaITSOaSqCslVSBT-_QbsKRHInICS-huquWAqomQZmJgDXRtWDfhoMoe8TBnIiwcjIFGOkIAEqCXVzLXdlc3QtMjDVAw.m3u8"
-  },
+                "livelink":"0"
+                },
                 {
-                    "type": "FHD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/Cp0FIYepbmnMErSzlSZE3YMdWR2xGFMKcP1t6LT3qtTj1LPd5IWpGEcJ_2BWgPh6LxxulhI-2ToWeWustwAohwn-bVhB4SWMBiGIRuNRXEai0wAxFGrohE2tZYMA42R1eJKmeOHBllSGtD_iKn9Jf0o1rPnf4p3e253daknfJfD3BB-F2uG6dSUZpJXlxxiWKXNG4D2UulwkAHbps2waowxyjxGxTaeg4c6YC3o4U_1676zETkiONpvOPS2EXroAqPqosAbhVvi1MGFp61jBd2IkZbdQCJcNeF0aIvp7J7DKdOO5kcT1ax-q-0HE0Jpl5ayuClPlakt6g6z4Y0ESHdtEXxqMau-gb2t2fkDU0TccHWIuW2ctCswVJw_8ItSTyi1zsdM1i3tYf2Rt4yFH5RwWYU4yxIWUUwu4XeFYcuFKobQaqjuZ_wQdAHe1F1sHn7hss6cpwLob_lVlU6RCwTIJFKbkI5J9jvBKpzFLQ3fpiHiZD7vDgpjEsw4-GLnsj71_O9uYBlPWW9otKfaZapyCKL1oyHXNb5xZjt6Ux810jaMhXHAPJIvZsVE6bPUcJg29b4LnF1eIbd8NQRFGMvFSUD1jlde8d65jNUo1Myv24swyCrloeutnZFoP0bAIypqchst7JqobZONB64O4HJZ6UsAmgZINlp7EUdmPVtGBfItJhV6dz5_J7irgoJJ0cFQBbGXBSdVYgDyRWcv3s_hiSfTbjOlIrbIXbGlZq_jUZ0DtPFsSYj1t0MpjJT6LnWYSsp3G5oE1vixbzVxnVPxvBK-zWyswsAHpTtp4cnu5osL3os9_btbh1oP2wVBGNmbBwVuZ95UFCdSRSQIuGjDFcMdtSsQveF5lJUVZxZDOFoYI-LskqzsfNKq_bN4VGgwqa2_6RnsLddgwekYgASoJdXMtd2VzdC0yMNUD.m3u8"
-  }
+                    "type": "720 HD",
+                "livelink":"0"
+                }
             ]
          }
+     
+
+
+
 
      
 
