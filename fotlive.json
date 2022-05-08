@@ -24,6 +24,31 @@
                 }
             ]
          },
+     {
+"league": "Premier League",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "teams" : "Man City Vs Newcastle",
+            "hteam" : "Man City",
+            "ateam" : "Newcastle",
+            "link":[
+{
+                    "type": "Sky sports FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIyNA==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/6277daef914919001c12f2e0/6277daef914919001c12f2e0.m3u8"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+       ]
+   },
+
 {
 "league": "Bundesliga",
             "date": "vpn သုံးပေးပါ",
