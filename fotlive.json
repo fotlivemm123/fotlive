@@ -1,13 +1,14 @@
 [
-{
+ 
+     {
 "league": "Premier League",
             "date": "vpn သုံးပေးပါ",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
-            "teams" : "Arsenal Vs Leeds",
-            "hteam" : "Arsenal",
-            "ateam" : "Leeds",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "teams" : "Man City Vs Newcastle",
+            "hteam" : "Man City",
+            "ateam" : "Newcastle",
             "link":[
                 {
                     "type": "480 SD",
@@ -20,146 +21,59 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/P_bsYcMIUZOiZKNJwsarzFamuf1hu2Rc9oTSZROqkUD7BHlsXV4oZxYJkXKNX0_8octmIETGQ_qm538Dhb1yNQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-    {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
          },
 {
-           "league": "Premier League",
-            "date": "FHD သမားတွေ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
-            "teams" : "Arsenal Vs Leeds",
-            "hteam" : "Arsenal",
-            "ateam" : "Leeds",
-            "link":[
-                {
-                    "type": "SKY Sports FHD",
-                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIyMw==/1080p.m3u8"
-                },
-                {
-                    "type": "BIEN Sports HD",
-                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/FuHQ2fpgHJICCfMuigFWAXJIYkC3AoBANwrMr7VcdN2GeE3MPcFqzc2v8TMaDn9hPw8pPwSMwACZ26Q3ppRa1Q/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6277b67e914919001c12f2be/6277b67e914919001c12f2be.m3u8"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
+"league": "Bundesliga",
             "date": "vpn သုံးပေးပါ",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-            "teams" : "Leicester Vs Everton",
-            "hteam" : "Leicester",
-            "ateam" : "Everton",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
+            "teams" : "Bayern Vs VfB Stuttgart",
+            "hteam" : "Bayern",
+            "ateam" : "VfB Stuttgart",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Eczu3zVvE_qJW76H0DRjlQ4hiRxGD5QvWEiYDS8AnHSumbmnSPrdHaHITwojR0ygdgH95qChIzURULqTF7pJ5w/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Eczu3zVvE_qJW76H0DRjlQ4hiRxGD5QvWEiYDS8AnHSumbmnSPrdHaHITwojR0ygdgH95qChIzURULqTF7pJ5w/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Eczu3zVvE_qJW76H0DRjlQ4hiRxGD5QvWEiYDS8AnHSumbmnSPrdHaHITwojR0ygdgH95qChIzURULqTF7pJ5w/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-   {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6277b05b3343da001c4d34db/6277b05b3343da001c4d34db.m3u8"
-                }
-             
-          
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "vpn",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-            "teams" : "Norwich Vs West Ham",
-            "hteam" : "Norwich",
-            "ateam" : "West Ham",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/KY6kmfvKU-CmYNuWrPiKWZXmWAU0YM7vd0IxB2LhY9R9ugpGFpQwlAxZgwSB3onhba27p0juqvAyY3ac37-Iwg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/KY6kmfvKU-CmYNuWrPiKWZXmWAU0YM7vd0IxB2LhY9R9ugpGFpQwlAxZgwSB3onhba27p0juqvAyY3ac37-Iwg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/KY6kmfvKU-CmYNuWrPiKWZXmWAU0YM7vd0IxB2LhY9R9ugpGFpQwlAxZgwSB3onhba27p0juqvAyY3ac37-Iwg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-    {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6277b569686ac3001cffd927/6277b569686ac3001cffd927.m3u8"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
-
-
-     {
+     
+{
 "league": "Ligue 1",
-            "date": "May 8",
+            "date": "vpn သုံးပါ",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
-            "teams" : "Reims Vs Lens",
-            "hteam" : "Reims",
-            "ateam" : "Lens",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+            "teams" : "Lorient Vs Marseille",
+            "hteam" : "Lorient",
+            "ateam" : "Marseille",
             "link":[
                 {
                     "type": "480 SD",
-               "livelink" : "https://bs.28assia.com/hls/147.m3u8?md5=8VCe24BSgqCJa16oxfLhaA&expires=1652023099"
-                }
-                
-            ]
-         },
-
-
-   
-
-     {
-"league": "Premier League",
-            "date": "May 8",
-            "time": "(10:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-            "teams" : "Man City Vs Newcastle",
-            "hteam" : "Man City",
-            "ateam" : "Newcastle",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
+     
      {
 "league": "Bundesliga",
             "date": "May 8",
@@ -194,30 +108,7 @@
                 
             ]
          },
-     {
-"league": "Bundesliga",
-            "date": "May 8",
-            "time": "(10:00)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-            "teams" : "Bayern Vs VfB Stuttgart",
-            "hteam" : "Bayern",
-            "ateam" : "VfB Stuttgart",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
      
      {
 "league": "Laliga",
@@ -270,30 +161,7 @@
          },
      
      
-     {
-"league": "Ligue 1",
-            "date": "May 8",
-            "time": "(9:35)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-            "teams" : "Lorient Vs Marseille",
-            "hteam" : "Lorient",
-            "ateam" : "Marseille",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+     
      
      
      {
