@@ -37,7 +37,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqIFuG1JAPvt47qDMGQscaCdVPkMma_drdGfOJf5T38Lod5Vk-hdSlWYSXH-eGQwWgj4jfFChdlEtQktvg1pSRZKhmM14sT6UZp3LyeZNtkMSOSs4d5Xxz-rY1cvmF0lLeBLKU0fv2DbN_3biexOLu7-50UGiSBeLyOm1dZgdzcN19Ylb9isQRRM82LOwYrKJxqmTLDncO39fc-hvR_OSR6qVubJryWzzkgZCBf-qqmKxDrc7kWOw7Yll0Ox9-dTYi6URTHTOE-DXo-Tb3zqvir4ibz-NXyIUCV0rd1xjdd9L5cGjvsor-3f0v6beglWA2hFsmOk29VjOii991je3KjH-Q0HEhlNCLEzVGw-fT4ncfwDBa6T-4jTSpJh9jHWF2S2daeUjpSicQH3faN6IuwIcpVGlmIXm3g3dJOtkYXCuoM4mJwst9ko-3L3uvAIMK6nd_QpbOjz9P-51ILTu0mlVTU9QPiaN0CwOU_LBT-WaxkzXRpTlMeCX6bwS7irKW1qeTRZ46blTG_-p4c4n4-zeaoa66bf3wmysUeDgL_PUmXK1VBmT85vGKucgMhbhg03KdG7LFHNn_d1SzLyGyDbrTzkZAQJ0Vj1MHrpeZneKTWOwrPUEbNZfPfbggwZ-9NuynUjuC0qmMuI01KuzhEKLQXVv1PjZ_l7amLNp4vJvWsi4j7hI19d9KiL1Uit2PS7cFP_9_UW1ccvazjehjfF0t8kEtx_OJzhn1mYajz7QFcwBf7d8D3UIDs3aWMUKlia1Vs8tWgtz56EAJUpFiKeRf2RHBa0LaRUFqV1tnKW4MFIXTGP8p1nX0nGcMJjMA7tlkGblZrghjB9QjkmPjdK3WloJupgp-Cth1NSoB9f3WecSAtkAe7EHXd33td8r0QPpRwaDN8RFtVeGycAIwhM8SABKgl1cy1lYXN0LTIw0wM.m3u8"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/71YQA_XtWY6njRzYur0gN-lu1A6PwKJ1TRhF3S4KUWl77_lUlQsJm7xiB4qaSg063uf9uUWtEAKB31qwyCVIaQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
   },
                 {
                     "type": "FHD",
@@ -45,8 +45,8 @@
   },
                 {
                     "type": "720 HD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqIFuG1JAPvt47qDMGQscaCdVPkMma_drdGfOJf5T38Lod5Vk-hdSlWYSXH-eGQwWgj4jfFChdlEtQktvg1pSRZKhmM14sT6UZp3LyeZNtkMSOSs4d5Xxz-rY1cvmF0lLeBLKU0fv2DbN_3biexOLu7-50UGiSBeLyOm1dZgdzcN19Ylb9isQRRM82LOwYrKJxqmTLDncO39fc-hvR_OSR6qVubJryWzzkgZCBf-qqmKxDrc7kWOw7Yll0Ox9-dTYi6URTHTOE-DXo-Tb3zqvir4ibz-NXyIUCV0rd1xjdd9L5cGjvsor-3f0v6beglWA2hFsmOk29VjOii991je3KjH-Q0HEhlNCLEzVGw-fT4ncfwDBa6T-4jTSpJh9jHWF2S2daeUjpSicQH3faN6IuwIcpVGlmIXm3g3dJOtkYXCuoM4mJwst9ko-3L3uvAIMK6nd_QpbOjz9P-51ILTu0mlVTU9QPiaN0CwOU_LBT-WaxkzXRpTlMeCX6bwS7irKW1qeTRZ46blTG_-p4c4n4-zeaoa66bf3wmysUeDgL_PUmXK1VBmT85vGKucgMhbhg03KdG7LFHNn_d1SzLyGyDbrTzkZAQJ0Vj1MHrpeZneKTWOwrPUEbNZfPfbggwZ-9NuynUjuC0qmMuI01KuzhEKLQXVv1PjZ_l7amLNp4vJvWsi4j7hI19d9KiL1Uit2PS7cFP_9_UW1ccvazjehjfF0t8kEtx_OJzhn1mYajz7QFcwBf7d8D3UIDs3aWMUKlia1Vs8tWgtz56EAJUpFiKeRf2RHBa0LaRUFqV1tnKW4MFIXTGP8p1nX0nGcMJjMA7tlkGblZrghjB9QjkmPjdK3WloJupgp-Cth1NSoB9f3WecSAtkAe7EHXd33td8r0QPpRwaDN8RFtVeGycAIwhM8SABKgl1cy1lYXN0LTIw0wM.m3u8"
- }
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/71YQA_XtWY6njRzYur0gN-lu1A6PwKJ1TRhF3S4KUWl77_lUlQsJm7xiB4qaSg063uf9uUWtEAKB31qwyCVIaQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+   }
             ]
          },
 
