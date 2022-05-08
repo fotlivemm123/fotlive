@@ -29,8 +29,8 @@
          },
 {
            "league": "Premier League",
-            "date": "May 8",
-            "time": "(7:30)PM",
+            "date": "FHD သမားတွေ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
             "teams" : "Arsenal Vs Leeds",
@@ -38,12 +38,12 @@
             "ateam" : "Leeds",
             "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "SKY Sports FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDIyMw==/1080p.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "BIEN Sports HD",
+                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/FuHQ2fpgHJICCfMuigFWAXJIYkC3AoBANwrMr7VcdN2GeE3MPcFqzc2v8TMaDn9hPw8pPwSMwACZ26Q3ppRa1Q/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "VIETNAM FHD",
@@ -106,6 +106,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/KY6kmfvKU-CmYNuWrPiKWZXmWAU0YM7vd0IxB2LhY9R9ugpGFpQwlAxZgwSB3onhba27p0juqvAyY3ac37-Iwg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+    {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/6277b569686ac3001cffd927/6277b569686ac3001cffd927.m3u8"
                 }
             ]
          },
