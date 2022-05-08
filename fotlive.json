@@ -20,11 +20,15 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/P_bsYcMIUZOiZKNJwsarzFamuf1hu2Rc9oTSZROqkUD7BHlsXV4oZxYJkXKNX0_8octmIETGQ_qm538Dhb1yNQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
+                },
+    {
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
          },
 {
-"league": "Premier League",
+           "league": "Premier League",
             "date": "May 8",
             "time": "(7:30)PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
@@ -42,15 +46,15 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/6277b67e914919001c12f2be/6277b67e914919001c12f2be.m3u8"
                 }
             ]
          },
      {
 "league": "Premier League",
             "date": "vpn သုံးပေးပါ",
-            "time":live",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
             "teams" : "Leicester Vs Everton",
