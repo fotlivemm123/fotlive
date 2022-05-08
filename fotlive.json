@@ -74,52 +74,10 @@
             ]
          },
      
-{
-"league": "Ligue 1",
-            "date": "vpn သုံးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-            "teams" : "Lorient Vs Marseille",
-            "hteam" : "Lorient",
-            "ateam" : "Marseille",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
+
      
      
      
-     {
-"league": "Laliga",
-            "date": "May 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-            "teams" : "Villarreal Vs Sevilla",
-            "hteam" : "Villarreal",
-            "ateam" : "Sevilla",
-            "link":[
-                
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/V7Hy2oMAnk3Rv-cDEziL_pjdq-spESahVCLdVXcEIoi0CG-J5yXkh00u1gTN7SglYPWHMdIJ_FSH36okGhCF0w/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-             
-                }
-                
-            ]
-         },
      {
 "league": "Laliga",
             "date": "May 8",
@@ -175,8 +133,8 @@
          },
      {
 "league": "Bundesliga",
-            "date": "May 9",
-            "time": "(00:00)AM",
+            "date": "use vpn",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
             "teams" : "RB Leipzig Vs Augsburg",
@@ -185,15 +143,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/nOjD6aFRb9CvEpho6Enlq8df8EpAqIgYLUJjRlrjuyUpkaLksfejoJ20sa72HMcKqGH7oZiBfJncFaj57yuhTw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
