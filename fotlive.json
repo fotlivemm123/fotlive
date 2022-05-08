@@ -113,27 +113,7 @@
                 }
             ]
          },
-{
-           "league": "SEA Game",
-            "date": "vpnသုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
-            "teams" : "VIETNAM Vs PHILIPPINES",
-            "hteam" : "VIETNAM",
-            "ateam" : "PHILIPPINES",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6277a34a686ac3001cffd91d/6277a34a686ac3001cffd91d.m3u8"
-          
-                }
-            ]
-         },
+
 {
 "league": "Laliga",
             "date": "vpnသုံးပေးပါ",
@@ -171,36 +151,14 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://bs.28assia.com/hls/147.m3u8?md5=gXoLGgLqF01K-Yn3l_X7vA&expires=1652018556"
+               "livelink" : "https://bs.28assia.com/hls/147.m3u8?md5=8VCe24BSgqCJa16oxfLhaA&expires=1652023099"
                 }
                 
             ]
          },
 
 {
-            "league": "Ligue 1",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-            "teams" : "Metz Vs Lyon",
-            "hteam" : "Metz",
-            "ateam" : "Lyon",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/UzC5nrJbePkfLsfKqQliD2pftSvAU2UjDbvT6x_w1-UeR6ZpcErEaHu9_R6EwNPQKKi-PH3MZTVy2MbOJ7Z7Ew/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
+   
 
      {
 "league": "Premier League",
@@ -238,7 +196,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://bs.28assia.com/hls/143.m3u8?md5=wnQRXx2qP8yuP5agvSuDKg&expires=1652018938"
+                "livelink":"https://bs.28assia.com/hls/143.m3u8?md5=9CMIy4ai5Ec8HlfhBGWn0g&expires=1652023237"
                 }
                 
             ]
@@ -255,7 +213,7 @@
             "link":[
                 {
                     "type": "480 HD",
-                "livelink":"https://bs.28assia.com/hls/69.m3u8?md5=tMKBRVDn5jmpuY6ZhRXDHQ&expires=1652018674"
+                "livelink":"https://bs.28assia.com/hls/69.m3u8?md5=gEpkscUeBZA-TYAW5_2kEA&expires=1652022973"
                 }
                 
             ]
@@ -288,7 +246,7 @@
      {
 "league": "Laliga",
             "date": "May 8",
-            "time": "(8:45)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
             "teams" : "Villarreal Vs Sevilla",
@@ -297,7 +255,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/144.m3u8?md5=4ordhnlnlfyzmx1UliQ25g&expires=1652023360"
                 },
                 {
                     "type": "320 SD",
