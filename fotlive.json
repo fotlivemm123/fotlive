@@ -4,7 +4,7 @@
  {
 "league": "Serie A",
             "date": "May 10",
-            "time": "(1:30)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
             "teams" : "Fiorentina Vs Roma",
@@ -13,11 +13,11 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/83.m3u8?md5=2FgZBr1XDqDKpJXMeDAtaw&expires=1652127774"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDI0MA==/1080p.m3u8"
                 },
                 {
                     "type": "720 HD",
