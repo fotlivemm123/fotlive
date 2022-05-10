@@ -1,41 +1,5 @@
 [
 
- {
-"league": "Laliga",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-            "teams" : "Valencia Vs Real Betis",
-            "hteam" : "Valencia",
-            "ateam" : "Real Betis",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/k5k0Mjwl2ZAOgfmzbI1kuanKbF9BMJspnmIA7RVYoTHKDxxaEvNmnFy0T7b9Hp2nj5DR8b_--EDu9A7Gei6C4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/k5k0Mjwl2ZAOgfmzbI1kuanKbF9BMJspnmIA7RVYoTHKDxxaEvNmnFy0T7b9Hp2nj5DR8b_--EDu9A7Gei6C4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/k5k0Mjwl2ZAOgfmzbI1kuanKbF9BMJspnmIA7RVYoTHKDxxaEvNmnFy0T7b9Hp2nj5DR8b_--EDu9A7Gei6C4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-      {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/627a9022e37641001c1a2c22/627a9022e37641001c1a2c22.m3u8"
-                },
-                {
-                    "type": "Laliga FHD",
-                "livelink":"https://Zerouali1@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/mJAu8oSxFKBxL-L6tUFIsGRtsFlCFEX9EuDg1gYmSlh_kjKO4nLJIOjuzFSeN8Chy11jpR9GlEdZ3ZfdJFstag/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8"
-                }
-            ]
-         },
      
      {
 "league": "Laliga",
@@ -71,6 +35,10 @@
             "hteam" : "Aston Villa",
             "ateam" : "Liverpool",
             "link":[
+          {
+                    "type": "BEIN Sports",
+                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+                },
                 {
                     "type": "480 SD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9S9axFXJDRFTMg9WTxMqYICI6JQEBkxtwEzC3z2v2ly_BmDDTe3mRp9bpngRIlplhu-RqnFA05NAHd0lT4xIsQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
