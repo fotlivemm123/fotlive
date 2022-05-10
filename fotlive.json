@@ -77,13 +77,13 @@
                 },
                 {
                     "type": "English 720 HD",
-                "livelink":"https://covid19.t4m.xyz:2083/live/bn1/chunklist_w2129412026_tkd293emF0b2tlbmVuZHRpbWU9MTY1MjIwOTM5NyZ3b3d6YXRva2VuaGFzaD1UV2lSVkFnM1dDanZPRnZzc1V1QlVOcG1rOWJrRkQ5WmM3c1JNNmNHWlp5TlhiSWpMbzlpczlyVml2cERfTlZobFNEd3Z2OF9udmQ3U2FtalJUSnh1QT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1MjIwNzU5Nw==.m3u8?wowzatokenendtime=1652209397&wowzatokenhash=TWiRVAg3WCjvOFvssUuBUNpmk9bkFD9Zc7sRM6cGZZyNXbIjLo9is9rVivpD_NVhlSDwvv8_nvd7SamjRTJxuA==&wowzatokenstarttime=1652207597"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9S9axFXJDRFTMg9WTxMqYICI6JQEBkxtwEzC3z2v2ly_BmDDTe3mRp9bpngRIlplhu-RqnFA05NAHd0lT4xIsQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
         ]
     },
      {
 "league": "Laliga",
-            "date": "May 11",
+            "date": "Ma 11",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
@@ -97,12 +97,12 @@
   },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/k5k0Mjwl2ZAOgfmzbI1kuanKbF9BMJspnmIA7RVYoTHKDxxaEvNmnFy0T7b9Hp2nj5DR8b_--EDu9A7Gei6C4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live"
-                },
+                "livelink":"https://oklive6-6.vkuser.net/hls/2555808189134.m3u8/sig/ju6TpnzvPo4/expires/1652298451288/srcIp/13.212.139.137/urls/185.226.52.56/clientType/0/srcAg/CHROME_ANDROID/mid/4076947381966/2555808189134_low/index.m3u8?p"
+ },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/k5k0Mjwl2ZAOgfmzbI1kuanKbF9BMJspnmIA7RVYoTHKDxxaEvNmnFy0T7b9Hp2nj5DR8b_--EDu9A7Gei6C4A/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
+                "livelink":"https://oklive6-6.vkuser.net/hls/2555808189134.m3u8/sig/ju6TpnzvPo4/expires/1652298451288/srcIp/13.212.139.137/urls/185.226.52.56/clientType/0/srcAg/CHROME_ANDROID/mid/4076947381966/2555808189134_high/index.m3u8?p"
+    }
             ]
          }
      
