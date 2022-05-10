@@ -82,9 +82,37 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/9S9axFXJDRFTMg9WTxMqYICI6JQEBkxtwEzC3z2v2ly_BmDDTe3mRp9bpngRIlplhu-RqnFA05NAHd0lT4xIsQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                },
+           {
+                    "type": "Vietnam SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
          },
+    {
+"league": "Premier League",
+            "date": "vpnသုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Aston Villa Vs Liverpool",
+            "hteam" : "Aston Villa",
+            "ateam" : "Liverpool",
+            "link":[
+       {
+                    "type": "SKY Sports FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDI1Ng==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/627aab88e37641001c1a2c25/627aab88e37641001c1a2c25.m3u8"
+                },
+                {
+                    "type": "English 720 HD",
+                "livelink":"https://covid19.t4m.xyz:2083/live/bn1/chunklist_w2129412026_tkd293emF0b2tlbmVuZHRpbWU9MTY1MjIwOTM5NyZ3b3d6YXRva2VuaGFzaD1UV2lSVkFnM1dDanZPRnZzc1V1QlVOcG1rOWJrRkQ5WmM3c1JNNmNHWlp5TlhiSWpMbzlpczlyVml2cERfTlZobFNEd3Z2OF9udmQ3U2FtalJUSnh1QT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1MjIwNzU5Nw==.m3u8?wowzatokenendtime=1652209397&wowzatokenhash=TWiRVAg3WCjvOFvssUuBUNpmk9bkFD9Zc7sRM6cGZZyNXbIjLo9is9rVivpD_NVhlSDwvv8_nvd7SamjRTJxuA==&wowzatokenstarttime=1652207597"
+                }
+        ]
+    },
      {
 "league": "Laliga",
             "date": "May 11",
