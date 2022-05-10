@@ -36,30 +36,7 @@
                 }
             ]
          },
-     {
-"league": "Premier League",
-            "date": "May 11",
-            "time": "(1:30)AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Aston Villa Vs Liverpool",
-            "hteam" : "Aston Villa",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+     
      {
 "league": "Laliga",
             "date": "vpn သုံးပေးပါ",
@@ -81,6 +58,30 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://bs.28assia.com/hls/85.m3u8?md5=kXixTh6lIx2v5kJDw8D4iw&expires=1652208703"
+                }
+            ]
+         },
+{
+"league": "Premier League",
+            "date": "May 11",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Aston Villa Vs Liverpool",
+            "hteam" : "Aston Villa",
+            "ateam" : "Liverpool",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
                 }
             ]
          },
