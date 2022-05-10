@@ -32,7 +32,7 @@
                 },
                 {
                     "type": "Laliga FHD",
-                "livelink":"https://covid19.t4m.xyz:2083/live/la/chunklist_w374151105_tkd293emF0b2tlbmVuZHRpbWU9MTY1MjIwMjk0MiZ3b3d6YXRva2VuaGFzaD02c3lLTU9uT0ZBY3ZCbV9sWUdEeEdRT3F4aHFXMkdRbDJjakpfWFk1LXFXOEFocE9BU0ZhVnBJZ1I2cDFEQUZjN3ZUeU1waXpTZVBaTlR5SkJLQ1BoQT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1MjIwMTE0Mg==.m3u8?wowzatokenendtime=1652202942&wowzatokenhash=6syKMOnOFAcvBm_lYGDxGQOqxhqW2GQl2cjJ_XY5-qW8AhpOASFaVpIgR6p1DAFc7vTyMpizSePZNTyJBKCPhA==&wowzatokenstarttime=1652201142"
+                "livelink":"https://Zerouali1@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/mJAu8oSxFKBxL-L6tUFIsGRtsFlCFEX9EuDg1gYmSlh_kjKO4nLJIOjuzFSeN8Chy11jpR9GlEdZ3ZfdJFstag/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8"
                 }
             ]
          },
@@ -62,8 +62,8 @@
          },
      {
 "league": "Laliga",
-            "date": "May 11",
-            "time": "(00:30)AM",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
             "teams" : "Granada Vs Athletic Club",
@@ -72,15 +72,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpYEI1aM_l2EJB5mvI6n1C7qMtEZxpQxjfFofL2jHhYC5pvQzeuakS-ASOtcTNGfqSNj95lEyhqPJuDs-t8x_azuHcZ5pqT720p19xzwDlo7HOq8SeHlfUx5YxK7mt7L13zTcam3pqATQqN7XfyrijDhE0xBDfddnE7oqmxBRsioVIt9BRaqCCM97fJ44jeizWKP_uDKt4NeutMu5XpVdrqFpwYXa9w13RglIHMBEOPzzYQfwTDv1RAdq2B8LOZJDt9R82UCCCnUENV_YhW20IMG3wHA7cOjgjgcSo9DQz2SDAJNWd0XSaejsHQnnlb4kCK2Y9tvvdlqPixepw-u5RI5IX_B1dd83arqslGbHoyex88227kSYS-IDvdN_0DJKBqxU65ssyO_Tzho0CAwB8UAVVPFju-t_MS7YJ21ozTydBN0czIHEbq3FgZEETAwcy58zot19damJjoA_t1bCbrNe8od0FuIXKGawWm9Q_jB51v1f5UYxUPK4XOBRd5fLiC2yRRASDgln6PXgZCRIddyPQE_8qlg41NhjTRsDeGTUCuqA0QrhXczwhDNVNEUYXIFNdiditO_UJCp-EFHzfYnhwtrOwojAqaKhp_F0yl6_PCYt3_QfzWkyvKWQ5Ga_Hg6DCrfYRUi3nxh9XvRuz_L4BTsJxdzoSa0pGW8ShA7sV7UwHsXkUfQEtLkGpE_7vyufzxBpo7rGgz0xM9KDHaRPa3m1RogASoJZXUtd2VzdC0yMNcD.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDI1Nw==/1080p.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/85.m3u8?md5=kXixTh6lIx2v5kJDw8D4iw&expires=1652208703"
                 }
             ]
          },
