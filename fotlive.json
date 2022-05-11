@@ -2,8 +2,8 @@
 
  {
 "league": "Liliga",
-            "date": "May 11",
-            "time": "(11:30)PM",
+            "date": "vpnသုံးပေးပါ",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
             "teams" : "Deportivo Vs Espanyol",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/70.m3u8?md5=645lRfumXMtA63QL4FIiRg&expires=1652290956"
                 },
                 {
                     "type": "320 SD",
@@ -27,7 +27,7 @@
      {
 "league": "Laliga",
             "date": "May 11",
-            "time": "(11:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
             "teams" : "Osasuna Vs Getafe",
@@ -36,7 +36,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/79.m3u8?md5=nY1_7hki--PZ-7J_xiNiKQ&expires=1652290817"
                 },
                 {
                     "type": "320 SD",
@@ -51,7 +51,7 @@
      {
 "league": "Ligue 1",
             "date": "May 11",
-            "time": "(11:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9853.png",
             "teams" : "Nice Vs Saint-Etienne",
@@ -60,7 +60,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://bs.28assia.com/hls/67.m3u8?md5=0qbKX2NtkcjyGda6_JC-CQ&expires=1652290719"
                 },
                 {
                     "type": "320 SD",
