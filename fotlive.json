@@ -31,6 +31,10 @@
             "hteam" : "Combodia",
             "ateam" : "Singapore",
             "link":[
+{
+                    "type": "720 HD",
+                "livelink":"https://d17lu2syx7ax41.cloudfront.net/live/stream72538.m3u8?Expires=1652294100&Signature=G0zy-jdW-E1wgImY9KU4Q~KYBvghvcwBkveyW47~cpFy7sGcvG1dWv8fBpRQ5vUiqxxPt7sDyDTZFP5AzSAV3eZK5WrHnMeRZaU7awAVBF0cCqslXrkMAVx1npJ1hMkooAkxuL1AaTKWawW3R0Zi14OUAsogPjS~OCZh5gNkpbvXJuO05osiMdvmVhd5FQBbcVkALbqcgcLCJwOuJOJFdNjhQc2DZraruuL6QLVjOqrn~IrK-mupnOgV2ON0pm6ADMHH9Bsb7kUAW0ikuRegxEcr9QfylGl0uoZ-KsXvJG6cKyR2yF26vlkprlPs7k4yEWNc6o8Aztt60Deb0Oq9Lg__&Key-Pair-Id=K1SXOWNSQGJT65"
+                },
                 {
                     "type": "FHD",
                 "livelink":"https://livestream.socialstreaming.tv/live/627b75cc9e6b63001d95a919/627b75cc9e6b63001d95a919.m3u8"
