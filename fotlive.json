@@ -133,15 +133,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpcE33Jq_liNEmquHzyLydJ6sktv4yLX_yqQWGQZdkLYzgqbgxQlJw8Jh0BTdHhDDRj_FWYPmleJ5OsMdleC4ZwNoW1Vl8UbnP-4SNP-FA5aaMhVWAKtZXU53j55j6sA4XUbkt6c6qFTPFjUqgY3a1s1JVSOnxvZW4B6YIT5PWUzAOHLoKoXKbuAi4XCkXPy5RidzfV9opg3cvzOQoQs6pk6ogMf19h4uEhF9YZgd13Q9ApClJtNx_xQ0T1U9V_n4j2R2-V_yRIGHynFt_LHcczlgdtpV9DdYD5CHUVWRCrVoBBbFHG5FfDFpn2Y7FM-XGuQ9ieeQ9hX8j0XHqe8-XhJZJ1Cu29hqWLZ3kPE3aA4oVecn2WNeBZ1bBW9TkYCVoeBBpHGYym5I81vM4mHVwUn02H90zIUHPzP5IStHV_FvkufvR3urCaBXN0nKZ5thIV0zbpNhQX7q2llC2vYH7-ymQYs8UmCzifWIb7sESDr1vB1p_L5NgSdNPkWIST65IMvPzpMTYfOO1WQ8HxkqPrEBVWPssntaFYM_5cnNUanJ6LW1RirytvI13iLpEmJKHpIQIHAjdl1yvuqGxoaBYrVJ3lsctvUbVNIsOBqCGvn6Y5At6C75qtBRuK8iidFg22W-SoHWtTeXXdl5tFWOPqqn16ihNSTwRXFMjzbsSrHZHg1pGaV00TTuTmGIW9z0Tv9fe_lHhzooBoMB30QfCjd2ZaIVks0IAEqCWV1LXdlc3QtMjDYAw.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpcE33Jq_liNEmquHzyLydJ6sktv4yLX_yqQWGQZdkLYzgqbgxQlJw8Jh0BTdHhDDRj_FWYPmleJ5OsMdleC4ZwNoW1Vl8UbnP-4SNP-FA5aaMhVWAKtZXU53j55j6sA4XUbkt6c6qFTPFjUqgY3a1s1JVSOnxvZW4B6YIT5PWUzAOHLoKoXKbuAi4XCkXPy5RidzfV9opg3cvzOQoQs6pk6ogMf19h4uEhF9YZgd13Q9ApClJtNx_xQ0T1U9V_n4j2R2-V_yRIGHynFt_LHcczlgdtpV9DdYD5CHUVWRCrVoBBbFHG5FfDFpn2Y7FM-XGuQ9ieeQ9hX8j0XHqe8-XhJZJ1Cu29hqWLZ3kPE3aA4oVecn2WNeBZ1bBW9TkYCVoeBBpHGYym5I81vM4mHVwUn02H90zIUHPzP5IStHV_FvkufvR3urCaBXN0nKZ5thIV0zbpNhQX7q2llC2vYH7-ymQYs8UmCzifWIb7sESDr1vB1p_L5NgSdNPkWIST65IMvPzpMTYfOO1WQ8HxkqPrEBVWPssntaFYM_5cnNUanJ6LW1RirytvI13iLpEmJKHpIQIHAjdl1yvuqGxoaBYrVJ3lsctvUbVNIsOBqCGvn6Y5At6C75qtBRuK8iidFg22W-SoHWtTeXXdl5tFWOPqqn16ihNSTwRXFMjzbsSrHZHg1pGaV00TTuTmGIW9z0Tv9fe_lHhzooBoMB30QfCjd2ZaIVks0IAEqCWV1LXdlc3QtMjDYAw.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpcE33Jq_liNEmquHzyLydJ6sktv4yLX_yqQWGQZdkLYzgqbgxQlJw8Jh0BTdHhDDRj_FWYPmleJ5OsMdleC4ZwNoW1Vl8UbnP-4SNP-FA5aaMhVWAKtZXU53j55j6sA4XUbkt6c6qFTPFjUqgY3a1s1JVSOnxvZW4B6YIT5PWUzAOHLoKoXKbuAi4XCkXPy5RidzfV9opg3cvzOQoQs6pk6ogMf19h4uEhF9YZgd13Q9ApClJtNx_xQ0T1U9V_n4j2R2-V_yRIGHynFt_LHcczlgdtpV9DdYD5CHUVWRCrVoBBbFHG5FfDFpn2Y7FM-XGuQ9ieeQ9hX8j0XHqe8-XhJZJ1Cu29hqWLZ3kPE3aA4oVecn2WNeBZ1bBW9TkYCVoeBBpHGYym5I81vM4mHVwUn02H90zIUHPzP5IStHV_FvkufvR3urCaBXN0nKZ5thIV0zbpNhQX7q2llC2vYH7-ymQYs8UmCzifWIb7sESDr1vB1p_L5NgSdNPkWIST65IMvPzpMTYfOO1WQ8HxkqPrEBVWPssntaFYM_5cnNUanJ6LW1RirytvI13iLpEmJKHpIQIHAjdl1yvuqGxoaBYrVJ3lsctvUbVNIsOBqCGvn6Y5At6C75qtBRuK8iidFg22W-SoHWtTeXXdl5tFWOPqqn16ihNSTwRXFMjzbsSrHZHg1pGaV00TTuTmGIW9z0Tv9fe_lHhzooBoMB30QfCjd2ZaIVks0IAEqCWV1LXdlc3QtMjDYAw.m3u8"
                 }
             ]
          },
