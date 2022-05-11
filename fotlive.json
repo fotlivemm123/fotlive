@@ -1,26 +1,6 @@
 [
 
-{
-           "league": "Sea Game",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
-            "teams" : "Vietnam Vs Philippines",
-            "hteam" : "Vietnam",
-            "ateam" : "Philippines",
-            "link":[
-                {
-                    "type": "480 HD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/627b74ec9e6b63001d95a917/627b74ec9e6b63001d95a917.m3u8"
-              
-                }
-            ]
-         },
+
 {
            "league": "SEA Game",
             "date": "vpn သုံးပေးပါ",
