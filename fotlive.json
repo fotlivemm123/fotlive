@@ -25,7 +25,7 @@
          },
      {
 "league": "Premier League",
-            "date": "May 13",
+            "date": "vpn သုံးပေးပါ",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
@@ -47,6 +47,30 @@
                 }
             ]
          },
+    {
+"league": "Premier League",
+            "date": "FHD သမားတွေ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "Tottenham Vs Arsenal",
+            "hteam" : "Tottenham",
+            "ateam" : "Arsenal",
+            "link":[
+   {
+                    "type": "BEIN  FHD",
+                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+                },
+                {
+                    "type": "Sky sports FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDI3Ng==/1080p.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/627d49f49e6b63001d95a99c/627d49f49e6b63001d95a99c.m3u8"
+                }
+       ]
+},
      {
 "league": "Laliga",
             "date": "May 13",
