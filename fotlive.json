@@ -1,8 +1,8 @@
 [
   {
 "league": "Laliga",
-            "date": "May 12",
-            "time": "(11:30)PM",
+            "date": "vpn သုံးပါ2",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
             "teams" : "Real Sociedad Vs Cadiz",
@@ -11,15 +11,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://vsd68.mycdn.me/hls/2556558772942.m3u8/sig/IxDLgNGHABY/expires/1652460047985/srcIp/157.245.56.157/clientType/0/srcAg/CHROME_ANDROID/mid/4077523705550/2556558772942_medium/index.m3u8?p"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://vsd68.mycdn.me/hls/2556558772942.m3u8/sig/IxDLgNGHABY/expires/1652460047985/srcIp/157.245.56.157/clientType/0/srcAg/CHROME_ANDROID/mid/4077523705550/2556558772942_low/index.m3u8?p"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://vsd95.mycdn.me/hls/2556558772942.m3u8/sig/HU65usFl6XE/expires/1652460144117/srcIp/157.245.56.157/clientType/0/srcAg/CHROME_ANDROID/mid/4077523705550/2556558772942_high/index.m3u8?p"
                 }
             ]
          },
