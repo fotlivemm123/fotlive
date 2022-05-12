@@ -60,30 +60,7 @@
                 }
        ]
 },
-     {
-"league": "Laliga",
-            "date": "May 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-            "teams" : "Rayo Vs Villarreal",
-            "hteam" : "Rayo",
-            "ateam" : "Villarreal",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqYFx15dr9G-wi33CxjpuQ1PYt-U_SvXxdG-ymkOACRO-RhPM8-dfnaIvf9ivWwOPuYFkSM3NlEgDwCd-w_8Lb8ZihNKNFPGbjjwxfLafJ-tz2CooDSjk-5-n8uKbvYcEEwM80tb3zIOUet6GfmErtk0_r0f7difzr-En5JId7Oki5VfX6x4qBI6DPAIM5BkIbUm9NNtRe3OMXJWgOZBG6218_i1Y8F88kZjYcdVk5M803MubZ5c8RnMAg6n1MO5Q34_0xX8HkxY6L7ZBuzWtr49PmdL-M5wOk0dPVot-n7prmj-qvNR32E3yAqTsU7Nq33X9FG4JPWMqGZdc4cK-osibr_AAhlmUIwQPrG66HOYbIeW2ZsmR7AV4HSYBHk2xT2DaVr5PY4vXMgPHKXBmcN0CnPLN6P4mMApp9zhM-vzCt6x7PWmZChrN3xFKqu0iE5HWmxt5tsd0wzeHUGy4bPbpTdK_5nLYaYgfq92At8yXn-eJppOQmf9X9ohidE2SrFYKDUYFW7X94dIzZ5FzsHoHQaHRnRYlkTwkuJGM_IWy00nFrQfns7GhXzX8eVpUNj53f0kx8_W8SmjIyfQ-SNh-E4RE7X7WrWUZKoZ6JaWtrgBt0YGoDTM1mE3bwUB2JIdYMT7TjmBTEqABqBtQjl6FzwHUEWTYucGqJAPfOu-WuIWeNagfjGefZxuKlGWDfQAx9qNuUyrtwAQbcgwzxZJrKe1tZrWF5ETH0UXbKxjKxIUGg6RJxDaCB8XVrVpk4ZX_yelG7yGAZhhrwkhNxo0U7UKvxuh26ykp3bQxHZY_ysHjmfRlyQHQAEVL7IBSUIDmhZfFnDko6CWLOpK3IRSWJkM_qSBbshWLEjL55f7dfec7WRt6ibHFoJw2BSxd3Gy5XtvBYkQGgys5Lxzp1fQOgqrwKwgASoJdXMtZWFzdC0xMI4C.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDI4OA==/1080p.m3u8"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqYF63sL-gsESJwB75zBkX4QZm-jAg6urKpxkoDUMgKuHJnmV6vcQaiUGzsvBOqUWYIhDb0qxfrvj_v0Qs1P0g9sYyidcBtkt9MzI6azaJqqLNigFzMpdlZtz809nx61P-3J516lpwTYV3-xIvCCE8CXO0k0m-c9rfqfeyYPJIqpEQmHT1Na7IyDurIiAjWVh_P4xIHI4nVNHKfsRuuKFhaNgUa_f9SspnYsilRGk1oPEne9iTHVDbHucyWUXREAi_11JtQUyEBcV0ZROGi8F8uNcWgb7tdglsQGUF70zCJq0qVFGKt3SAj8wGU-1tiqi_c3OuBLivE96MCljd8l7soECGRaSFcf8Bl0i1CHAmAuFVBuuOiqgPj04gW4M73FTkQU_l_wbbEG9pjuI3QXWBy5tRflw0XZTggO9n032O-wZMUiLjTBaILsO7l19OFc-MtiqOd-fVMplRzX2_lOLmIjBdb6O3btUMFSPVQ7tu6NB2zFyhHiwuT8p3yy6U6hscgqRBJgFDcPCx1eUoTDnDRPyoBJm2FQnk5aj-JgSCYIX6fIpqMuYoLDehk_k_BvZLbIz4-BYxNPddgq65rRzrhjML4MVUTUfvCejVe6Tv00DbMLaBciIyOuRsE5qjDvnoOsZmmFWFFDQVoeNLLRYc_MxcrZDxHm0pGbi-EsoI8JyrzxJNZgcWNh9s1NXbbGJa20k2T0nQOhs6j27tsbivXl_yZYSNrbeIWdXiudUvLxzSgygTcy9UnuiogTErbzE5OMzJ0qsMtBnsQkOqU-hXnGvS2twoemb4zdwxGLNQ3-nlrTiR4CZzIe5mTcQsURszhrkUJHfYNZO4dvPoQJQBxQNi6IQArQFPTJyRBD19Lhj3AzTI78KI2q0dYjM0dOa4PO1TZILNEPGgyeVsM4YMquty3VliEgASoJdXMtZWFzdC0xMI4C.m3u8"
-                }
-            ]
-         },
+     
      {
 "league": "Laliga",
             "date": "May 13",
