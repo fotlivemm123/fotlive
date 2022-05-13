@@ -1,4 +1,25 @@
 [
+{
+           "league": "SEA Game",
+            "date": "vpn သုံးပေးပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
+            "teams" : "Philippines Vs Malaysia U23",
+            "hteam" : "Philippines U23",
+            "ateam" : "Malaysia U23",
+            "link":[
+                
+                {
+                    "type": "720HD",
+                "livelink":"https://rmue2hq1pcliv.vcdn.cloud/7fee564810bf42d977f1b16410a01947/1652477166322/kqpqy3v/kqpqy3v@720p.m3u8"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/627e15e77ef925001c484d82/627e15e77ef925001c484d82.m3u8"
+                }
+            ]
+         },
 
 {
 "league": "Sea Game",
