@@ -2,8 +2,8 @@
 
 {
 "league": "Sea Game",
-            "date": "May 13",
-            "time": "(6:30)PM",
+            "date": "vpn use",
+            "time": "live",
             "himg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/255px-Flag_of_Myanmar.svg.png",
            "aimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1024px-Flag_of_Vietnam.svg.png",
             "teams" : "Myanmar Vs Vietnam",
@@ -12,16 +12,13 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/627e41957ef925001c484d8a/627e41957ef925001c484d8a.m3u8"
                 }
+                
             ]
          },
 
