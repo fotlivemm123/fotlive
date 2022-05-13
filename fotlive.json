@@ -1,26 +1,5 @@
 [
 
-{
-"league": "Sea Game",
-            "date": "vpn use",
-            "time": "live",
-            "himg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/255px-Flag_of_Myanmar.svg.png",
-           "aimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1024px-Flag_of_Vietnam.svg.png",
-            "teams" : "Myanmar Vs Vietnam",
-            "hteam" : "Myanmar",
-            "ateam" : "Vietnam",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/627e41957ef925001c484d8a/627e41957ef925001c484d8a.m3u8"
-                }
-                
-            ]
-         },
 
  {
 "league": "Bundesliga",
