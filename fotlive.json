@@ -1,4 +1,21 @@
 [
+{
+           "league": "USL Championship",
+            "date": "use VPN",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/267813.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/614325.png",
+            "teams" : "Orange County SC Vs FC Tuslsa",
+            "hteam" : "Orange County SC",
+            "ateam" : "FC Tuslsa",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"https://rmue2hq1pcliv.vcdn.cloud/cefd3f91d770ac6fbcdc59f8dce9e8b8/1652536132433/r8ztat6/r8ztat6@720p.m3u8"
+               
+                }
+            ]
+         },
 
 
  {
