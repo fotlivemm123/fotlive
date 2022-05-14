@@ -10,6 +10,10 @@
             "hteam" : "Chelsea",
             "ateam" : "Liverpool",
             "link":[
+      {
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                },
 
                 {
                     "type": "beIN ENG 480 SD",
