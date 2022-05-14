@@ -115,7 +115,7 @@
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpYEd-Xw9jSZHepqdqii5lKPFyNHAyzNTweFBgpe_ix6BTyoLT7CnkhL4KmkD3IK3lHGDhFjzYAlgXjIFqGIRJZqdDxg5pkknMS7XK-Vk9B6PCQzXOjuuLf-CiyxpnV-WBHFjekW9rIrBTR3EwOR0NHHNR-bDE7O2G-0SlP9_30iTIwjbePluU3wMDmHGARQuzvKyaWW39J1J2xwkSRlfTc72FBFW6VQGzsC5MV-96y1TV5eBKiuc7vot8g_gyXxQfpNc5np3uDJK0QZhKocEJf1YCfkdEJt93cj_cjXAXg33vxXp8Qr3pyM0lX_bJfRxbJBJkQPXXX1spNenaN7lD26xnnjJQGJTVYi3Kyxjxs7gQGT8AAl2gyPq2e1y1JFQcculXJSfkimP_jSxaGGAuSpYxZerUFFW91-i3lR7jVT0_v3vvs1QVRJkGeq0BMLtSW3PWd0G_JFQX6H2Ww-dAxNjVtxtE0MGcNgBAxCQv3pqq5pd5Czr-crCH0DAxLtDFcx6exCGP5WK_d-1YEC5UETFK0gLtvnK1HCJGkSGk8DwC90O7pNBLDwhuVCsg4ia_UxMMMYmyDWeuEMHVgLlc6maxPSJJFsa6WvdXhJoUeZCbJwbNkF9YlKB5aQbSPZvcRLUYTt3hoB6XB5kTFLzGnLqlcehOkP-XNCNW0bNs2BAtudx0f6zw_0P8VvaQjzQ9iKEkIasodpGgzHy00PlNyqeIocSWogASoJZXUtd2VzdC0yMNsD.m3u8"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpsFL3LYUAe6OFTUT1L-VvyK58gzlganAs2sgFE8rLahVS6vTtn3iF0JKwSznvch4chHWH-WVAqsIaifQ4koAHISjyiO03oqrIeEjor7WcFXf51nxLrVDWj6ksKMYj_kvZYGOABMJyV5g1gXQOK5gPP_I6YoTXKmjCSJskrwjfCx00SKn1q_wHJ9q5tFPLdw7fCpi6h0ShgEJqSSFW7YNDvFnW69m74lA4GTrh-A0o2rF3H__NcYBHAS0XuVv063aogSIQsDgqiDgstZAscHZ9NpGwTlUSYQ20EjRJ2bR6cY2ElIFqNGeCBL5CpzMILKinJSdG8cGgZOfn8dSG0tpouyvTpiFi7lDdHwthy1BaQ4b2ux0BUgTH81UbGwPMtXV40ZzS25WEVi40rDvhT2x_KieKufxoEcN0Qf0mfSYm1fB0m900TtR-7_kuafBikEtHkjNmZmyKGTcpFQkU7Sm4lzytYJbZ_LMa0fMBUvc5VTD7GtforNfpzyxj3F5miE02FoGhUzMDcdnGb5m5FOFohCJQt6sBcPr8qERrbuGcs6huCcCWEZoLzmqNjXo6XtINmrLat7bvzPjD1bJ6rAIj-lKJcrh5dOjZK7JE7vlAujGRbHb22IDXoRyw8vzQxaToQiIPMnNU7DRz3d30QNRdlOHg9FC0rEQdu3dct_Dk4s6pVIjhx9qvddFsBa81PXi5ZrbRsz8wtRAknu6TJNLBqW_8N5oRaUiFKCEGPGZGpnSugAzAFUrb7bx8nlfN0n2aUWQKhXeY4xNxWKIxYQaXWwZPfNJtc8636UFlwPYlJqz0p5VhuENEUhK55WrdSGyzAuCv7ZmJMZBBcHj9WWWtQfu1AxsjOMYxVkubrvfA0yk-RAAwG586Epb63hNBoMnuBMcCDEZVCSek7iIAEqCXVzLXdlc3QtMjDaAw.m3u8"
                 }
             ]
          },
@@ -143,30 +143,7 @@
                 }
             ]
          },
-     {
-"league": "Serie A",
-            "date": "May 14",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
-            "teams" : "Empoli Vs Salernitana",
-            "hteam" : "Empoli",
-            "ateam" : "Salernitana",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+     
      {
 "league": "Serie A",
             "date": "May 14",
