@@ -39,7 +39,7 @@
                 },
                 {
                     "type": "SD",
-                "livelink":"https://standard-pull.dpglsale.com/sm/10021_428427_lhd.m3u8?auth_key=1652618122-0-0-1685d06aeb770cf02abb6050a5153b3e"
+                "livelink":"http://bsw.28assia.com/hls/68.m3u8?md5=wytwoGrjFcfCV_kr0ffPng&expires=1652538080"
                 
                 
                 }
@@ -73,7 +73,7 @@
      {
 "league": "Bundesliga",
             "date": "May 14",
-            "time": "(8:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
             "teams" : "Leverkusen Vs Freiburg",
@@ -82,7 +82,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"http://bsw.28assia.com/hls/80.m3u8?md5=38Qky9PC-PlBQ7DxNJPvSg&expires=1652538616"
                 },
                 {
                     "type": "320 SD",
