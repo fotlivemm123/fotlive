@@ -187,17 +187,10 @@
             "hteam" : "Rennes",
             "ateam" : "Marseille",
             "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.den52.hls.ttvnw.net/v1/playlist/CpcEtXfwQvvq3x9Anu5tLDN8rTf3hCLEhSTAHsJ5KXtiRI1GC7qB6ZUUOZ-nwTncGex0hOmUI0QomV5noOkTsQdpVfR3sC85neHRRGEw8T5YyR8Q3HYwhHo3Slou99L-TBwdBjBfHgcWaJpcSw095eSVHRHrw5UWSINRYxf5pjIHWm5wV5j-EWgFWeLEa7bI1qWOT7UTCZRVA9T169k6vMI1LJOIXx-9QGinPtNeE7L-SDAEx4KlWPZ0pBwXrGuLO5sUMI6jPer6v1lxJDZy1syDACRHbHwzZ0O_W_Ls42QQf0wOrlKlk1gk0MQTYX6MB5bWTPuI2EM0MpiEfCsutBBUY7FB4krOUkK1vksgmETUckvdsA34eHGuqW9KPB8gTtyS5uxKNv2ql4Oed60lLAUfMlFTkLPB0OFayFB64FmGlv2BXVoKdE8hfFaFNaoFtOaF5YfQJZE4FqRy6qg4zsI5n-kUEwA1IO7p80SMhFmMO9kUpdNP0P4L0x62RHRXZglGWF4a1M7yhtxQNHqAsl0QZu5FawgYoMqiLQxHdNe3gwyeid0ddhwk1EjkIgdQ2Q0gQcY4nXEj7ZyP-dFg51Jh2D0og4bj4pu6vbiwdqA0--iRgALEBekxJ4_nJiUlFKzsF7jcZwTaQ_PiuGinxVTitnWCCYiH577ywk174F7Rlr5LjVO0ZFTRWB2jxe_yJNgi3wLes1NNhBoMGQcr7Rvh2NLqv-uCIAEqCWV1LXdlc3QtMjDbAw.m3u8"
                 }
             ]
          },
@@ -230,7 +223,7 @@
      {
 "league": "Serie A",
             "date": "May 15",
-            "time": "(1:15)AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7881.png",
             "teams" : "Roma Vs Venezia",
@@ -239,15 +232,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/cKa47cUgHY8nZj0KsfhkEHyxPD6zxBFY_oqd7bkqhPqiHsk4oUMFAKGE6rz9l7-MsM5TR0vh8osmqKBP7_mkJQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/cKa47cUgHY8nZj0KsfhkEHyxPD6zxBFY_oqd7bkqhPqiHsk4oUMFAKGE6rz9l7-MsM5TR0vh8osmqKBP7_mkJQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/cKa47cUgHY8nZj0KsfhkEHyxPD6zxBFY_oqd7bkqhPqiHsk4oUMFAKGE6rz9l7-MsM5TR0vh8osmqKBP7_mkJQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          }
