@@ -16,23 +16,7 @@
                 }
             ]
          },
-{
-           "league": "USL Championship",
-            "date": "May 14",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/521005_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/614316_small.png",
-            "teams" : "LA Galaxy  Vs L City FC",
-            "hteam" : "LA Galaxy",
-            "ateam" : "L City FC",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://rmue2hq1pcliv.vcdn.cloud/c77f34be45cd4d2cf6e231bdc9f46d53/1652539905408/t7snhbq/t7snhbq@720p.m3u8"
-            
-                }
-            ]
-         },
+
 
 
 
