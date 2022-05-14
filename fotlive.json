@@ -1,30 +1,6 @@
 [
 {
-           "league": "SEA Game",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-            "teams" : "Singapore Vs Malaysia",
-            "hteam" : "Singapore",
-            "ateam" : "Malaysia",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://rmue2hq1pcliv.vcdn.cloud/2024ded657650679f6cfab8af26b4aec/1652564696593/rchtwtx/rchtwtx@720p.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/627f67108e3c5c001cd93f9a/627f67108e3c5c001cd93f9a.m3u8"
-                }
-            
-            ]
-         },
-
-
-
-
- {
+      
 "league": "Bundesliga",
             "date": "May 14",
             "time": "(8:00)PM",
