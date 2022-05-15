@@ -9,6 +9,10 @@
             "hteam" : "AC Milan",
             "ateam" : "Atalanta",
             "link":[
+    {
+                    "type": "320SD",
+                "livelink":"https://Zerouali1@vsd147.mycdn.me/hls/445459270303.m3u8/sig/-P1iEC9SxDI/expires/1652715800329/srcIp/160.179.74.78/clientType/0/srcAg/CHROME_ANDROID/mid/922259365535/445459270303_high/index.m3u8"
+                },
                 {
                     "type": "SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
@@ -171,30 +175,6 @@
          },
 
 
-{
-"league": "Serie A",
-            "date": "May 15",
-            "time": "(10:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
-            "teams" : "AC Milan Vs Atalanta",
-            "hteam" : "AC Milan",
-            "ateam" : "Atalanta",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
 
 {
 "league": "Serie A",
