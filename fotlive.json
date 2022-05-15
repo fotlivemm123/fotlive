@@ -1,50 +1,22 @@
 [
+
 {
 "league": "Serie A",
-            "date": "May 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
-            "teams" : "AC Milan Vs Atalanta",
-            "hteam" : "AC Milan",
-            "ateam" : "Atalanta",
-            "link":[
-    {
-                    "type": "320SD",
-                "livelink":"https://Zerouali1@vsd147.mycdn.me/hls/445459270303.m3u8/sig/-P1iEC9SxDI/expires/1652715800329/srcIp/160.179.74.78/clientType/0/srcAg/CHROME_ANDROID/mid/922259365535/445459270303_high/index.m3u8"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6281192be92883001c52d70b/6281192be92883001c52d70b.m3u8"
-                
-                }
-            ]
-         },
-
-  
-
-
-     {
-"league": "Laliga",
-            "date": "May 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-            "teams" : "AT Madrid Vs Sevilla",
-            "hteam" : "AT Madrid",
-            "ateam" : "Sevilla",
+            "date": "May 16",
+            "time": "(11:00)PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+            "teams" : "Sampdoria Vs Fiorentina",
+            "hteam" : "Sampdoria",
+            "ateam" : "Fiorentina",
             "link":[
                 {
-                    "type": "FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62812cdae37641001c1a2e0b/62812cdae37641001c1a2e0b.m3u8"
+                    "type": "480 SD",
+                "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"https://standard-pull.dpglsale.com/sm/10021_831938_lhd.m3u8?auth_key=1652721155-0-0-acb018feb558ca943d04df9f1b53543b"
+                    "type": "320 SD",
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
@@ -52,63 +24,41 @@
                 }
             ]
          },
-     {
-"league": "Laliga",
-            "date": "May 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "teams" : "Cadiz Vs Real Madrid",
-            "hteam" : "Cadiz",
-            "ateam" : "Real Madrid",
-            "link":[
-                
-                {
-                    "type": "320 SD",
-                "livelink":"https://Zerouali1@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/s39bLI7SdEP5W0DIkGrT9puNJ84Vua4eTetWHO82OuB5f4vFm7o-s_Ch2Zeka9t6_NUnKzlO848x-7MDwmqwgw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_dynamic_highlatency.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62812dd6e37641001c1a2e0d/62812dd6e37641001c1a2e0d.m3u8"
-                }
-            ]
-         },
-     {
-"league": "Laliga",
-            "date": "May 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-            "teams" : "Getafe Vs Barcelona",
-            "hteam" : "Getafe",
-            "ateam" : "Barcelona",
+
+{
+"league": "Premier League",
+            "date": "May 17",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "Newcastle Vs Arsenal",
+            "hteam" : "Newcastle",
+            "ateam" : "Arsenal",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8"
+                "livelink":"0"
                 },
                 {
-                    "type": "FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/6281370b32ad4c001dd76047/6281370b32ad4c001dd76047.m3u8"
+                    "type": "320 SD",
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://Zerouali1@5b68fc2520d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.465663001648.channel.FztO8jWt27J6.m3u8"
+                "livelink":"0"
                 }
             ]
          },
-     
-
 
 {
 "league": "Serie A",
             "date": "May 16",
             "time": "(1:15)AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-            "teams" : "Cagliari Vs Inter",
-            "hteam" : "Cagliari",
-            "ateam" : "Inter",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
+            "teams" : "Juventus Vs Lazio",
+            "hteam" : "Juventus",
+            "ateam" : "Lazio",
             "link":[
                 {
                     "type": "480 SD",
@@ -125,7 +75,4 @@
             ]
          }
 
-     
-
-     
 ]
