@@ -18,6 +18,15 @@
                 {
                     "type": "FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/6280b7207ef925001c484e24/6280b7207ef925001c484e24.m3u8"
+                },
+{
+                    "type": "360SD",
+                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1652692779~acl=%2f*~data=hdntl~hmac=fd1f8ddfb0c76e83df7bfacb17a1809e08bdd8bd5a40e028b7575670e5e34943/vtv6@low.m3u8?hdnts=exp=1652606678~acl=/vtv6/*~hmac=f2ed07f0c19c82ed3f97041e906a06ab8485cfe9ba28d3c313dd52e7c73e3e2f"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1652692779~acl=%2f*~data=hdntl~hmac=fd1f8ddfb0c76e83df7bfacb17a1809e08bdd8bd5a40e028b7575670e5e34943/vtv6@mid.m3u8?hdnts=exp=1652606678~acl=/vtv6/*~hmac=f2ed07f0c19c82ed3f97041e906a06ab8485cfe9ba28d3c313dd52e7c73e3e2f"
+                
                 }
             
             ]
