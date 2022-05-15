@@ -198,31 +198,7 @@
                 }
             ]
          },
- 
-     {
-"league": "Serie A",
-            "date": "May 15",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-            "teams" : "Napoli Vs Genoa",
-            "hteam" : "Napoli",
-            "ateam" : "Genoa",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 
 {
 "league": "Serie A",
