@@ -9,14 +9,7 @@
             "hteam" : "Indonesia",
             "ateam" : "Myanmar",
             "link":[
-{
-                    "type": "360SD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1652692059~acl=%2f*~data=hdntl~hmac=8ad1abdab9aa0bd133f1ce110d7f56d7137aa1983c876e329a7a02d5b6da10dd/vtv6@low.m3u8?hdnts=exp=1652605958~acl=/vtv6/*~hmac=ac97aa14950fc0e4a0ae1eed5438522e2cdf0183e2d9a6449d20109b88db2d39"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1652692059~acl=%2f*~data=hdntl~hmac=8ad1abdab9aa0bd133f1ce110d7f56d7137aa1983c876e329a7a02d5b6da10dd/vtv6@mid.m3u8?hdnts=exp=1652605958~acl=/vtv6/*~hmac=ac97aa14950fc0e4a0ae1eed5438522e2cdf0183e2d9a6449d20109b88db2d39"
-                },
+
           
                 {
                     "type": "720 HD",
