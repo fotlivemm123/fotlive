@@ -67,8 +67,8 @@
                 "livelink":"https://livestream.socialstreaming.tv/live/62812cdae37641001c1a2e0b/62812cdae37641001c1a2e0b.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://standard-pull.dpglsale.com/sm/10021_831938_lhd.m3u8?auth_key=1652721155-0-0-acb018feb558ca943d04df9f1b53543b"
                 },
                 {
                     "type": "720 HD",
@@ -92,7 +92,7 @@
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://Zerouali1@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/s39bLI7SdEP5W0DIkGrT9puNJ84Vua4eTetWHO82OuB5f4vFm7o-s_Ch2Zeka9t6_NUnKzlO848x-7MDwmqwgw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_dynamic_highlatency.m3u8"
                 },
                 {
                     "type": "VIETNAM FHD",
@@ -120,7 +120,7 @@
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://Zerouali1@5b68fc2520d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.465663001648.channel.FztO8jWt27J6.m3u8"
                 }
             ]
          },
