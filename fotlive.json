@@ -1,48 +1,6 @@
 [
-{
-           "league": "SEA Game",
-            "date": "use VPN",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/558881.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/623769.png",
-            "teams" : "Indonesia Vs Myanmar",
-            "hteam" : "Indonesia",
-            "ateam" : "Myanmar",
-            "link":[
 
-          
-                {
-                    "type": "720 HD",
-                "livelink":"https://rmue2hq1pcliv.vcdn.cloud/47f038eedf13dfec4c82ab8040390f94/1652648586553/rchtwtx/rchtwtx@720p.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6280b7207ef925001c484e24/6280b7207ef925001c484e24.m3u8"
-                },
-{
-                    "type": "360SD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1652692779~acl=%2f*~data=hdntl~hmac=fd1f8ddfb0c76e83df7bfacb17a1809e08bdd8bd5a40e028b7575670e5e34943/vtv6@low.m3u8?hdnts=exp=1652606678~acl=/vtv6/*~hmac=f2ed07f0c19c82ed3f97041e906a06ab8485cfe9ba28d3c313dd52e7c73e3e2f"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1652692779~acl=%2f*~data=hdntl~hmac=fd1f8ddfb0c76e83df7bfacb17a1809e08bdd8bd5a40e028b7575670e5e34943/vtv6@mid.m3u8?hdnts=exp=1652606678~acl=/vtv6/*~hmac=f2ed07f0c19c82ed3f97041e906a06ab8485cfe9ba28d3c313dd52e7c73e3e2f"
-                
-                },
-{
-                    "type": "BT Sport 1 FHD",
-                "livelink":"http://d3j3l2afbtzbe1.cloudfront.net/stream/NDMzMw==/1080p.m3u8"
-                },
-                {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/6280d65659e24e001db316b0/6280d65659e24e001db316b0.m3u8"
-                }
-            
-            ]
-         },
+   
 
 {
 "league": "Premier League",
