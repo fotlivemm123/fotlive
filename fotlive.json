@@ -29,30 +29,6 @@
 
 
      {
-"league": "Premier League",
-            "date": "May 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-            "teams" : "Everton Vs Brentford",
-            "hteam" : "Everton",
-            "ateam" : "Brentford",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wbS2vzoZ0zlaWCpzSwt4pzsf6XyrBBVHTV9H86a0LPuj-EWtxLsHp5L0DQOIwAjtb3BHpIzlaWwRBCgnTtkXFw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wbS2vzoZ0zlaWCpzSwt4pzsf6XyrBBVHTV9H86a0LPuj-EWtxLsHp5L0DQOIwAjtb3BHpIzlaWwRBCgnTtkXFw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wbS2vzoZ0zlaWCpzSwt4pzsf6XyrBBVHTV9H86a0LPuj-EWtxLsHp5L0DQOIwAjtb3BHpIzlaWwRBCgnTtkXFw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-     {
 "league": "Laliga",
             "date": "May 15",
             "time": "live",
@@ -86,10 +62,7 @@
             "hteam" : "Cadiz",
             "ateam" : "Real Madrid",
             "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://vsd126.mycdn.me/hls/2361875696197.m3u8/sig/QWRvBLfc0Ek/expires/1652721676244/srcIp/13.212.139.137/clientType/0/srcAg/CHROME_ANDROID/mid/3567805210181/2361875696197_high/index.m3u8?p"
-                },
+                
                 {
                     "type": "320 SD",
                 "livelink":"https://Zerouali1@prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/s39bLI7SdEP5W0DIkGrT9puNJ84Vua4eTetWHO82OuB5f4vFm7o-s_Ch2Zeka9t6_NUnKzlO848x-7MDwmqwgw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_dynamic_highlatency.m3u8"
