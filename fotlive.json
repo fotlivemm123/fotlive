@@ -6,30 +6,6 @@
      {
 "league": "Premier League",
             "date": "May 15",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-            "teams" : "Leeds Vs Brighton",
-            "hteam" : "Leeds",
-            "ateam" : "Brighton",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
-     {
-"league": "Premier League",
-            "date": "May 15",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
@@ -56,6 +32,24 @@
                 {
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/6280eda8e37641001c1a2de6/6280eda8e37641001c1a2de6.m3u8"
+                
+                }
+            ]
+         },
+
+     {
+"league": "Premier League",
+            "date": "May 15",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "teams" : "Leeds Vs Brighton",
+            "hteam" : "Leeds",
+            "ateam" : "Brighton",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"http://bsw.28assia.com/hls/140.m3u8?md5=urdNvcKMaMNXEk1PC3qBbQ&expires=1652623545"
                 
                 }
             ]
