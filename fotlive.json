@@ -1,103 +1,29 @@
 [
 
 {
-"league": "Serie A",
-            "date": "use vpn",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-            "teams" : "Sampdoria Vs Fiorentina",
-            "hteam" : "Sampdoria",
-            "ateam" : "Fiorentina",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/JNZfBAuGiulWtO-D_ELqroiBh_dz2fKtBPInejSkTnl24K2ywIjYPVbtLEpk-bBPbdYyvJ1f6o5WnvzWVw0j-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/JNZfBAuGiulWtO-D_ELqroiBh_dz2fKtBPInejSkTnl24K2ywIjYPVbtLEpk-bBPbdYyvJ1f6o5WnvzWVw0j-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/JNZfBAuGiulWtO-D_ELqroiBh_dz2fKtBPInejSkTnl24K2ywIjYPVbtLEpk-bBPbdYyvJ1f6o5WnvzWVw0j-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
 "league": "Premier League",
-            "date": "Use VPN",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-            "teams" : "Newcastle Vs Arsenal",
-            "hteam" : "Newcastle",
-            "ateam" : "Arsenal",
+            "date": "May 18",
+            "time": "(1:30)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Southampton Vs Liverpool",
+            "hteam" : "Southampton",
+            "ateam" : "Liverpool",
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/0RTo2ceF8Mu_sN1J3eFk-41XWu2K7A8ZNuEKmBYtfeuvgwBwzhCvtohTIi732fYPq8s-RR5G21X0s4B44g3wGA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/0RTo2ceF8Mu_sN1J3eFk-41XWu2K7A8ZNuEKmBYtfeuvgwBwzhCvtohTIi732fYPq8s-RR5G21X0s4B44g3wGA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/0RTo2ceF8Mu_sN1J3eFk-41XWu2K7A8ZNuEKmBYtfeuvgwBwzhCvtohTIi732fYPq8s-RR5G21X0s4B44g3wGA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Championship S-F",
-            "date": "Use VPN",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
-            "teams" : "Huddersfield Vs Luton",
-            "hteam" : "Huddersfield",
-            "ateam" : "Luton",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/O7-_8evM8InK4YIFSuFTWiuZ1UpPp154ziuDHitk2TTbhCAkIEEAc0kCnp0_7F3dMXz2ruRV2XqrxpOVlZG4rA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/O7-_8evM8InK4YIFSuFTWiuZ1UpPp154ziuDHitk2TTbhCAkIEEAc0kCnp0_7F3dMXz2ruRV2XqrxpOVlZG4rA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/O7-_8evM8InK4YIFSuFTWiuZ1UpPp154ziuDHitk2TTbhCAkIEEAc0kCnp0_7F3dMXz2ruRV2XqrxpOVlZG4rA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live"
-                }
-            ]
-         },
-
-{
-"league": "Serie A",
-            "date": "Use VPN",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-            "teams" : "Juventus Vs Lazio",
-            "hteam" : "Juventus",
-            "ateam" : "Lazio",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/JNZfBAuGiulWtO-D_ELqroiBh_dz2fKtBPInejSkTnl24K2ywIjYPVbtLEpk-bBPbdYyvJ1f6o5WnvzWVw0j-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/JNZfBAuGiulWtO-D_ELqroiBh_dz2fKtBPInejSkTnl24K2ywIjYPVbtLEpk-bBPbdYyvJ1f6o5WnvzWVw0j-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/JNZfBAuGiulWtO-D_ELqroiBh_dz2fKtBPInejSkTnl24K2ywIjYPVbtLEpk-bBPbdYyvJ1f6o5WnvzWVw0j-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          }
+     
 
 ]
