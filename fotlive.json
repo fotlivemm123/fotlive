@@ -51,6 +51,31 @@
          },
 
 {
+"league": "Championship S-F",
+            "date": "May 17",
+            "time": "(1:15)AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
+            "teams" : "Huddersfield Vs Luton",
+            "hteam" : "Huddersfield",
+            "ateam" : "Luton",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
 "league": "Serie A",
             "date": "May 16",
             "time": "(1:15)AM",
