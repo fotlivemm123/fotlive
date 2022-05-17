@@ -1,40 +1,14 @@
 [
 
 {
-"league": "Premier League",
-            "date": "vpn သုံးပေးပါ",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Southampton Vs Liverpool",
-            "hteam" : "Southampton",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sJUEwBv1GNu6CPV7W87Hvp6Kkc6LQUX9UZaGdb3DPsLAU4NpneMTqLIvmIgD4c0R3FD0nt1YVHM-KqmPNLHejQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sJUEwBv1GNu6CPV7W87Hvp6Kkc6LQUX9UZaGdb3DPsLAU4NpneMTqLIvmIgD4c0R3FD0nt1YVHM-KqmPNLHejQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sJUEwBv1GNu6CPV7W87Hvp6Kkc6LQUX9UZaGdb3DPsLAU4NpneMTqLIvmIgD4c0R3FD0nt1YVHM-KqmPNLHejQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                
-                }
-            ]
-         },
-
-{
-"league": "Premier League",
-            "date": "May 18",
+"league": "Europa League Final",
+            "date": "May 19",
             "time": "(1:30)AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Southampton Vs Liverpool",
-            "hteam" : "Southampton",
-            "ateam" : "Liverpool",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548.png",
+            "teams" : "Frankfurt Vs Rangers",
+            "hteam" : "Frankfurt",
+            "ateam" : "Rangers",
             "link":[
                 {
                     "type": "480 SD",
@@ -44,21 +18,9 @@
                     "type": "320 SD",
                 "livelink":"0"
                 },
-{
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
-                },
                 {
                     "type": "720 HD",
-                "livelink":"https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/sJUEwBv1GNu6CPV7W87Hvp6Kkc6LQUX9UZaGdb3DPsLAU4NpneMTqLIvmIgD4c0R3FD0nt1YVHM-KqmPNLHejQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"0"
                 }
             ]
          }
