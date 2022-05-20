@@ -48,30 +48,9 @@
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Qx8JhsPladgmSc7b-xmROpgTjMpriHYClWSe3KLryqsHXzQYjI_SW_9mbhT6CXy5BOt8rj7zOZZHfuoYLb5Pgw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
-         },
-     {
-"league": "Laliga",
-            "date": "May 21",
-            "time": "(1:30)AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
-           "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png",
-            "teams" : "Rayo Vs Levante",
-            "hteam" : "Rayo",
-            "ateam" : "Levante",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+         
                 }
-            ]
-         }
+            
+        
 
 ]
