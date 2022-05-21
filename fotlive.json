@@ -1,28 +1,4 @@
 [
-{
-           "league": "legends",
-            "date": "Now6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Man U Vs Liverpool",
-            "hteam" : "Man U",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "480HD",
-                "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/6288e96c3b5c04001c9dfa40/6288e96c3b5c04001c9dfa40.m3u8"
-                },
-                {
-                    "type": "720SD",
-                "livelink":"https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/chunklist.m3u8"
-                }
-            ]
-         },
 
 
 {
