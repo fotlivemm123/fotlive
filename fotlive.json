@@ -1,28 +1,5 @@
 [
-{
-           "league": "SEA Game",
-            "date": "use vpn",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/623769_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/624266_xsmall.png",
-            "teams" : "Myanmar Vs Philippines",
-            "hteam" : "Myanmar",
-            "ateam" : "Philippines",
-            "link":[
-                {
-                    "type": "360SD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1653213963~acl=%2f*~data=hdntl~hmac=23162af4643b561b62f77c395257273e39adda9368d2a1ef19ddbad96a2dc5b3/vtv6@low.m3u8?hdnts=exp=1653127862~acl=/vtv6/*~hmac=6db32ff40e752642051e406a25ffeabe4bd867a5000d9a98b569f23b49998c3c"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1653213963~acl=%2f*~data=hdntl~hmac=23162af4643b561b62f77c395257273e39adda9368d2a1ef19ddbad96a2dc5b3/vtv6@mid.m3u8?hdnts=exp=1653127862~acl=/vtv6/*~hmac=6db32ff40e752642051e406a25ffeabe4bd867a5000d9a98b569f23b49998c3c"
-                },
-                {
-                    "type": "720HD",
-                "livelink":"https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1653213963~acl=%2f*~data=hdntl~hmac=23162af4643b561b62f77c395257273e39adda9368d2a1ef19ddbad96a2dc5b3/vtv6@high.m3u8?hdnts=exp=1653127862~acl=/vtv6/*~hmac=6db32ff40e752642051e406a25ffeabe4bd867a5000d9a98b569f23b49998c3c"
-                }
-            ]
-         },
+
 
 {
 "league": "Serie A",
