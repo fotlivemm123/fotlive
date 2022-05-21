@@ -53,7 +53,7 @@
 {
 "league": "Laliga",
             "date": "May 21",
-            "time": "(22:00)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
             "teams" : "Valencia Vs Celta Vigo",
@@ -62,11 +62,11 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://srv05.varcdn.top/setanta2/tracks-v1a1/mono.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "720 SD",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H408339.m3u8?txSecret=8da31577c03314390a6640a4f8d6619d&txTime=6289DE88&_s=stream"
                 },
                 {
                     "type": "720 HD",
