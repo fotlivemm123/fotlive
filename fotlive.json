@@ -69,8 +69,8 @@
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H408339.m3u8?txSecret=8da31577c03314390a6640a4f8d6619d&txTime=6289DE88&_s=stream"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "480 HD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqcFFCeCmZUZsgRUC2p9dJLPeKBXCdCbMqkvXY-F9EbSoBOFpurVtUFtKQiTrpkYRtT_hs_-gZn2HN80RvB6tJX_qKy74K9hwR1rnVQbCwPR56JKjrhVHVaaJOOSh9utN8E73A3T6nwxZlLnZtGUbnsaQU63AHSFEwcTDRiubINVhLt3e9bO98lBHZtNuxSTxfGkp-qiADz2lIz8w0jbuN524oDLdrN4M00XEoo5_ju0Ol7TyLynB86-D4JfW-a7O5eYKloBv2jXJHI54wIs1x6dRaF8_qlBxJh148625SRgLQ-CfF6C43EXVkNC7ZgcHNio0jOlnv7hsGnXrO8zxLOs93Iqefh7A-DAS4dTMUydOxUx1CJtpJ5qonJOOI4CbDfp6s4Slmx3og3PvB0Vv7DQspDU69xnatEa0TiN9ebi6nmMUnCUi_Ax8DwVePTeJwHQr_IowMvXiR3x5ciaNC7v9ZKHe_IW82AGBLtAWkx-04_O_lypIlgkfrmec3zqiKaq853UMKapb5Akgbf_QbhpXQaxzEYi1PTSGXHr51LDyC3hnbgRvxyyoksky98n2PM1HORUkW6fLxLFPy38-ldUIY58D22zGzOw1Ezw-WFASAz-nQMLoUhstwnpnB6NxoovXrQuRkInuI0tJqijVqUQsgI_GWKtHHei5-cEWuBGMCTAT4DgE7OcNL41KPUuJIyHt9zO-Df5bMhDE_IfyYl7F_1l_096vXPK1qYO5DnPM3nstPfjAmguzPvBn0tp5s7LYHFDxYCRycQ5ntEFsg8nIhPkXpHoJC65qRzbR6mfT3Z2m3kpAKuPeCAZy_Z6pfQrL01lGDjOmfvtVhlBkLwGIh4aQFeIUlgG9rjh06vb-jb4hMSKK3n4v10NdqWR113lGJvLsBrejxoMZiYT_kCe_UMIQqnCIAEqCXVzLXdlc3QtMjDhAw.m3u8"
                 }
             ]
          },
