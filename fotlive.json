@@ -1,8 +1,8 @@
 [
 {
            "league": "legends",
-            "date": "April 16",
-            "time": "(0) AM",
+            "date": "Now6",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "teams" : "Man U Vs Liverpool",
@@ -28,7 +28,7 @@
 {
 "league": "Serie A",
             "date": "May 21",
-            "time": "(9:45)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
             "teams" : "Genoa Vs Bologna",
@@ -37,7 +37,7 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H423417.m3u8?txSecret=b27fec13d4c174bf2c8750bbb6e82f90&txTime=6289DE88&_s=stream"
                 },
                 {
                     "type": "320 SD",
