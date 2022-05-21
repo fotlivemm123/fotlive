@@ -40,8 +40,8 @@
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H423417.m3u8?txSecret=b27fec13d4c174bf2c8750bbb6e82f90&txTime=6289DE88&_s=stream"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "720 SD",
+                "livelink":"http://bsw.28assia.com/hls/140.m3u8?md5=NR2T88m5WD_jDYVmW8iMJg&expires=1653151100"
                 },
                 {
                     "type": "720 HD",
