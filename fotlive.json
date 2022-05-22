@@ -213,11 +213,11 @@
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/VNqLIpH85rLwtSKJTZHYZ1gEcniH8fSxUaEHoc_UEKJzg3iPxKb72c0qfl2iL5PMugVK25X8Y6Y1lrSNEo4fsg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/VNqLIpH85rLwtSKJTZHYZ1gEcniH8fSxUaEHoc_UEKJzg3iPxKb72c0qfl2iL5PMugVK25X8Y6Y1lrSNEo4fsg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -249,7 +249,7 @@
 {
 "league": "Serie A",
             "date": "May 22",
-            "time": "(10:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
             "teams" : "Inter Vs Sampdoria",
@@ -258,15 +258,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/vgdCjau1uqCRwT3TqyQSD8PW-HOUcdoN1IVrtDDLowDPWLkPeUgOGBvkEO7RqQW7P4VZSD_dqm7Wc267pDjejg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/vgdCjau1uqCRwT3TqyQSD8PW-HOUcdoN1IVrtDDLowDPWLkPeUgOGBvkEO7RqQW7P4VZSD_dqm7Wc267pDjejg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/vgdCjau1uqCRwT3TqyQSD8PW-HOUcdoN1IVrtDDLowDPWLkPeUgOGBvkEO7RqQW7P4VZSD_dqm7Wc267pDjejg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
@@ -282,15 +282,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ax4JAKo-f-GJ7bXq1qkx3y4adCPt99xSHgvtaC0D9wyxR8Ep-G97Fbs6IG2Wkmjp0LdBB2vSa6YWqnDe9YV4EA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ax4JAKo-f-GJ7bXq1qkx3y4adCPt99xSHgvtaC0D9wyxR8Ep-G97Fbs6IG2Wkmjp0LdBB2vSa6YWqnDe9YV4EA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ax4JAKo-f-GJ7bXq1qkx3y4adCPt99xSHgvtaC0D9wyxR8Ep-G97Fbs6IG2Wkmjp0LdBB2vSa6YWqnDe9YV4EA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          },
