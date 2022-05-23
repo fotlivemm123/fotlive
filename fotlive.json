@@ -1,26 +1,5 @@
 [
-{
-           "league": "MSL",
-            "date": "Now",
-            "time": "live",
-            "himg": "0",
-            "aimg": "0",
-            "teams" : "0 Vs 0",
-            "hteam" : "Portland",
-            "ateam" : "Philadelphia",
-            "link":[
-                
-           
-                {
-                    "type": "720 HD",
-                "livelink":"http://bsw.28assia.com/hls/66.m3u8?md5=SzugIQmfL4W_HIfyfkv8rw&expires=1653280960"
-                
-                
-             
-                }
-                
-            ]
-         },
+
 
 {
 "league": "Bundesliga Qlf Final",
