@@ -43,6 +43,11 @@
             "ateam" : "Feyenoord",
             "link":[
 {
+                    "type": "FHD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/Cp0FZzA0-lSOYUPYMmQ4AgPv9psBZDNZ60FCESMM-Gp9R28ADpltMLheQNWrwGhT0uoE6b-2qxJQPP2YMBCCcNIuB8K62-hh5m87ptogswv3ALurvFwARS85O-nVQ7-96W1agtAzZY-yOBX1xZrxM3jzUgknBtUlJoNsMYRy9VDRG_qVwsiocSa_BbPA8akjWJKFXc1KlmQ7A_PsfzGdFXiIVROdm-YKgLHjHIXga_7N808nw8qiswR7MIrF41cP9v7LGFdgKEcsMLNF3kQcyXuTIKZd7EE-nfV8GwbhsGsa4Xfvb8gQekyGsG4iomXvb3BGdzSVNuYvPTEZVMguBzc9PNlazpFJKvPtnLkHJtkIe3wbjTtvIidGHb-LBIzfhN1olxbUuzacqqZ-y3vkOSEyAgMkQGJJrtjllWk3bLvvd5a10ZWAy9s45ZGk8J3hhLuOJ8kFRQlV02mhO4WOEE3D7RvTA-u54zuf3KWu4GmkDqN0eLSnnnEquTVmEcFGvjrefP4f6CVLh05IB7Gwrj3mVRdWxXDUzprJ8EvPZS-5MRmhfd5ADwJcBzNu3yB5cInZlg8TgCNlCKxo-HBA0b9IeeIY0SWqXGaYJQL5XUQaWcp4an6oflgm-pWh4C9vdxCM-gxaOukST7IPpRcqkD2n3ocb1Iv3hYlqQE2TuuvSMCceqRdBl_Bstbi3KbHXm8qN_7Y1D0o87V8uftQrxq97TUBD5yKliOhnPqWin8hJv7l3kfAiI_tHrya8ZZy3sFg68kjzNnWYX8jS2oFxobLODwQf7jshoLmpeuwZBGi63Kg-vb5S2ZAzh5Xn3Y1xVlku5hHx_ZHVbMivDVO8BB2GGQGT6HvswTVz6nYx1j_UstBG-0CQL4Bd_91xEEXlGgyD2uuiPG9Jdf-L_nggASoJdXMtd2VzdC0yMOYD.m3u8"
+         
+                },
+{
                     "type": "720 HD",
                 "livelink":"https://srv05.varcdn.top//m1/index.m3u8"
                 },
