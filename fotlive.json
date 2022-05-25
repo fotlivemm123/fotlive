@@ -2,7 +2,7 @@
 {
            "league": "Europa C- league final",
             "date": "Tonight",
-            "time": "1:30AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
             "teams" : "Roma Vs 0",
@@ -10,17 +10,26 @@
             "ateam" : "Feyenoord",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "480 HD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/JMpLz5J08RwdTcItfJDoCwUjUqJBOVR8mcahM-TtIrUvEUFC5CtOEeVHHtp7Tz_-NvDTDy2V_nMWiqPd4Ag8oA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
-                }
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/JMpLz5J08RwdTcItfJDoCwUjUqJBOVR8mcahM-TtIrUvEUFC5CtOEeVHHtp7Tz_-NvDTDy2V_nMWiqPd4Ag8oA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "BT sport HD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/JMpLz5J08RwdTcItfJDoCwUjUqJBOVR8mcahM-TtIrUvEUFC5CtOEeVHHtp7Tz_-NvDTDy2V_nMWiqPd4Ag8oA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                },
+{
+                    "type": "Canal + HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/GxqxC4ju_5mm5BthPQ567FH27pEQX7nMxwGO_vR88NnuuYY-DGZ7i1_kG5XKYfiJ0Ld6BGYaNwDlSVuwwzi4mg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "Sky sport HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5CvHbXg7YBY0674hTCssEPC1cGwAs3p6XE1egHaG7KYgBH5K0Zf3ZChigMbgM0v6m_Ub5kVCAp1krtOYQve6Xg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                
+                } 
             ]
          },
 {
