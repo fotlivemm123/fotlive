@@ -1,40 +1,6 @@
 [
 {
-           "league": "Champion league final",
-            "date": "FHDပါ use VPN",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Liverpool Vs Real Madrid",
-            "hteam" : "Liverpool",
-            "ateam" : "Real Madrid",
-            "link":[
-                {
-                    "type": "BT SPORT 1(FHD)",
-                "livelink":"http://xtmm.live:8080/live/000999/000999/76.m3u8"
-                },
-                {
-                    "type": "BT SPORT 1 HD",
-                "livelink":"http://xtmm.live:8080/live/000999/000999/860.m3u8"
-                },
-                {
-                    "type": "BEIN ENG",
-                "livelink":"http://xtmm.live:8080/live/000999/000999/62.m3u8"
-                },
-{
-                    "type": "BEIN ARAB(HD)",
-                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
-                },
-                {
-                    "type": "RMC SPORT(HD)",
-                "livelink":"http://xtmm.live:8080/live/000999/000999/10731.m3u8"
-                },
-                {
-                    "type": "PREMIER(HD)",
-                "livelink":"http://xtmm.live:8080/live/000999/000999/10729.m3u8"
-                }
-            ]
-         },
+    
 
 {
            "league": "Champion league Final",
@@ -98,6 +64,41 @@
                 }
             ]
          
+         },
+       "league": "Champion league final",
+            "date": "FHD",
+            "time": "1:30",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Liverpool Vs Real Madrid",
+            "hteam" : "Liverpool",
+            "ateam" : "Real Madrid",
+            "link":[
+                {
+                    "type": "BT SPORT 1(FHD)",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/76.m3u8"
+                },
+                {
+                    "type": "BT SPORT 1 HD",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/860.m3u8"
+                },
+                {
+                    "type": "BEIN ENG",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/62.m3u8"
+                },
+{
+                    "type": "BEIN ARAB(HD)",
+                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+                },
+                {
+                    "type": "RMC SPORT(HD)",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/10731.m3u8"
+                },
+                {
+                    "type": "PREMIER(HD)",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/10729.m3u8"
+                }
+            ]
          }
 
 
