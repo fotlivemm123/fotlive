@@ -12,10 +12,7 @@
             "hteam" : "Liverpool",
             "ateam" : "Real Madrid",
             "link":[
-                {
-                    "type": "Liga Campeones HD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/EFl_ra6e2l9fiZ-JQJrnuN3pcQPH2gJO1smQGYZKex5XB-HGo0oqlmYInmTgYaEm8s85vA9Dr3MrS0FK6kJbFQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                },
+                
 {
                     "type": "BEIN ARAB(HD)",
                 "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
@@ -42,10 +39,7 @@
             "hteam" : "Liverpool",
             "ateam" : "Real Madrid",
             "link":[
-                {
-                    "type":"liga Campeones 480SD",
-                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/EFl_ra6e2l9fiZ-JQJrnuN3pcQPH2gJO1smQGYZKex5XB-HGo0oqlmYInmTgYaEm8s85vA9Dr3MrS0FK6kJbFQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
+                
                 {
                     "type": "CANAL Plus 480SD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
