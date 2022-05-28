@@ -1,9 +1,8 @@
 [
-
 {
            "league": "Champion league final",
-            "date": "May 29",
-            "time": "(1:30)AM",
+            "date": "FHDပါ use VPN",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "teams" : "Liverpool Vs Real Madrid",
@@ -11,18 +10,94 @@
             "ateam" : "Real Madrid",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "BT SPORT 1(FHD)",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/76.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "BT SPORT 1 HD",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/860.m3u8"
                 },
                 {
-                    "type": "320SD",
-                "livelink":"0"
+                    "type": "BEIN ENG",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/62.m3u8"
+                },
+{
+                    "type": "BEIN ARAB(HD)",
+                "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
+                },
+                {
+                    "type": "RMC SPORT(HD)",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/10731.m3u8"
+                },
+                {
+                    "type": "PREMIER(HD)",
+                "livelink":"http://xtmm.live:8080/live/000999/000999/10729.m3u8"
                 }
             ]
+         },
+
+{
+           "league": "Champion league Final",
+            "date": "use VPN 720Hd လိုင်းတွေ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Liverpool Vs Real Madrid",
+            "hteam" : "Liverpool",
+            "ateam" : "Real Madrid",
+            "link":[
+                {
+                    "type": "Liga Campeones HD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/EFl_ra6e2l9fiZ-JQJrnuN3pcQPH2gJO1smQGYZKex5XB-HGo0oqlmYInmTgYaEm8s85vA9Dr3MrS0FK6kJbFQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "CANAL Plus HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "SKY sport UNO HD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nFTuWzk6jjsB6G85rdbx4cewKgoWI4F6YoY0zts3R5uNfkP2tDswjTU0n78Dql3n3Cl3a3LWdkdRQOzeZbnNyw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                }
+            ]
+         }
+
+
+{
+           "league": "Champion league final",
+            "date": "SD လိုင်းတွေပါ",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Liverpool Vs Real Madrid",
+            "hteam" : "Liverpool",
+            "ateam" : "Real Madrid",
+            "link":[
+                {
+                    "type":"liga Campeones 480SD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/EFl_ra6e2l9fiZ-JQJrnuN3pcQPH2gJO1smQGYZKex5XB-HGo0oqlmYInmTgYaEm8s85vA9Dr3MrS0FK6kJbFQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "CANAL Plus 480SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "SKY Sport UNO 480SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nFTuWzk6jjsB6G85rdbx4cewKgoWI4F6YoY0zts3R5uNfkP2tDswjTU0n78Dql3n3Cl3a3LWdkdRQOzeZbnNyw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                },
+        {
+                    "type": "Lagia Campeones 320SD",
+                "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/EFl_ra6e2l9fiZ-JQJrnuN3pcQPH2gJO1smQGYZKex5XB-HGo0oqlmYInmTgYaEm8s85vA9Dr3MrS0FK6kJbFQ/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "CANAL Plus 320SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "SKY sport UNO320SD",
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nFTuWzk6jjsB6G85rdbx4cewKgoWI4F6YoY0zts3R5uNfkP2tDswjTU0n78Dql3n3Cl3a3LWdkdRQOzeZbnNyw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+                }
+            ]
+         
          }
 
 
