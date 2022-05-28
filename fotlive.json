@@ -18,21 +18,23 @@
                 "livelink":"http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8"
                 },
 {
+                    "type": "BT SPORT 1HD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/roSzAD19GuPq0KCGMqvQrRgMN5uODAwgfGeO_vKbDGDJK_c1L_qJxIgEYToHUoXEeSo0AmI79orISGwW92IGdA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+         
+                },
+{
                     "type": "Laiga Campeones HD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Fr5TylhRB4maoiKsJuHOfL8OgBy3c3X8bzGpzUqg5ut3sgsaEM4ZSkkYz0o67GFmw_mdppHjhUuJsUpW-2Q1iw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SKY Sport UNO HD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/XwBdkBn9TLb-n5NFvyteHnXb4CUEq1KACxJDx2kAgeabHZyJj--_s1RxVm8-WGF17hsJnRfNW-1I8Y9KTcdi-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/fx4nqnKz0x-99TAhd5zD9JqD4V6ElQdDZeKZUrpgGf7PvIuevzSLK64roP2_1xzbLBuf5wFKY_mYhcX-wqzLOQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "CANAL Plus HD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                },
-                {
-                    "type": "SKY sport UNO HD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpkFc8vesSDWo8dCtCOU5TIv3DJxKmdEmAPW5KQrUaDZJMoeThRJdXVyECAyPmCpziyXs-g2HihwDJB2615cIvrhknuEgRM-uqDikLAz_9ceNHCm1DrFETrJIwMOzQrxQKCAqyLSd-q1dI0LTHQsOG75zHUQuj1BUkOTKvxwoCzU-I23SCkXDSS-hHSJRP6lPc7I_B46WN5xTaE__RGX2yZwTyhPUUVSHDgCD2aIXzeCesYrz0RrO1ZL6K9JXUu7YhFJ4-3xJUwV_HNz7o4v59lXph1QNSE4x39gD-b8erj0fZQVuXeqElrnUlevUpyM-ooosZ0cBAzr8G_bGnVHj25xczcm6GG8aMdxtFJBIX2ghoGnXYFz9WF5t99nLC8Ns6qvqRZK1OT5x9r4vZ7LGZmndHPToRz6SZHqt-RGBHZ6XFCb02u7iq8-bWnGutlurvIGrQQEqqc7jxlXXNKCSMt-Z-LbvFXrCgUUSAEg0MIp7ykh9uI391cp-QeDJ3XrNceO3ua9L2v1QDenQI2hUX5dE85dUsnVIKKi5yhsEC4Sm2Jj_R23M7ebcO_w0l3e84pSKuKNXjAPC-r2iRdzGCi_hFo0n8Wv6IVnfDyZ-udx9mB9UnBju7__kxKRvmB9evW2c7EwBlLTnQQr24rc-O4_M5pNHXll9XyTl4ecZruvVZKYiBbIkGrb8TSLSrFY4yIrsXcduzMg1PpOlNxqWIjzi7g6wGIs2z-p6xIcfvHjru7g6Eh8KVFDDwTNJgivQvXOG38uId9a8MgzuQBcZQxM5ocwqvbwOORwX4NomQRNy6m3pkVmNIix1BoCX64X1qYBtmZJ6ItlOB1CDG48h5_tXbbnnX5VCANQjSpJF8NMZU0uIYxGSWAbqYcaDKQiYK66lExIOzptKCABKgl1cy13ZXN0LTIw6AM.m3u8"
                 }
+                
             ]
          },
 
@@ -48,18 +50,29 @@
             "ateam" : "Real Madrid",
             "link":[
 {
+                    "type": "BT SPORT 1SD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/roSzAD19GuPq0KCGMqvQrRgMN5uODAwgfGeO_vKbDGDJK_c1L_qJxIgEYToHUoXEeSo0AmI79orISGwW92IGdA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+         
+                },
+{
                     "type": "Liga Campeones SD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Fr5TylhRB4maoiKsJuHOfL8OgBy3c3X8bzGpzUqg5ut3sgsaEM4ZSkkYz0o67GFmw_mdppHjhUuJsUpW-2Q1iw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 {
                     "type": "SKY sport UNO 480SD",
-                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/XwBdkBn9TLb-n5NFvyteHnXb4CUEq1KACxJDx2kAgeabHZyJj--_s1RxVm8-WGF17hsJnRfNW-1I8Y9KTcdi-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/fx4nqnKz0x-99TAhd5zD9JqD4V6ElQdDZeKZUrpgGf7PvIuevzSLK64roP2_1xzbLBuf5wFKY_mYhcX-wqzLOQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
                 
                 {
                     "type": "CANAL Plus 480SD",
                 "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
                 },
+{
+                    "type": "BT SPORT 1 320SD",
+                "livelink":"https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/roSzAD19GuPq0KCGMqvQrRgMN5uODAwgfGeO_vKbDGDJK_c1L_qJxIgEYToHUoXEeSo0AmI79orISGwW92IGdA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+         
+                }
+
 {
                     "type": "Lagia Campeones 320SD",
                 "livelink":"https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/Fr5TylhRB4maoiKsJuHOfL8OgBy3c3X8bzGpzUqg5ut3sgsaEM4ZSkkYz0o67GFmw_mdppHjhUuJsUpW-2Q1iw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
@@ -73,7 +86,7 @@
                 },
                 {
                     "type": "SKY sport UNO 360SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpoFaIvPF1qP6IMmsZI-gSIozYm52h8VEcXax5ImTE5t2pQb5mbI5x-eOaIwphtafk35a2exKa9cDrgq56oQtTluT6BQC8M7LManXe6WIUUfcdphZw4KdYk2zxhCuSjhgUfx5s627BMEyXBvvebrgbAUcMvgm9IJA8hiQwYH7beHfVJlO_xjIZt6tJmQBDUPYMA8RzTz0d1ioQ7jtq-BDqtdHcbT2NCsCgy0WZE9foBR73RSRiY-qhRZDmJnFNBu5zzR29uOhGromjO508zZtYOkowViTiGaJSTEsJalSY7eAXG-0JSrJQkq7I4HuzrDRh6r9-0GH0e6iXa_cEVXvwAIl936JV6Vj7Ueep8jZKmIEQlTDW9FJmxkC6leeOwlMkrlNznQk6LorFb4XRGRXjm4ealjREyTUn-pwaknaCZG2HuyaV55YSVUzKK0WXx86a4X1W7j97atwllBqq-cKUrjkUyhg-2Oaj9_g6qaqCTtPqS7_2gOzL6ucbOL0Q8bfMyWejnZ3JYyJtV52Rd4gInHdUOQKXtezQdaRAMuUDBfKtkKANaVwF2AupjD8MKspS5TqnqzSfz7oKZUEEsEIjueFQlhhTiOjnoEmqN_ZgMHJ-Tweb9FGp1ZO7hcn4Nm1Ua_84R15mPbkP7bN2qTYXGac4oOB8m9zFFOn3q2o1zZhho0naOiJH1beOhuBTMzCuqzELnBO4SthA1C6MQjNA3pam7EUyjACSOeHdAt8t-ceUUUvY5TlhpSs1qcrbicEaG-W3yHTGmgVqiZWLJzPHCwnly1T_f4OtrV41lFDZ0jbP8ji-MeKvzrQRJ1TU-DPQNHIUDy7a7g8mSkWoGPsTHkJigrj6aqrD_dOSaTP-skEZaDACtJ2HFH_YPSGgy-n4JOHJdWCiMHWE8gASoJdXMtd2VzdC0yMOgD.m3u8"
+                "livelink":"https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/fx4nqnKz0x-99TAhd5zD9JqD4V6ElQdDZeKZUrpgGf7PvIuevzSLK64roP2_1xzbLBuf5wFKY_mYhcX-wqzLOQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
                 }
             ]
          
