@@ -2,7 +2,7 @@
 {
            "league": "UEFA Nations League A",
             "date": "tonight",
-            "time": "10:30PM",
+            "time": "live",
             "himg": "http://thutalive.webstarterz.com/thutalive/images/live/57099_Poland.png",
             "aimg": "http://thutalive.webstarterz.com/thutalive/images/live/16860_Wales.png",
             "teams" : "Poland VS Wales",
@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62978370552c87001dd17138/62978370552c87001dd17138.m3u8"
                 },
                 {
                     "type": "480HD",
