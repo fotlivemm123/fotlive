@@ -14,12 +14,12 @@
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62978370552c87001dd17138/62978370552c87001dd17138.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"http://d31idj43e272lf.cloudfront.net/stream/NDQ5Mg==/1080p.m3u8"
                 },
                 {
-                    "type": "320SD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"http://bsw.28assia.com/hls/73.m3u8?md5=5ji4CTfQL4mHaOhw33qJbg&expires=1654103252"
                 }
             ]
          },
