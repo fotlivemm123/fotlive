@@ -30,7 +30,7 @@
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://api.livesportstream.club/playlist/ch1/index.m3u8"
                 }
             ]
          },
