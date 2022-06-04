@@ -1,28 +1,5 @@
 [
-{
-           "league": "UEFA NATIONAL LEAGUE",
-            "date": "TONIGHT",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
-            "teams" : "Armenia Vs Ireland",
-            "hteam" : "Armenia",
-            "ateam" : "Ireland",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"http://bsw.28assia.com/hls/66.m3u8?md5=JIoVzTs3hFbuO-hK3j80eA&expires=1654350475"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd25286.m3u8?Expires=1654382100&Signature=MO~wnCtF9CUcT10fua-JY-Uy52OOu3sMY~KlPA5b1etj2CBRHYpa3RImHd8lyvcMLSjbUZLfedIH8ZODy2dIJlyFr7cc-QvabfITJwHdbBrOORL2xhPGf5DqIz-pupoMHWiOhgWP8iShy3GHP5darap~7aH1Xl8WXtK7TnB~FYuTzJ~mhao2brIdmSSeKYjCAWlFvFAVKzdHx9ht7PJwTAn-NZhdtclnF5r7fwSpnXYisaLoKlhsm-5mksVpxonUYhARjt4Bo7YG15VK9H7S1~LSOAxkcDeekj2jdnxhF2zXJy40acmVUp8oW0upU8i78475xr2UR2Qvi24b3YWs2w__&Key-Pair-Id=K1SXOWNSQGJT65"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 {
            "league": "UEFA NATIONAL LEAGUE",
             "date": "TONIGHT",
