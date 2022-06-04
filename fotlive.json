@@ -2,7 +2,7 @@
 {
            "league": "UEFA NATIONAL LEAGUE",
             "date": "TONIGHT",
-            "time": "(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
             "teams" : "Armenia Vs Ireland",
@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"http://bsw.28assia.com/hls/66.m3u8?md5=JIoVzTs3hFbuO-hK3j80eA&expires=1654350475"
                 },
                 {
                     "type": "480HD",
