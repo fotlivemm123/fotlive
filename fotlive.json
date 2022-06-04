@@ -10,6 +10,10 @@
             "hteam" : "Hungary",
             "ateam" : "England",
             "link":[
+{
+                    "type": "480HD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpoF8iOLAEg9Z3pcB8YJ07J6yitHWSj5oAEbcNwKsdABzAnY8qAO-YbQOaQbCk2rgc0fR0pcRQfbCJHYerUIhgKMHbaUn5grtL8wIjeEYlGQpvelmsVWHXLnU916sdg3wFd9bukqSsZIAzpXUzrAGpmzKTh-1mugn0_8ysfbKmQjmH3TNNZBKnjD_YfviPT9WI8oxe0JdIMWvhBOidi2nocyxTaZ-0V5bCMxOTFyBOInJ5owl-kEAsjuwMCS8O6sSlhvDqPmL6miXqYwQWzWsf9PWHT3YxzeR8VJg1jSgRULu5ZpnLx8uDNOBRDJZykQSfLP4bAoyqrxJXCfbvB_RhfkR9UVXgLZYgAP89U1W7ADVN0VkxvzBegWRIR0KC8aX2ahWJsyOSCgp44KtbQnIVcQsLTOXYdGiMG6rTA4KkvcUqOtfgVsOpMUxJdPi-gP3jQbkCFVvfW3670ZhmG6oPLbcqyj97R-kao6-RUSkZuuL5dzvfebkjraU6CCKjqgZgjmwHkJpfGSr7fv8LjAzNoa7ckr9xQcQuWvOtRb4vkvHqhldv85fWOF-kXKyFDGzSYzs7XdaZtPaCsWsUfNAakfWOinyFNrhgbEp0ZeZLTj1fqqLNaAtu0PFA1sx3XqQ0HlWh2kYcbxrhIaU0AqeftlIUOnDc3WKzk_IS01Bz-0eVVAg1BOieqT7fpRt1Mfb6_6nFRIcwZSf8yeGW0G5aAXMWz8jQA_uC96XAp_lGAEiOrjPeSkM5HlYzdxh4wVWmivNtlEK9f4a7Ezgcs3WCW28YWOHFA_NPSqd2-a81aW7xtMOc2wsBXUlUBtdTr5g85tpSc7sewGQa1Vg0S2uLyiuGBXK6mVUKP-EMDSwh_m-KsIKGjY41vqo7TgGgyU5ozfj-EfzqD6sZYgASoJdXMtd2VzdC0yMO8D.m3u8"
+                },
                 {
                     "type": "720 HD",
                 "livelink":"https://srv05.varcdn.top/b5/index.m3u8"
@@ -21,6 +25,18 @@
                 {
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream.socialstreaming.tv/live/629b7608120e46001df57aa9/629b7608120e46001df57aa9.m3u8"
+                },
+{
+                    "type": "360SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpoF_02aQcXCA-SoWbqHfOtbpNcaL15URjLnQqg72VrQjJnDgoS-NDxYKj4ek9tlksvjX3P-zAg6sQPm263IkwC18PKlvP91X46L20z0nQKP_GmuA5h31xTBUXACUfX0tVyq1FIQyCoaDAvYFbr-Y6fBlHSRejrbmvphfJ7a70ky7lf_kGIy-5GDxHsn6Xw6Scn4QD1Usw-RI6Z5A0g6vZJLoTjVAiGOIdXp0wVgY6OThtDeUX9s_-mCnIFSXZ5vpiG343kQ9g4fCk8s-_PofN45BBYsl6PbN0JQN5BfFDU43hrwxb8xMzRHRagcvgL0OW95d7fjMoCn1MUlitVhPB02f8myfWn_KiZnusWIX2gWBeg80IJXcfV-WfIJex-vz8dZQX8RnoPgVHyku3u1sbNK9pAvHorkmUm_trk9-f0PbO6RG3L9OCQDpWJeH5dS6H9_9mjjmgPw_aJOaQg-ePhwXZUwAD20BnVcGt6oIBHi0iDcluimBgS1VOuTdTFM52WWMhy_QXSkiKmUKbyIYaKBbNsN_wa79-zah5_UFxzbZ9l9kgGZErWuujb_a87PZ6ackHPxUio8JnSLtF3M6BdrlU5uwOqQkv8yPQT0pOGbHrRunhnS1HYrqEMppBL073486ooey5Y6WyGAmv7x01mc-K6RcXzYnhfxCYhitFwhdD54vl4oqagJk_UCEhYYklC32VSQ3HtkynPhRKj_w7soRWbV6SlRjLv1MQk7TZ0iVFoxHAF_lIxO5BppjpietG2ougrKiaBDUl2Rr6xnpgxJS1bpC466KR_ajZdem9HvC4FB_E1QHzgaREduhTwHJdadXavBaUwKfD7Hg-SnjXw4sZSbnPP09XQwE2-gwHlJ9hlnwo9VC3sqH-sZGgyvGZFiKfnBo4m6MoUgASoJdXMtd2VzdC0yMO8D.m3u8"
+                },
+                {
+                    "type": "720HD",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H455437.m3u8?txSecret=1ea33e3d61f524ff312f414f0d74daaf&txTime=629C9E0E&_s=stream"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
                 }
             ]
          },
