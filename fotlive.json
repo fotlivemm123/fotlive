@@ -1,21 +1,5 @@
 [
-{
-           "league": "UEFA",
-            "date": "use vpn",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",
-            "teams" : "Latvia Vs Liechtenstein",
-            "hteam" : "Latvia",
-            "ateam" : "Liechtenstein",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://craff23.s.llnwi.net/live/stream25334.m3u8?Expires=1654565640&Signature=i8IZKadNNSQ6BzpEDbH5pQRVkOww0yAqodPmXAjubqxJWXdzHrIiKXmPXkm7E-G-BnvcscTbZzI7nTO3edVhBG~VQFI0yKSXJYPZhlfRbsjPwVuVqhMU7BhMnH9N~DO80lgzEsvgVIdLKCJ04t94vt8lFPE9dYIikD3xoGUWbaQSvw590Kn4MXWM37bc~E4pIXfZxWjysWfdBLmxw38dq4IZBFWNwkU57iZpnWPFhQ0WGkHAlNNsXMm3OVbK0DiputP0xmigXqpNfEwmJCofDgTQEt4NPra2DVaTRq4VA7OHY9rZuEEfEGWF8~2K~~BwH5yyww5R7hpnRzs0EhYcaA__&Key-Pair-Id=K1SXOWNSQGJT65"
-                }
-                
-            ]
-         }
+
 
 
 ]
