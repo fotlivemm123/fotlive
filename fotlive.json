@@ -2,7 +2,7 @@
 {
            "league": "Asian Cup Qlf",
             "date": "June 8",
-            "time": "(6:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5899.png",
             "teams" : "Thailand Vs Maldives",
@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://bit.ly/3LjvjkG"
                 }
             ]
 },
@@ -21,7 +21,7 @@
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5898.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-            "teams" : "0 Vs 0",
+            "teams" : "Tajikistan Vs Myanmar",
             "hteam" : "Tajikistan",
             "ateam" : "Myanmar",
             "link":[
