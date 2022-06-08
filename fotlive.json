@@ -9,6 +9,11 @@
             "hteam" : "Thailand",
             "ateam" : "Maldives",
             "link":[
+{
+                    "type": "720 HD",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/L5654440.m3u8?txSecret=6547218b67e2a6b39f2fd55bf107b8cd&txTime=62A1B2D7&_s=stream"
+         
+                },
                 {
                     "type": "720 hHD",
                 "livelink":"http://acdn.livestreambong.tv/xoilac/channel5.m3u8?auth_key=1652453231-0-0-d6f32a0f004c1238b25d1603a46e8317"
