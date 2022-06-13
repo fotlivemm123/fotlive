@@ -1,21 +1,4 @@
 [
 
-{
-           "league": "UEFA Nationals League",
-            "date": "June 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",
-            "teams" : "Azerbaijan Vs Belarus",
-            "hteam" : "Azerbaijan",
-            "ateam" : "Belarus",
-            "link":[
-            
-                {
-                    "type": "320SD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd25466.m3u8?Expires=1655170440&Signature=NOHevGuBGr6GkMQnIz6ikDQAC-icrvq0FTrlodzeCO-SO~I3khkP~Pw1qGS0tg8s-r-Wa5HbnwP7cJclXjGCnVF8v0ttTMg2IwxBOIGw2dMkme-~eDXdYuGt5dd~GXbf4qs5ieS6t6Hd7IEWelY9TMECdL2FhJN2UZGqlQt-UtbO0hENwic4Lhtmc8aL8XImYMlPxCnVpu04g2~zHkgc0sP9owV3kT7Wl9WhOJA~PsXvtIL9gMauV~Nq8JTHwyV2TJ-UdJTPO2sWs-abRWE8G91XXd5KVqY5WD2Tv8fh2oE6-41xga3~jOJre2Hpa6xHEiQcgi5NDFry-STQg5alyw__&Key-Pair-Id=K1SXOWNSQGJT65"
-                }
-            ]
-         }
 
 ]
