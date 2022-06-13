@@ -1,25 +1,9 @@
 [
-{
-           "league": "UEFA National League",
-            "date": "June 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
-            "teams" : "Kazakhastan Vs Slovakia",
-            "hteam" : "Kazakhstan",
-            "ateam" : "Slovakia",
-            "link":[
-             
-               {
-                    "type": "ဒီကကြည့်နော်",
-                "livelink":"https://craff23.s.llnwi.net/live/stream25582.m3u8?Expires=1655163300&Signature=S7WeAPzk43DtFC0fY5JbxkHK1xFfZzGu4lQOC9pZQcubCL2hEkrei530IgfLkqdse8~rhJTIoh52LtciFKAohG4W5zcEn5~vTAjTzvS7vpCoiIBN20iQrF3kQ9PCM5c3cTA-TjFn9cu-2rROoqvMwcpU05MiKAexeBzcmgNMCrbMbeJQiHoFn0DKpVxpZLI7tVYMm153C3pcPM2Xu-LzZWxpxv6Y9i7BsDdxH-05hPRD7~FPUrrVCTd26dXoPMr58KXHjrOBzfhnZm3WCivsQyJXN6iHz0NAR-H98w7nXt3Gg-cz4wVbHy3R7dy1r35sdKGvi~VtGtDvUTJW-G1MWA__&Key-Pair-Id=K1SXOWNSQGJT65"
-                }
-            ]
-         },
+
 {
            "league": "UEFA Nationals League",
             "date": "June 13",
-            "time": "(10:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",
             "teams" : "Azerbaijan Vs Belarus",
@@ -29,7 +13,7 @@
             
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd25466.m3u8?Expires=1655170440&Signature=NOHevGuBGr6GkMQnIz6ikDQAC-icrvq0FTrlodzeCO-SO~I3khkP~Pw1qGS0tg8s-r-Wa5HbnwP7cJclXjGCnVF8v0ttTMg2IwxBOIGw2dMkme-~eDXdYuGt5dd~GXbf4qs5ieS6t6Hd7IEWelY9TMECdL2FhJN2UZGqlQt-UtbO0hENwic4Lhtmc8aL8XImYMlPxCnVpu04g2~zHkgc0sP9owV3kT7Wl9WhOJA~PsXvtIL9gMauV~Nq8JTHwyV2TJ-UdJTPO2sWs-abRWE8G91XXd5KVqY5WD2Tv8fh2oE6-41xga3~jOJre2Hpa6xHEiQcgi5NDFry-STQg5alyw__&Key-Pair-Id=K1SXOWNSQGJT65"
                 }
             ]
          }
