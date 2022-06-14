@@ -21,19 +21,19 @@
             ]
          },
 {
-           "league": "Movies Channels",
+           "league": "Entertainment Channels",
             "date": "သို့မဟုတ်",
             "time": "live",
-            "himg": "https://yt3.ggpht.com/ytc/AKedOLSFpb9Z4ViQ1wgcuAzcxWXVJUIMe6NDKdT__Q-ytg=s900-c-k-c0x00ffffff-no-rj",
+            "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/72663_mm music.jpg",
             "aimg": "https://yt3.ggpht.com/ytc/AKedOLSxwyyo0MVWKGkjQdQBVXZ2k0bNWagm_K_21VwMkA=s900-c-k-c0x00ffffff-no-rj",
-            "teams" : "Mm Movies Vs Mahar",
-            "hteam" : "Mm Movies",
+            "teams" : "Myanmar music Vs Mahar",
+            "hteam" : "Myanmar music",
             "ateam" : "Mahar TV",
             "link":[
                 
                 {
-                    "type": "Mm Movies",
-                "livelink":"https://linktr.ee/thutaliveapp"
+                    "type": "Myanmar music",
+                "livelink":"https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
                 },
                 {
                     "type": "Mahar TV",
