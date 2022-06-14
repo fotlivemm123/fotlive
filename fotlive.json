@@ -2,7 +2,7 @@
 {
            "league": "UEFA Nationals League",
             "date": "June 14",
-            "time": "(10:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
             "teams" : "Armenia Vs Scotland",
@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://c8fcda996f05.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.691026832142.channel.KTw90fyRowHI.m3u8"
                 }
             ]
          }
