@@ -14,6 +14,27 @@
                 "livelink":"https://c8fcda996f05.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.691026832142.channel.KTw90fyRowHI.m3u8"
                 }
             ]
+         },
+{
+           "league": "TV Channels",
+            "date": "live",
+            "time": "And",
+            "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/5489_mrtv4.jpg",
+            "aimg": "http://thutalive.webstarterz.com/thutalive/images/channel/81851_ch7",
+            "teams" : "MRTV-4 Vs Channel 7",
+            "hteam" : "MRTV-4",
+            "ateam" : "Channel 7",
+            "link":[
+                
+                {
+                    "type": "MRTV-4",
+                "livelink":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8"
+                },
+                {
+                    "type": "CHANNEL 7",
+                "livelink":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8"
+                }
+            ]
          }
 
 ]
