@@ -17,8 +17,8 @@
          },
 {
            "league": "TV Channels",
-            "date": "live",
-            "time": "And",
+            "date": "or",
+            "time": "live",
             "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/5489_mrtv4.jpg",
             "aimg": "http://thutalive.webstarterz.com/thutalive/images/channel/81851_ch7",
             "teams" : "MRTV-4 Vs Channel 7",
