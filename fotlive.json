@@ -1,5 +1,26 @@
 [
 {
+           "league": "News Channels",
+            "date": "သို့မဟုတ်",
+            "time": "live",
+            "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/35350_BBC News.jpg",
+            "aimg": "http://thutalive.webstarterz.com/thutalive/images/channel/42306_DVB News.jpg",
+            "teams" : "BBC Vs DVB",
+            "hteam" : "BBC",
+            "ateam" : "DVB",
+            "link":[
+                {
+                    "type": "BBC",
+                "livelink":"https://stream-05.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeBATLbhGmnFmPwqWGulICk_eSv5uFJJLACTBqM1S6UuG)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1"
+                },
+                {
+                    "type": "DVB",
+                "livelink":"https://stream-05.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeBATLbhGmnFmPwqWGulICk_eSv5uFJJLACTBqM1S6UuG)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1"
+                }
+                
+            ]
+         },
+{
            "league": "TV Channels",
             "date": "သို့မဟုတ်",
             "time": "live",
@@ -33,7 +54,7 @@
                 
                 {
                     "type": "Myanmar music",
-                "livelink":"https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
+                "livelink":"https://pbs.twimg.com/profile_images/627191802056036353/rRTv0oos_400x400.png"
                 },
                 {
                     "type": "Mahar TV",
