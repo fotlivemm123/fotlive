@@ -42,6 +42,27 @@
             ]
          },
 {
+           "league": "TV Channels",
+            "date": "သို့မဟုတ်",
+            "time": "live",
+            "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/47480_mntv logo.jpg",
+            "aimg": "http://thutalive.webstarterz.com/thutalive/images/channel/86706_discovery asia channel.png",
+            "teams" : "MNTV Vs DISCOVERY ASIA",
+            "hteam" : "MNTV",
+            "ateam" : "DISCOVERY ASIA",
+            "link":[
+                {
+                    "type": "MNTV",
+                "livelink":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+                },
+                {
+                    "type": "DISCOVERY ASIA",
+                "livelink":"https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8"
+                }
+               
+            ]
+         },
+{
            "league": "Entertainment Channels",
             "date": "သို့မဟုတ်",
             "time": "live",
