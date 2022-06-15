@@ -47,9 +47,9 @@
             "time": "live",
             "himg": "http://thutalive.webstarterz.com/thutalive/images/channel/47480_mntv logo.jpg",
             "aimg": "http://thutalive.webstarterz.com/thutalive/images/channel/86706_discovery asia channel.png",
-            "teams" : "MNTV Vs DISCOVERY ASIA",
+            "teams" : "MNTV Vs DISCOVERY",
             "hteam" : "MNTV",
-            "ateam" : "DISCOVERY ASIA",
+            "ateam" : "DISCOVERY",
             "link":[
                 {
                     "type": "MNTV",
