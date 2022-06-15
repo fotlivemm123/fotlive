@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "BBC",
-                "livelink":"https://stream-05.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeBATLbhGmnFmPwqWGulICk_eSv5uFJJLACTBqM1S6UuG)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1"
+                "livelink":"https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8#cell=lsg1"
                 },
                 {
                     "type": "DVB",
