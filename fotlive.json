@@ -16,6 +16,7 @@
               
             ]
          },
+
 {
            "league": "Champion League Qlf",
             "date": "July 6",
@@ -27,24 +28,8 @@
             "ateam" : "Qarabag FK",
             "link":[
                 {
-                    "type":"HD", 
-                "live link":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
-              }
-            ]
-         },
-{
-           "league": "Club Friendlies",
-            "date": "July 12",
-            "time": "(7:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "teams" : "Liverpool Vs Man U",
-            "hteam" : "Liverpool",
-            "ateam" : "Man U",
-            "link":[
-                {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
                 }
              
             ]
