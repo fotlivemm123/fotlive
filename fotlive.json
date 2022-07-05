@@ -36,7 +36,7 @@
 {
            "league": "Champion League Qlf",
             "date": "July 6",
-            "time": "(12:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2182_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
             "teams" : "Lech Poznan Vs Qarabag FK",
@@ -44,26 +44,7 @@
             "ateam" : "Qarabag FK",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-                
-            ]
-         },
-{
-           "league": "AFF U19 Championship",
-            "date": "July 6",
-            "time": "(2:30)PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
-            "teams" : "Myanmar Vs Philipines",
-            "hteam" : "Myanmar",
-            "ateam" : "Philipines",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"0"
-                }
+                    "type": "HD",       }
               
             ]
          },
