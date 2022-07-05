@@ -34,6 +34,23 @@
             ]
          },
 {
+           "league": "Champion League Qlf",
+            "date": "July 6",
+            "time": "(12:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2182_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
+            "teams" : "Lech Poznan Vs Qarabag FK",
+            "hteam" : "Lech Poznan",
+            "ateam" : "Qarabag FK",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+                
+            ]
+         },
+{
            "league": "AFF U19 Championship",
             "date": "July 6",
             "time": "(2:30)PM",
