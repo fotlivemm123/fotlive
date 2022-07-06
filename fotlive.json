@@ -1,21 +1,5 @@
 [
 {
-           "league": "AFF U19 Championship",
-            "date": "July 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178671.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
-            "teams" : "Brunei Vs Vietnam",
-            "hteam" : "Brunei",
-            "ateam" : "Vietnam",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62c5539988f8ca001d6c3275/62c5539988f8ca001d6c3275.m3u8"
-                }
-            ]
-         },
-{
            "league": "Club Friendly",
             "date": "July 6",
             "time": "(7:30) PM",
