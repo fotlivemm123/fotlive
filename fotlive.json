@@ -32,6 +32,22 @@
             ]
          },
 {
+           "league": "AFF U19 Championship",
+            "date": "July 6",
+            "time": "(6:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/840190.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
+            "teams" : "Indonesia Vs Thailand",
+            "hteam" : "Indonesia",
+            "ateam" : "Thailand",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "Club Friendly",
             "date": "July 12",
             "time": "(7:30) PM",
