@@ -14,5 +14,21 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 12",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "teams" : "Liverpool Vs Man U",
+            "hteam" : "Liverpool",
+            "ateam" : "Man U",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"0"
+                }
+            ]
          }
 ]
