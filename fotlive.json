@@ -1,22 +1,6 @@
 [
 
 {
-           "league": "AFF U19 Championship",
-            "date": "July 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/840190.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
-            "teams" : "Indonesia Vs Thailand",
-            "hteam" : "Indonesia",
-            "ateam" : "Thailand",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62c57c80ee629b001d167760/62c57c80ee629b001d167760.m3u8"
-                }
-            ]
-         },
-{
            "league": "Champions League Qlf",
             "date": "July 6",
             "time": "live",
