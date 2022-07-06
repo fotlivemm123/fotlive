@@ -16,6 +16,22 @@
             ]
          },
 {
+           "league": "Club Friendly",
+            "date": "July 6",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8427.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8680.png",
+            "teams" : "Bristol City Vs Cheltenham",
+            "hteam" : "Bristol City",
+            "ateam" : "Cheltenham",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "AFF U19 Championship",
             "date": "July 6",
             "time": "(7:30) PM",
