@@ -2,7 +2,7 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 7",
-            "time": "(2:30)PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
             "teams" : "Malaysia Vs Singapore",
@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may10/chunklist.m3u8"
                 }
               
             ]
