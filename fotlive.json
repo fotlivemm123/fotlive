@@ -18,6 +18,23 @@
          },
 {
            "league": "AFF U19 Championship",
+            "date": "July 7",
+            "time": "(6:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6332.png",
+            "teams" : "Laos Vs Cambodia",
+            "hteam" : "Laos",
+            "ateam" : "Cambodia",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"0"
+                }
+           
+            ]
+         },
+{
+           "league": "AFF U19 Championship",
             "date": "July 8",
             "time": "(2:30) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
