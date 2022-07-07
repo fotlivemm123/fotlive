@@ -2,23 +2,6 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
-            "teams" : "Malaysia Vs Singapore",
-            "hteam" : "Malaysia",
-            "ateam" : "Singapore",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may10/chunklist.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "AFF U19 Championship",
-            "date": "July 7",
             "time": "(6:30) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6332.png",
