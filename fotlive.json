@@ -1,23 +1,6 @@
 [
 
 {
-           "league": "Champions League Qlf",
-            "date": "July 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7983_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
-            "teams" : "Tobol Kostanay Vs Ferencvaros",
-            "hteam" : "Tobol Kostanav",
-            "ateam" : "Ferencvaros",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://hls1.yuanzhi.org.cn/live/H667103.m3u8?txSecret=2edfdcd30a2b645ea9b6bb44c2bd29ec&txTime=62C6D33B&_s=stream"
-                }
-              
-            ]
-         },
-{
            "league": "Bangkok Century Cup",
             "date": "July 12",
             "time": "(7:30) PM",
