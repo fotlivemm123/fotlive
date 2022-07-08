@@ -1,22 +1,5 @@
 [
 {
-           "league": "AFF U19 Championship",
-            "date": "July 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178671.png",
-            "teams" : "Thailand Vs Brunei",
-            "hteam" : "Thailand",
-            "ateam" : "Brunei",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "Club Friendly",
             "date": "July 8",
             "time": "(10:00) PM",
