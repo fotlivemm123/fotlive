@@ -9,6 +9,10 @@
             "hteam" : "Nürnberg",
             "ateam" : "Arsenal",
             "link":[
+{
+                    "type": "Wait link HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1657314795-0-0-5e227f53157032a816fce5f58006f497"
+                },
                 {
                     "type": "480SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
@@ -16,11 +20,8 @@
 {
                     "type": "FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62c846b744484f001d192cda/62c846b744484f001d192cda.m3u8"
-                },
-                {
-                    "type": "Wait link HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1657314795-0-0-5e227f53157032a816fce5f58006f497"
                 }
+                
                
             ]
          },
