@@ -20,7 +20,7 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 8",
-            "time": "(4:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178671.png",
             "teams" : "Thailand Vs Brunei",
@@ -29,7 +29,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8"
                 }
               
             ]
