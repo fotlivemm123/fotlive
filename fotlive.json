@@ -3,7 +3,7 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 8",
-            "time": "(2:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
             "teams" : "Myanmar Vs Vietnam",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62c7d2c4ee629b001d1677ec/62c7d2c4ee629b001d1677ec.m3u8"
                 }
                 
             ]
