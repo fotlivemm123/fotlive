@@ -33,6 +33,22 @@
                 }
             ]
          },
+{
+           "league": "AFF U19 Championship",
+            "date": "July 10",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
+            "teams" : "Vietnam Vs Thailand",
+            "hteam" : "Vietnam",
+            "ateam" : "Thailand",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
            "league": "Bangkok Century Cup",
