@@ -2,7 +2,7 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 9",
-            "time": "(6:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/95801.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
             "teams" : "Timor-Leste Vs Malaysia",
@@ -10,8 +10,8 @@
             "ateam" : "Malaysia",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 }
               
             ]
