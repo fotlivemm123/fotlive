@@ -50,6 +50,23 @@
             ]
          },
 {
+           "league": "UEFA Women Euro 2022",
+            "date": "July 9",
+            "time": "(10:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943.png",
+            "teams" : "Portugal Vs Switzerland",
+            "hteam" : "Portugal",
+            "ateam" : "Switzerland",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":""
+                }
+               
+            ]
+         },
+{
            "league": "Bangkok Century Cup",
             "date": "July 12",
             "time": "(7:30) PM",
