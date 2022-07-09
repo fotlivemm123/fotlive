@@ -1,21 +1,5 @@
 [   
-{
-           "league": "Club Friendly",
-            "date": "July 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8480.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-            "teams" : "Dynamo Dres Vs Dortmund",
-            "hteam" : "Dynamo Dres",
-            "ateam" : "Dortmund",
-            "link":[
-              
-                {
-                    "type": "480HD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62c989784b7cf6001cbc49c8/62c989784b7cf6001cbc49c8.m3u8"
-                }
-            ]
-         },      
+
                {
            "league": "UEFA Women Euro 2022",
             "date": "July 9",
