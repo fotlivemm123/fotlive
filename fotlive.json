@@ -1,56 +1,6 @@
-[
+[   
 {
-           "league": "Club Friendly",
-            "date": "July 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9819.png",
-            "teams" : "Leicester Vs Notts Country",
-            "hteam" : "Leicester",
-            "ateam" : "Notts Country",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may11/chunklist.m3u8"
-                }
-               
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/102167.png",
-            "teams" : "Ajax Vs Lokomotiva",
-            "hteam" : "Ajax",
-            "ateam" : "Lokomotiva",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8"
-                }
-                
-            ]
-         },
-{
-           "league": "AFF U19 Championship",
-            "date": "July 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/95801.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-            "teams" : "Timor-Leste Vs Malaysia",
-            "hteam" : "Timor-Leste",
-            "ateam" : "Malaysia",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
-                }
-              
-            ]
-         },   
-{
+
            "league": "Club Friendly",
             "date": "July 9",
             "time": "live",
@@ -62,7 +12,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may81/chunklist.m3u8"
                 }
             ]
          },        
