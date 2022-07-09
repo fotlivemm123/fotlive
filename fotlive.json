@@ -1,21 +1,25 @@
 [   
 {
-
            "league": "Club Friendly",
             "date": "July 9",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
-            "teams" : "Salzburg Vs Feyenoord",
-            "hteam" : "Salzburg",
-            "ateam" : "Feyenoord",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8480.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+            "teams" : "Dynamo Dres Vs Dortmund",
+            "hteam" : "Dynamo Dres",
+            "ateam" : "Dortmund",
             "link":[
+              
                 {
-                    "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may81/chunklist.m3u8"
+                    "type": "480HD",
+                "livelink":"https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/chunklist.m3u8"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may2SD/may2SD@456.m3u8"
                 }
             ]
-         },        
+         },      
                {
            "league": "UEFA Women Euro 2022",
             "date": "July 9",
