@@ -15,7 +15,23 @@
                 }
               
             ]
-         },           
+         },   
+{
+           "league": "Club Friendly",
+            "date": "July 9",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
+            "teams" : "Salzburg Vs Feyenoord",
+            "hteam" : "Salzburg",
+            "ateam" : "Feyenoord",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"0"
+                }
+            ]
+         },        
                {
            "league": "UEFA Women Euro 2022",
             "date": "July 9",
