@@ -19,7 +19,7 @@
                {
            "league": "UEFA Women Euro 2022",
             "date": "July 9",
-            "time": "(10:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943.png",
             "teams" : "Portugal Vs Switzerland",
@@ -28,7 +28,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"http://ranapk.cf/cdn/play-17/playlist.m3u8"
                 }
                
             ]
