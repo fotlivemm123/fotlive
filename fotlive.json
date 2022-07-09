@@ -2,7 +2,7 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 9",
-            "time": "(2:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
             "teams" : "Laos Vs Singapore",
@@ -11,7 +11,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1657374375-0-0-b677c338bcd749f01a74dbfe9d3f41a5"
                 }
             ]
          },   
