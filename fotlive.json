@@ -1,22 +1,22 @@
 [   
-
-               {
-           "league": "UEFA Women Euro 2022",
-            "date": "July 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943.png",
-            "teams" : "Portugal Vs Switzerland",
-            "hteam" : "Portugal",
-            "ateam" : "Switzerland",
+{
+           "league": "AFF U19 Championship",
+            "date": "July 10",
+            "time": "(4:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178671.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
+            "teams" : "Brunei Vs Philipines",
+            "hteam" : "Brunei",
+            "ateam" : "Philipines",
             "link":[
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1657403475-0-0-0bc71eeca899b7703d89230d3f095d85"
+                "livelink":"0"
                 }
-               
+                
             ]
          },
+               
 {
            "league": "AFF U19 Championship",
             "date": "July 10",
