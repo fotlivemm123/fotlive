@@ -1,20 +1,4 @@
-[   
-  {
-           "league": "UEFA Women Euro 2022",
-            "date": "July 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/394233.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/159979_small.png",
-            "teams" : "Belgium Vs Iceland",
-            "hteam" : "Belgium",
-            "ateam" : "Iceland",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1657489276-0-0-6288392bdb77cd31318f638906537bc3"
-                }
-            ]
-         },             
+[                
 {
            "league": "Bangkok Century Cup",
             "date": "July 12",
