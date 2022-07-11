@@ -19,7 +19,7 @@
 {
            "league": "AFF U19 Championship",
             "date": "July 11",
-            "time": "(2:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6332.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/95801.png",
             "teams" : "Cambodia Vs Timor-Leste",
@@ -28,7 +28,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1657547295-0-0-3312b6707bb912c9c30aae05011717d9"
                 }
               
             ]
