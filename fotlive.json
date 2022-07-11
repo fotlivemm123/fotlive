@@ -1,7 +1,7 @@
 [   
 {
            "league": "EURO Grp. A- Round 2",
-            "date": "junly 11",
+            "date": "july 11",
             "time": "10:30",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/394231_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394248_small.png",
@@ -16,23 +16,7 @@
                 }
             ]
          },
-{
-           "league": "0",
-            "date": "April 16",
-            "time": "(0) AM",
-            "himg": "0",
-            "aimg": "0",
-            "teams" : "0 Vs 0",
-            "hteam" : "0",
-            "ateam" : "0",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-                
-            ]
-         },  
+
        
 {
            "league": "Bangkok Century Cup",
