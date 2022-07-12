@@ -16,5 +16,49 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "UEFA Women EURO 2022",
+            "date": "July 12",
+            "time": "(10:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/4445.png",
+            "teams" : "Denmark Vs Finland",
+            "hteam" : "Denmark",
+            "ateam" : "Finland",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "SD",
+                "livelink":"0"
+                }              
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 12",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7896.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+            "teams" : "Lugano Vs Inter",
+            "hteam" : "Lugano",
+            "ateam" : "Inter",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                }
+            ]
          }
 ]
