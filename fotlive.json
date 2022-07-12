@@ -11,6 +11,10 @@
             "hteam" : "Liverpool",
             "ateam" : "Man U",
             "link":[
+{
+                    "type": "SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1657651755-0-0-913769a8746cd3562d6be36f0e9a4260"
+                },
                 {
                     "type": "480SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
@@ -18,10 +22,6 @@
 {
                     "type": "FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62cd5e002a8404001d7d33f1/62cd5e002a8404001d7d33f1.m3u8"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
                 }
             ]
          },
