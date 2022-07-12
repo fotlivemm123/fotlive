@@ -4,7 +4,7 @@
 {
            "league": "UEFA Women EURO 2022",
             "date": "July 12",
-            "time": "(10:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/4445.png",
             "teams" : "Denmark Vs Finland",
@@ -13,7 +13,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 },
                 {
                     "type": "SD",
