@@ -12,8 +12,16 @@
             "ateam" : "Man U",
             "link":[
                 {
-                    "type": "HD",
+                    "type": "480SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62cd5e002a8404001d7d33f1/62cd5e002a8404001d7d33f1.m3u8"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
                 }
             ]
          },
