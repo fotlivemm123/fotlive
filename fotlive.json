@@ -13,6 +13,11 @@
             "link":[
 {
                     "type": "SD",
+                "livelink":"http://27assia.com/hls/81.m3u8?md5=UE0Orle0JZp-pIpcv8ji7g&expires=1657635225"
+         
+                }
+{
+                    "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1657651755-0-0-913769a8746cd3562d6be36f0e9a4260"
                 },
                 {
