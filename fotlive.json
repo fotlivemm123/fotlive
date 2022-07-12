@@ -3,7 +3,7 @@
        
 {
            "league": "Bangkok Century Cup",
-            "date": "July 12",
+            "date": "live",
             "time": "(7:30) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
@@ -13,7 +13,7 @@
             "link":[
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
             ]
          },
