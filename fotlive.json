@@ -1,24 +1,4 @@
 [  
-{
-           "league": "Club Friendly",
-            "date": "July 13",
-            "time": "live",
-            "himg": "https://img0.aiscore.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w120",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "K League 1 Vs Tottenham",
-            "hteam" : "K League 1",
-            "ateam" : "Tottenham",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
-                }
-            ]
-         },
 
 {
            "league": "AFF U19 Championship",
