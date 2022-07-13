@@ -1,26 +1,5 @@
 [  
 {
-           "league": "AFF U19 Championship",
-            "date": "July 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-            "teams" : "Vietnam Vs Malaysia",
-            "hteam" : "Vietnam",
-            "ateam" : "Malaysia",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1657721475-0-0-c2465538897af335251c78e6a6ebd490"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1657721475-0-0-c2465538897af335251c78e6a6ebd490"
-                }
-                
-            ]
-         },
-{
            "league": "Club Friendly",
             "date": "July 13",
             "time": "live",
