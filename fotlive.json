@@ -50,7 +50,7 @@
 {
            "league": "Club Friendly",
             "date": "July 13",
-            "time": "(5:30) PM",
+            "time": "live",
             "himg": "https://img0.aiscore.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png!w120",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "K League 1 Vs Tottenham",
@@ -59,15 +59,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
                 }
             ]
          },
