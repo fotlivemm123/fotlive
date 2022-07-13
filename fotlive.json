@@ -26,7 +26,7 @@
 {
            "league": "AFF Women Championship",
             "date": "July 13",
-            "time": "(5:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
             "teams" : "Vietnam Vs Myanmar",
@@ -35,15 +35,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1657727324-0-0-8c85490ad5bbfb8bd77f8641c00c36cf"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1657727324-0-0-8c85490ad5bbfb8bd77f8641c00c36cf"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1657727324-0-0-8c85490ad5bbfb8bd77f8641c00c36cf"
                 }
             ]
          },
