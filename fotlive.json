@@ -19,34 +19,11 @@
                 }
             ]
          },
-{
-           "league": "AFF Women Championship",
-            "date": "July 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-            "teams" : "Vietnam Vs Myanmar",
-            "hteam" : "Vietnam",
-            "ateam" : "Myanmar",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62cea1fe13d10d001d3add42/62cea1fe13d10d001d3add42.m3u8"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62cea1fe13d10d001d3add42/62cea1fe13d10d001d3add42.m3u8"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://pullalilive.https://livestream.socialstreaming.tv/live/62cea1fe13d10d001d3add42/62cea1fe13d10d001d3add42.m3u8.com/live/stream-143449.m3u8?auth_key=1657727324-0-0-8c85490ad5bbfb8bd77f8641c00c36cf"
-                }
-            ]
-         },
+
 {
            "league": "AFF U19 Championship",
             "date": "July 13",
-            "time": "(7:30) PM",
+            "time": "(live)",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
             "teams" : "Laos Vs Thailand",
@@ -55,15 +32,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ceb8f1e256a0001d67abd1/62ceb8f1e256a0001d67abd1.m3u8"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ceb8f1e256a0001d67abd1/62ceb8f1e256a0001d67abd1.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ceb8f1e256a0001d67abd1/62ceb8f1e256a0001d67abd1.m3u8"
                 }
             ]
          },
