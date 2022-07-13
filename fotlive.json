@@ -1,33 +1,10 @@
 [  
 
-{
-           "league": "AFF U19 Championship",
-            "date": "July 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
-            "teams" : "Laos Vs Thailand",
-            "hteam" : "Laos",
-            "ateam" : "Thailand",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1657738215-0-0-344985cd054cb55cf3b37586bc50c8a6"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1657738215-0-0-344985cd054cb55cf3b37586bc50c8a6"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1657738215-0-0-344985cd054cb55cf3b37586bc50c8a6"
-                }
-            ]
-         },
+
 {
            "league": "UEFA Women Euro 2022",
             "date": "July 13",
-            "time": "(10:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943.png",
             "teams" : "Sweden (W) Vs Switzerland (W)",
@@ -36,11 +13,11 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1657749075-0-0-4c53e34fb0abab2ecb5cf3afa6a356c0"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1657749075-0-0-4c53e34fb0abab2ecb5cf3afa6a356c0"
                 }
                 
                 
