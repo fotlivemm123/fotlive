@@ -68,6 +68,30 @@
             ]
          },
 {
+           "league": "AFF U19 Championship",
+            "date": "July 13",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
+            "teams" : "Laos Vs Thailand",
+            "hteam" : "Laos",
+            "ateam" : "Thailand",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "UEFA Women Euro 2022",
             "date": "July 13",
             "time": "(10:30) PM",
