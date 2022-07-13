@@ -20,5 +20,53 @@
                 
                 
             ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 15",
+            "time": "(4:35) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
+            "teams" : "Man U Vs Melbourne Victory",
+            "hteam" : "Man U",
+            "ateam" : "Melbourne Victory",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 15",
+            "time": "(7:05) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Crystal Palace Vs Liverpool",
+            "hteam" : "Crystal Palace",
+            "ateam" : "Liverpool",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                }
+            ]
          }
 ]
