@@ -1,28 +1,4 @@
 [  
-
-
-{
-           "league": "UEFA Women Euro 2022",
-            "date": "July 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943.png",
-            "teams" : "Sweden (W) Vs Switzerland (W)",
-            "hteam" : "Sweden (W)",
-            "ateam" : "Switzerland (W)",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1657749075-0-0-4c53e34fb0abab2ecb5cf3afa6a356c0"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1657749075-0-0-4c53e34fb0abab2ecb5cf3afa6a356c0"
-                }
-                
-                
-            ]
-         },
 {
            "league": "Club Friendly",
             "date": "July 15",
