@@ -1,25 +1,3 @@
-[  
-
-{
-           "league": "Club Friendly",
-            "date": "July 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Crystal Palace Vs Liverpool",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Liverpool",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1657908676-0-0-70344c37cdbc4afe5d5bef470c5f96bc"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1657908676-0-0-70344c37cdbc4afe5d5bef470c5f96bc"
-                
-                
-                }
-            ]
-         }
+[
+       
 ]
