@@ -1,29 +1,9 @@
 [  
+
 {
            "league": "Club Friendly",
             "date": "July 15",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
-            "teams" : "Man U Vs Melbourne Victory",
-            "hteam" : "Man U",
-            "ateam" : "Melbourne",
-            "link":[
-{
-                    "type": "320 SD",
-                "livelink":"https://est01.varcdn.top/b5/tracks-v1a1/mono.m3u8"
-                },
-
-                {
-                    "type": "Waiting",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 15",
-            "time": "(7:05) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "teams" : "Crystal Palace Vs Liverpool",
@@ -32,15 +12,13 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1657908676-0-0-70344c37cdbc4afe5d5bef470c5f96bc"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1657908676-0-0-70344c37cdbc4afe5d5bef470c5f96bc"
+                
+                
                 }
             ]
          }
