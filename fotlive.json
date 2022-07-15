@@ -2,24 +2,28 @@
 {
            "league": "Club Friendly",
             "date": "July 15",
-            "time": "(4:35) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
             "teams" : "Man U Vs Melbourne Victory",
             "hteam" : "Man U",
             "ateam" : "Melbourne",
             "link":[
+{
+                    "type": "320 SD",
+                "livelink":"https://video-weaver.jfk04.hls.live-video.net/v1/playlist/CqAF9_wFhBFL5YffAt6cc4ctNL7tcGlLgqgBDHhngNDEL8buv8hKUUaY_YmeTuo34BZwA2kAwnZk5MDxb5MLbMPJ8vGBGanzcu1XTvxOZ--b05rStDK3i4JQEtVZgh1i4mXMwL4UBW7DUtQW4qjfD1mvNchDWHPRMj9Zi1MZb4FxD8_ZIe9oK9qbvbdSfwj55rs1700AgC4V_bGDAD5LB6r09K-37DW5MHxRgcrXug1I0-c5jZibYV-0tiKcaoNCEUmzvAqXN_GiC8Un_xvb16Pg2RfWJfbCsz5Cp5q_MBMbzNoihFk4HHbGQOdW0tPCP54M6Pu08kwmVSpYFMoZyvxZkh_Ht1J2lBuZ5OOlB82lkAvRFFsxdqs1q1bcJUPkSWhSQlSxFpsmMPThpYR6D24mLgGdgIK-J00YiuC32hz4yckAQoOp0p7F-K3glVGcPUj4jMP3yN_3iXjJZkGUzArpz5qkislqleN1J4-g1JxaqrH6TJQ0WGUOEX_LLF1RcEEVczLfheoeRwhDd-7Z8YvGPFeKBRiAqfLq3u70FLtHZbWACHZ4pHzfuyM5efnk8vh276QHMeXqd26z9C2qbUf52ACukYMg3vzZWl2Fq-sR5PqsJwL6FaNyzSHKhADG3mwP0d8bcafib3VlSYwQrYRFxLJdRzv3ItJQyphE9jrWtDIg_ZBKEUneKdvtPF0D3BLBMk8PjWqNhf1TZMd5jVjSyQ5RJPujbeYoxAT3d4Yqm_r1OHCcgnVBzPh7OX7XovCS9yhnBXj3BfAO0YXoyEt0ZlMPC68aDOQRN6hUkK7C-d9rk8cJ_yEfcuP56Fqb4kWiWyCUaaiOxjnMPoMxd_UZYhoh7YHSox9E8mpIb6b6rBTy2SbvSrW24osSfZVi3NvBGgw_iIHwjdvwWtJZadggASoJdXMtZWFzdC0yMJcE.m3u8"
+                },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.jfk04.hls.live-video.net/v1/playlist/CqAFQtqqJUTF_-55ea42HruLXnBRSaBu8ttUngZhekCmbQja___1f-nwmjK_gAkFzQY47eMagjLHQX_jxl_D6GoFWcKd4IgJHdOEKRj4FgiUtejN9VPsddJbCL4zoVyhSK10fAZkd-oVUVwKH4DvXNYY2GtB7pYRLKp8ln0hV17ao_6tJdKvxrlFg9nY9Tq6vOXbXrog0yDhJzy-neeIrE3CssJZzp4s7XyPJQ07siPjpwyPWLCI8-Fncvqi6Nr7Zel7ftmvnEgV4FX1qpR08hRXCb2KES90pyer08FF9NBn0Cnm214Ax_SLFmGqfmWp6yamvW91pSC_K_umzJlHOBL_lRRwBFF4eYMSQkTnFhQMjx_twZtuFe8rd1VS9dUfT1YaCkHXAsDPM28cpJ47VWGq5VL2LQP_SKsYKw2XmlQE9Ff9Ffxtv9WsakrJFEhM-fR-9zrInDIjsWmWEq8fot7edUhB6hP04nLHDw_uFJPFklX3e4rSpSTGG8JZ_l1X8VUMN-wILWyNxil-ySi1QYneE3N775eOpMwgZRV34Vb-4BymtdkBqxE1RO3DEOrv_3-lDjmPvaIyp5SsoWtzQNylanG7YRc5qvLcOOt5QTrtKIf6QyWtUyBSi_GDfu_AV1BtPGwAxJ8Leu5UiFGiIaC2jFpFFnetsK1zfn2tbtuMMz5Gs9t_ScM4JZq0DK2-Py7h78-ylj3IMifXSDFzvpIa7q2Sm9-3NfbTe4lLVYG7u5hNtTsYi3LvQzi7rMYSYhjo57OD_sWX_NGPVqsfN39qmC2QPkuQskHfYVjoUC1v5xNri65ns3Imuf_wSFTcjORjGGlPXrKZUzVLVsjox0tjM0zsvi9bV_r1MrWiGnYTaXrcBUJyQeTpKL8foeGKdiphGgwNGPEMLzkdjQ0yaLggASoJdXMtZWFzdC0yMJcE.m3u8"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.jfk04.hls.live-video.net/v1/playlist/CqAF0ivwC3-ObmydNBbxp9TIY_Ynp9kk2p1mmmztf06iyERY-fiT8CtMkMlMzSjZbugiXX-GkQZHyWxW6xcnAyZkXd2BToSnrhk0lzCsp4rokB3kGI5C7ix-a-S604n_ek2mQ9s0Y-c8KRz2rDdjexeAJfXNR2SZo_asCjbfeohKgcHts_HuBExf-F09u_bTfOeD-2YRXjHnt2ohyaRzKEAKzjCeXtGcQ-FsRDRmPosXq0XO4sWe96MsT5YrtTAcWTWy_XPcSjoqQSOarGcjFOqpW6TpO85CQLZKUCDVXVmU6oNXTw6K9Gh2IMH7vFatEok5d6hOMY62NrlY3kkBciChb7mcogXd8ufoMYDr7ut_5ecnaYT2HUI9XU5slrqv0yppbLH5EHHjoPnCQ7ayBizfdgXELy4b8MsO_XzESc4ho306-NsKZfTZBDLGU2D_bhg-Z4fCsniX--PfGfFehcL_KmNiWNBsCIhAuvBTVbe198dAaEKaFa8A1ZeBYa4CQ0MsQKhewddHy9TBo_ENk9Cfgw70AQb4QAPDoeD-ioKGe3AT00FBjtd19SMUyu_-Wcbw0xo6B4N9ZX8-lSHKfI-HgDBwV3KykRBsamJW5SVRMFQP5tJvzn7CFiYWk8_qGzVV66FeNTwdtBisWNajekdUAV7YLdwkMRG-5tNwiqbpejTieQ38lzLY4jG-B61xMHHv2fYVM4boELLAfnVguACGAH6FGZsXilgzkMAb8wdaVf3_HK65BzcvgYwPgppf19ItddCUADJqPREm2gP0Vi2MHWqyAdYRQ1-mCwqZ2HeqUGWQoGFZlTfisBy9SQDAs8F8md_bbwDnOBRxHXLXSpJgJm7rNrjw946yjozw71fka7cp8aeXVaF52UTOw75cqvtsGgzvqFNL4uwPt-d13UkgASoJdXMtZWFzdC0yMJcE.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "Waiting",
+                "livelink":""
                 }
             ]
          },
