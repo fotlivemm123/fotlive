@@ -3,30 +3,6 @@
            "league": "Club Friendly",
             "date": "July 17",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6576_small.png",
-            "teams" : "Chelsea Vs CF America",
-            "hteam" : "Chelsea",
-            "ateam" : "CF America",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://golive.yn.lt/live/bola/01.m3u8"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://golive.yn.lt/live/bola/01.m3u8"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://golive.yn.lt/live/bola/01.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 17",
-            "time": "(11:05) AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Aston Villa Vs Leeds",
@@ -35,15 +11,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62d389464f1f41001dce13a8/62d389464f1f41001dce13a8.m3u8"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
                 }
             ]
          },
