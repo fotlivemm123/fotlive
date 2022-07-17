@@ -51,7 +51,7 @@
 {
            "league": "Club Friendly",
             "date": "July 17",
-            "time": "(5:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Everton Vs Arsenal",
@@ -60,15 +60,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658033297-0-0-73d765be543de3f027ddabf6771581ff"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658033297-0-0-73d765be543de3f027ddabf6771581ff"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658033297-0-0-73d765be543de3f027ddabf6771581ff"
                 }
             ]
          },
