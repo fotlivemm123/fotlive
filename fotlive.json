@@ -26,7 +26,7 @@
 {
            "league": "UEFA Women Euro 2022",
             "date": "July 17",
-            "time": "(10:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
             "teams" : "Switzerland Vs Netherlands",
@@ -35,15 +35,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115447.m3u8?auth_key=1658095097-0-0-a193c9980a9dd1f504b48b36ea11d179"
                 },
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115447.m3u8?auth_key=1658095097-0-0-a193c9980a9dd1f504b48b36ea11d179"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115447.m3u8?auth_key=1658095097-0-0-a193c9980a9dd1f504b48b36ea11d179"
                 }
             ]
          },
