@@ -22,5 +22,30 @@
                 "livelink":"0"
                 }
             ]
-         }    
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 17",
+            "time": "(11:05) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Aston Villa Vs Leeds",
+            "hteam" : "Aston Villa",
+            "ateam" : "Leeds",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                }
+            ]
+         }
+
 ]
