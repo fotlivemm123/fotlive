@@ -1,6 +1,78 @@
 [
 {
            "league": "Club Friendly",
+            "date": "July 18",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Mainz Vs Newcastle",
+            "hteam" : "Mainz",
+            "ateam" : "Newcastle",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 18",
+            "time": "(11:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "teams" : "Dortmund Vs Valencia",
+            "hteam" : "Dortmund",
+            "ateam" : "Valencia",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 18",
+            "time": "(11:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10009_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "Austria Klagenfurt Vs Southampton",
+            "hteam" : "Austria Klagenfurt",
+            "ateam" : "Southampton",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
             "date": "July 19",
             "time": "(4:40) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
