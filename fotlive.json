@@ -1,28 +1,4 @@
 [
-{
-           "league": "Club Friendly",
-            "date": "July 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Crystal Palace Vs Man United",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Man United",
-            "link":[
-                {
-                    "type": "480HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62d675e5750aaf001ddc4d1f/62d675e5750aaf001ddc4d1f.m3u8"
-                }
-            ]
-         },
 
 {
            "league": "Club Friendly",
