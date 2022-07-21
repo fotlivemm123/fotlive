@@ -47,7 +47,204 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 22",
+            "time": "(4:35)) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Crystal Palace Vs Leeds",
+            "hteam" : "Crystal Palace",
+            "ateam" : "Leeds",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 22",
+            "time": "(11:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+            "teams" : "Dortmund Vs Villarreal",
+            "hteam" : "Dortmund",
+            "ateam" : "Villarreal",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(9:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7807_small.png",
+            "teams" : "Juventus Vs Guadalajara",
+            "hteam" : "Juventus",
+            "ateam" : "Guadalajara",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(4:15) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "teams" : "Man United Vs Aston Villa",
+            "hteam" : "Man United",
+            "ateam" : "Aston Villa",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(4:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Urawa Red Diamonds Vs PSG",
+            "hteam" : "Urawa Red Diamonds",
+            "ateam" : "PSG",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "teams" : "Ajax Vs Frankfurt",
+            "hteam" : "Ajax",
+            "ateam" : "Frankfurt",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Lens Vs Inter",
+            "hteam" : "Lens",
+            "ateam" : "Inter",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(11:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "Nice Vs Roma",
+            "hteam" : "Nice",
+            "ateam" : "Roma",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
          }
+
+
+
+
+
 
 
 
