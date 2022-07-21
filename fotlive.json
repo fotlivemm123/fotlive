@@ -2,6 +2,31 @@
 {
            "league": "Club Friendly",
             "date": "July 21",
+            "time": "(10:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "Udinese Vs Leverkusen",
+            "hteam" : "Udinese",
+            "ateam" : "Leverkusen",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Club Friendly",
+            "date": "July 21",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
