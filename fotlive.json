@@ -18,8 +18,13 @@
                     "type": "320 SD",
                 "livelink":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8"
                 },
-                {
+{
                     "type": "720 HD",
+                "livelink":"https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CpME7lHwUrMJxL_K_tDAa5YidW5X0CiZL_VWKTgnbcy8k0hxwMRgL3Vj4wIeCP4XjKjkJLMmIlJG_xPiiEr_cUlEHHSeN2wDLf9TYntoAz450fMNZKN8Myl8815wrfgLZURCpsRVGyOqsH5o6eEZH21L_Hk4nAPjZ9eK1xIcYk4fW02wpkGcoJwv0luzSIvpbZeI-e8rjLo4o1oo1sHz1aTL5JwJb3MVYJUu6Lm6dqrNqVtGe20Mngsob-ckQdWiq7PUUaO4EXDH5OBK3wXqaq9pFBGqrkABU9HfKuONKg8ULv2gLQO27gWmM9G85mG6wxEpI_uVvKOehHPHFlm2k3743HZwuhonExxK2kUXVkTdxLVj_33fGJv1WovNS_lLs46y5JUsIVvJn9umRWEtiiuTLI64e9DlOh5Jz0dwufjlqJfxzOQZ8npZQ_yT79b8HuEcnxZAYFOAh80eF0o70oySNrCji4uEdP30PpT-Ut-fnBWPVUVxcFnHbALEid6PvqaDQ9FVkLokmC_1XbikZIIOZ2i9pq8777r8NrqDJgVUS4yXdNLfFCOOlQBQQhDEJ2wHyMY5rRcjlxsa5kVeQwzGRhUUb6ZEnv41r-3rnKbNv1g6xwbMr0tdNEs24gOZthES_CyC8wB0jW6DETlU6xZjpL69-isEOsuJqXoY-EXGeqTJEOVpzIp5mBE6YRbkO_xIU1BOGgzW8lf88VIf3wVE3yUgASoJZXUtd2VzdC0yMKIE.m3u8"
+         
+                },
+                {
+                    "type": "1080 HD",
                 "livelink":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"
                 }
             ]
