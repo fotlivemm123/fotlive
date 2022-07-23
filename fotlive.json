@@ -168,13 +168,101 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 24",
+            "time": "(5:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Bayern Vs Man City",
+            "hteam" : "Bayern",
+            "ateam" : "Man City",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 24",
+            "time": "(6:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Arsenal Vs Chelsea",
+            "hteam" : "Arsenal",
+            "ateam" : "Chelsea",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 24",
+            "time": "(9:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Real Madrid Vs Barcelona",
+            "hteam" : "Real Madrid",
+            "ateam" : "Barcelona",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 23",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8483_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Blackpool Vs Everton",
+            "hteam" : "Blackpool",
+            "ateam" : "Everton",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
          }
-
-
-
-
-
-
-
-
 ]
