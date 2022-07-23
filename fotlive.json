@@ -3,7 +3,7 @@
 {
            "league": "Play Store မှာ update ရပါပြီ",
             "date": "July 23",
-            "time": "live",
+            "time": "Ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Rangers Vs Tottenham",
@@ -36,15 +36,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658612838-0-0-7bb0e0da77d70c1aaba4888de185973b"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658612838-0-0-7bb0e0da77d70c1aaba4888de185973b"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658612838-0-0-7bb0e0da77d70c1aaba4888de185973b"
                 }
             ]
          },
