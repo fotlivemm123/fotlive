@@ -37,15 +37,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"https://venus.meta-scores.com/73fd09a39b/index.m3u8"
+                "livelink":"https://pull.xingliju.com/leisu/1118749015931777.m3u8?auth_key=1658610121-0-0-ac77f019c9299c148637439e610763f9"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"https://venus.meta-scores.com/73fd09a39b/index.m3u8"
+                "livelink":"https://pull.xingliju.com/leisu/1118749015931777.m3u8?auth_key=1658610121-0-0-ac77f019c9299c148637439e610763f9"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://venus.meta-scores.com/73fd09a39b/index.m3u8"
+                "livelink":"https://pull.xingliju.com/leisu/1118749015931777.m3u8?auth_key=1658610121-0-0-ac77f019c9299c148637439e610763f9"
                 }
             ]
          },
