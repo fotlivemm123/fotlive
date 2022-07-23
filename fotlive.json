@@ -25,9 +25,9 @@
          },
 
 {
-           "league": "Club Friendly",
+           "league": "Play Store မှာ update ရပါပြီ",
             "date": "July 23",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Rangers Vs Tottenham",
@@ -36,15 +36,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1658605398-0-0-b40fd9c62a974daf1de88ac91d5cb873"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1658605398-0-0-b40fd9c62a974daf1de88ac91d5cb873"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1658605398-0-0-b40fd9c62a974daf1de88ac91d5cb873"
                 }
             ]
          },
