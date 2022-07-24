@@ -3,7 +3,7 @@
 {
            "league": "Play Storeမှာ",
             "date": "တင်ပေးပါ",
-            "time": "update",
+            "time": "live",
             "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
             "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
             "teams" : "0 Vs 0",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://cdn.veed.io/render/51b6b63f-fdc1-4a40-a457-f2f3f37a7e8a.mp4#t=0.001"
+                "livelink":"https://cdn-cf-east.streamable.com/video/mp4/7h5vc1.mp4?Expires=1658930100&Signature=HVBBySxBKUkfvYErL39rM5U3RmYyMWd9R97PPaYac0CkDcbGfZXHoSkJNCD6~3oKkhFCi5HUhOQEFhlnndxJL3Q~UwW5mxi4nSsXyRPOYjG-58vzvMWZqdCaYj98ATVWa8vtJLJ-WlJXGmw~1y7HVIAWd1OidkGhw23VU7uWCtBgRloSkIf8nwb3Htw0ZHgmjpDG~AobIqWPkiX9VOvblWhU6XOC-wgoy6YJSJMzo-MUbUuOHFfa~OxQvGRzZRPDl9r5-0Vmz5VLrcAgCpQZ96SnCY-SZWPP1AJd~~~cO02V-HGd0-s54Nzr1K5IhTh4f5oOlTdQs3aSmytj~bovvQ__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ"
                 }
                 
             ]
