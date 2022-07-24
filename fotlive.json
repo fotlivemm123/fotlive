@@ -3,7 +3,7 @@
 {
            "league": "Play Storeမှာ",
             "date": "တင်ပေးပါ",
-            "time": "update",
+            "time": "live",
             "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
             "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
             "teams" : "0 Vs 0",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://download.myanmarsubmovie.com/wp-content/uploads/2022/2022/Movies/The%20Wolf%20and%20the%20Lion/small/The%20Wolf%20and%20the%20Lion.mp4"
+                "livelink":"https://cdn.veed.io/render/51b6b63f-fdc1-4a40-a457-f2f3f37a7e8a.mp4#t=0.001"
                 }
                 
             ]
