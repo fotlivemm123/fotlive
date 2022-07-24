@@ -2,30 +2,6 @@
 {
            "league": "Play Store မှာ update ရပါပြီ",
             "date": "July 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "play storeမှာ update လုပ်ပေးပါ",
-            "hteam" : "Arsenal",
-            "ateam" : "Chelsea",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658641578-0-0-e0a61192e602597e1603e87a1be21163"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658641578-0-0-e0a61192e602597e1603e87a1be21163"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"http://d2gm6nbu0f7reb.cloudfront.net/stream/NDYzMQ==/1080p.m3u8"
-  }
-            ]
-         },
-{
-           "league": "Play Store မှာ update ရပါပြီ",
-            "date": "July 24",
             "time": "(9:30) AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
