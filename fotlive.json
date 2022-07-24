@@ -29,15 +29,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may121/chunklist.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may121/chunklist.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may121/chunklist.m3u8"
                 }
             ]
          },
