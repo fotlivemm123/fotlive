@@ -3,7 +3,7 @@
 {
            "league": "Play Storeမှာ",
             "date": "တင်ပေးပါ",
-            "time": "uodate",
+            "time": "update",
             "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
             "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
             "teams" : "0 Vs 0",
@@ -95,7 +95,31 @@
                 "livelink":"0"
                 }
             ]
-         }
+         },
+{
+           "league": "Play Store တွင် Update တင်ပါ",
+            "date": "July 25",
+            "time": "(4:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6582_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Gamba Osaka Vs PSG",
+            "hteam" : "Gamba Osaka",
+            "ateam" : "PSG",
+            "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
 
 
 ]
