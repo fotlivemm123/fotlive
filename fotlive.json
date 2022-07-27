@@ -65,9 +65,9 @@
             ]
          },
 {
-           "league": "Play store မှာ Updateတင်ပါ",
+           "league": "Club Friendly",
             "date": "July 28",
-            "time": "(00:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "teams" : "Salzburg Vs Liverpool",
@@ -75,17 +75,24 @@
             "ateam" : "Liverpool",           
  "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "LFCTV",
+                "livelink":"http://185.209.15.216/live/soc/chunklist_w1897665528_tkd293emF0b2tlbmVuZHRpbWU9MTY1ODk0NTQzMSZ3b3d6YXRva2VuaGFzaD1fcFdoVmlHSjRLWHhEVGdwVGZpcDFFaWxCcEloWlU0SHpWbGxUS0lLU1JSXzFhcXB0Qm0yR1ZiTWJvTUVSMGpRTzNhMzA5b1FNcnQwaU5zSHItQkxBUT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1ODk0MzYzMQ==.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"http://185.209.15.216/live/soc/chunklist_w468060818_tkd293emF0b2tlbmVuZHRpbWU9MTY1ODk0NTQzMSZ3b3d6YXRva2VuaGFzaD1fcFdoVmlHSjRLWHhEVGdwVGZpcDFFaWxCcEloWlU0SHpWbGxUS0lLU1JSXzFhcXB0Qm0yR1ZiTWJvTUVSMGpRTzNhMzA5b1FNcnQwaU5zSHItQkxBUT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1ODk0MzYzMQ==.m3u8?wowzatokenendtime=1658945431&wowzatokenhash=_pWhViGJ4KXxDTgpTfip1EilBpIhZU4HzVllTKIKSRR_1aqptBm2GVbMboMER0jQO3a309oQMrt0iNsHr-BLAQ==&wowzatokenstarttime=1658943631"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
+                    
+                    "type":"VIETNUM (SD)",
+    "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+},
+    {
+  "type":"VIETNUM (HD)",
+    "livelink":"https://livestream-2.socialstreaming.tv/live/62e17341db7bb7001dcf65a7/62e17341db7bb7001dcf65a7.m3u8"
+}
+           
+              
             ]
          },
 {
