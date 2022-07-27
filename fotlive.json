@@ -74,14 +74,11 @@
             "hteam" : "Salzburg",
             "ateam" : "Liverpool",           
  "link":[
-                {
-                    "type": "LFCTV",
-                "livelink":"http://185.209.15.216/live/soc/chunklist_w1897665528_tkd293emF0b2tlbmVuZHRpbWU9MTY1ODk0NTQzMSZ3b3d6YXRva2VuaGFzaD1fcFdoVmlHSjRLWHhEVGdwVGZpcDFFaWxCcEloWlU0SHpWbGxUS0lLU1JSXzFhcXB0Qm0yR1ZiTWJvTUVSMGpRTzNhMzA5b1FNcnQwaU5zSHItQkxBUT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1ODk0MzYzMQ==.m3u8"
-                },
+                
                 {
                     "type": "HD",
-                "livelink":"http://185.209.15.216/live/soc/chunklist_w468060818_tkd293emF0b2tlbmVuZHRpbWU9MTY1ODk0NTQzMSZ3b3d6YXRva2VuaGFzaD1fcFdoVmlHSjRLWHhEVGdwVGZpcDFFaWxCcEloWlU0SHpWbGxUS0lLU1JSXzFhcXB0Qm0yR1ZiTWJvTUVSMGpRTzNhMzA5b1FNcnQwaU5zSHItQkxBUT09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY1ODk0MzYzMQ==.m3u8?wowzatokenendtime=1658945431&wowzatokenhash=_pWhViGJ4KXxDTgpTfip1EilBpIhZU4HzVllTKIKSRR_1aqptBm2GVbMboMER0jQO3a309oQMrt0iNsHr-BLAQ==&wowzatokenstarttime=1658943631"
-                },
+                "livelink":"http://191.96.100.144:8030/T-Sports11/index.m3u8"
+    },
                 {
                     
                     "type":"VIETNUM (SD)",
