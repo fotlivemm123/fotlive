@@ -93,7 +93,7 @@
 {
            "league": "Play store မှာ Updateတင်ပါ",
             "date": "July 27",
-            "time": "(11:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8388_small.png",
             "teams" : "AT Madrid Vs Numancia",
@@ -101,16 +101,13 @@
             "ateam" : "Numancia",            
  "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
                 },
+                
                 {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62e160ee2fd5da001c0b58ec/62e160ee2fd5da001c0b58ec.m3u8"
                 }
             ]
          },
