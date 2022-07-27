@@ -18,30 +18,6 @@
             ]
          },
    
-{
-           "league": "Play store မှာ Updateတင်ပါ",
-            "date": "July 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
-            "teams" : "Lazio Vs Genoa",
-            "hteam" : "Lazio",
-            "ateam" : "Genoa",
-            "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
-                }
-            ]
-         },
 
 {
            "league": "Play store မှာ Updateတင်ပါ",
