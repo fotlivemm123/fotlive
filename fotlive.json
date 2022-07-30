@@ -69,7 +69,7 @@
 {
            "league": "Super Cup Final",
             "date": "July 31",
-            "time": "(1:00) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "teams" : "RB Leipzig Vs Bayern",
@@ -78,11 +78,11 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62e565a7f68d4a001cd93942/62e565a7f68d4a001cd93942.m3u8"
                 },
                 {
                     "type": "720 HD",
