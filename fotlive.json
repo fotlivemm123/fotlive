@@ -175,6 +175,31 @@
             ]
          },
 {
+           "league": "Super Cup Final",
+            "date": "July 31",
+            "time": "(1:00) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "RB Leipzig Vs Bayern",
+            "hteam" : "RB Leipzig",
+            "ateam" : "Bayern",
+            "hotmat":"yes",
+ "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "UEFA Women Euro Final",
             "date": "July 31",
             "time": "(10:30) PM",
