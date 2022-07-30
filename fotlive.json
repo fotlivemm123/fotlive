@@ -17,39 +17,7 @@
                 
             ]
          },
-{
-           "league": "Club Friendly",
-            "date": "July 30",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams" : "Arsenal Vs Sevilla",
-            "hteam" : "Arsenal",
-            "ateam" : "Sevilla",
-            
- "link":[
-                {
-                    "type": "360SD",
-                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-                {
-                    "type": "BEIN English",
-                "livelink":"http://191.96.100.144:8030/T-Sports11/index.m3u8"
-                },
-{
-                    "type": "240SD",
-                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_240p_chunks.m3u8"
-                },
-                {
-                    "type": "1080HD",
-                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "Club Friendly",
             "date": "July 30",
