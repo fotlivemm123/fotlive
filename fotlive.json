@@ -18,36 +18,7 @@
             ]
          },
 
-{
-           "league": "Club Friendly",
-            "date": "July 30",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "AT Madrid Vs Man United",
-            "hteam" : "AT Madrid",
-            "ateam" : "Man United",
-            
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-{
-                    "type": "540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"http://191.96.100.144:8030/T-Sports11/index.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "COMMUNITY SHIELD - FINAL",
             "date": "July 30",
