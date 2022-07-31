@@ -22,83 +22,54 @@
             ]
 
          },
-{
-           "league": "Club Friendly",
-            "date": "August 1",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
-            "teams" : "Liverpool Vs Strasbourg",
-            "hteam" : "Liverpool",
-            "ateam" : "Strasbourg",
-            
- "link":[
-{
-                    "type": "360 SD",
-                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8"
-         
-                },
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-                {
-                    "type": "240 SD",
-                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_240p_chunks.m3u8"
-                },
-{
-                    "type": "ENGLISH FHD",
-                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY1Nw==/1080p.m3u8"
-         
-                },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62e6c38c919bc6001c1769b3/62e6c38c919bc6001c1769b3.m3u8"
-                },
-{
-                    "type": "1080 FHD",
-                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
-         
-                }
-] 
-},
 
 {
-           "league": "Super Cup Final",
-            "date": "August 1",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "teams" : "UPDATE တင်မှ ကြည့်ရပါတော့မယ်",
-            "hteam" : "PSG",
-            "ateam" : "Nantes",
-            
- "link":[
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(1:00) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+            "teams" : "Frankfurt Vs Bayern",
+            "hteam" : "Frankfurt",
+            "ateam" : "Bayern",
+            "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                    "type": "720 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "BT Sport 1 FHD",
-                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY1Ng==/1080p.m3u8"
+                    "type": "480HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "Vietnam FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62e6b7ae631d9c001dd9e655/62e6b7ae631d9c001dd9e655.m3u8"
-                },
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
 {
-                    "type": "360 SD",
-                "livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/CpIFb_Nef96xTLA_767LH7KtHL8LxUis37TXsItVnxy6JkwLJI3DO7RxQMEGyonwPXGlRCF3nIWZXDoIIEGGpBje6E9AueSYR_TydQW8aiN7AmQjpVyNE_RZ9LCNRjfGIYALJp4MzrThKRqRbE_3xVabaRmowKezQyuH7AScJzg9bMLrmiVR1v_U6ed7R9BcXtu4sJ6xE7W-QQ7sy9u3RH3KUnE3ciBToew7vgcKeKo_LSi-imFKvfZPXR8MNPIU9CGSnltcybU4I0ONnYgs6-WDvm8i8QFfhiod8tpf8GsBVdfb6GRZzh3-6FWsPzePPh1mQNLnqvy7L5v9O6JAk9qKh5evAuGti6Mmu_ZsTQb_xI5t_FLf_PTz6vxsz1ru5w2QAe2TSlkSvkf7u3GHjDSDtMEJeEIfwpWaqWyRBTVsRHWJs5V2oOd71-ZZvVNtcQM2K8qIlFkBxZK6EqvH1MCTYj54biXVSnvEiJAs8lmPfgBNTlPO82BGDU5u2T-2T55hn0HXwVngFEoAjOG22zlCh1kGU6sDPFDfgKIN6dWLjhGRj2toweYIv1BsIlkA5TXzCMAp5Rcf5wTiIZJ9dxisRt5JuGao53ffQ9vjgyaCNWx-1ksqrdZ2wemx8AkBlTtYTJb91TUZFjoGraxyT-YkH395Zl9iJLbtQyqrEPwCtndZF-WX65tHh2uqKDM8VAOlLrTEMzkYZkZfsQNZUc_rq0iePMwMCjq5vDdimJuqSREGa42ZkcbcHqyy5jilKzy1scnIY0XNXAnsGbHcPCfgGH8NE262sBrYbcrQQ_gJSogu5807I9edTVirweFmiMRxIwKdl2cV8wXjUkwXL8H-wAlN0F1oc02SK7n8_i7upk5UtBoMpzVQ1Fx1HZogqkt_IAEqCWV1LXdlc3QtMjCpBA.m3u8"
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "Crystal Palace Vs Arsenal",
+            "hteam" : "Crystal Palace",
+            "ateam" : "Arsenal",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "BT Sport 480SD",
-                "livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/CpIF_SfVs2UpDxU1dI__uL1-WYtt1KrAqnMCcwZ7Op_Aq9aVN_bxDNEJQ533gULJNOhnsY9UXphH7NcbGpiS-75sNmEn6ABSoAYl9bATxqcn3EfPVEm87N3-7bZMfBpKss8673gmdoxYgQDwYO6xP8U3m-epRTOAaWF8C911yqSDnDvo94oRGBeFBfF7Dsug27WkbEL05Lix4-V9pRv9i2DPW_5ZpB4yt3YSugc5rgjwUxmmkf16vLy_f8OueJHe8oLAoz3FMba1ZjycOMXFse3a3uCa88NC6UHEMMDU5CW7yu19czhmhCJ22SULlAWsa5EonjjS9gw8Zv_JUOb5CttHgVEo-O5iQKly_jbAcyopv5YxZTIxuWtfWDprCbEiB2cXhFyN92LxhCNE1no2M7y6kM3Kih4w1-fro_hItE5e3PlTkc9N-MkH_kg3WqfJZjdlO2lekW-__1_2K0TCNYLrKzEy3tkR-tTP0Gq9VnWb3k64zTCv5o5lmtXMzlmJJHqIDl7WGLR2AoA5fNrkVmw6CjdETq2DMBxjb46Nwspmz5RgizTXD7QvwoTtNmBSqOVSkWiv6Y9l07xraUh3s_ziyymqeoyOy9qB7xUECTxsKaTEly9iNmpcIThPIudG5OZjmI7Flu8jcRkEGv_PyX-jONEgSjvjOtYin9AcU0pr0jtQcVEOeTzF3nQkr_Kizd3xEzQi_qZXMLEWQn0u4EvfxVx1VGDCu36N5ilcDr1xD4GYSWOoqtGXcmFun5mQ46zZW40elSjp7Zf7WD_Pj65-Li6V3pTWW2xcIUPakUc49t-IC3VdVLgiZqli0VZjlD8vYMXhyNwzs_F-vpKKyQH1biR2AjcqiZZmGk7R_PGUDa16yRoM_TbPggSnNlHwHszwIAEqCWV1LXdlc3QtMjCpBA.m3u8"
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
                 }
             ]
          }
-
-
-   
-
-
 ]
