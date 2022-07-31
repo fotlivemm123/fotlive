@@ -18,30 +18,7 @@
             ]
          },
 
-{
-           "league": "Club Friendly",
-            "date": "July 31",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "Real Madrid Vs Juventus",
-            "hteam" : "Real Madrid",
-            "ateam" : "Juventus",
-             "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62e5d5f7721559001c744d7b/62e5d5f7721559001c744d7b.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "Club Friendly",
             "date": "July 31",
