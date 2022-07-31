@@ -23,6 +23,47 @@
 
          },
 {
+           "league": "Club Friendly",
+            "date": "August 1",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "teams" : "Liverpool Vs Strasbourg",
+            "hteam" : "Liverpool",
+            "ateam" : "Strasbourg",
+            
+ "link":[
+{
+                    "type": "360 SD",
+                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8"
+         
+                },
+                {
+                    "type": "480 SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
+                },
+                {
+                    "type": "240 SD",
+                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_240p_chunks.m3u8"
+                },
+{
+                    "type": "ENGLISH FHD",
+                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY1Nw==/1080p.m3u8"
+         
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62e6c38c919bc6001c1769b3/62e6c38c919bc6001c1769b3.m3u8"
+                },
+{
+                    "type": "1080 FHD",
+                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
+         
+                }
+] 
+},
+
+{
            "league": "Super Cup Final",
             "date": "August 1",
             "time": "live",
