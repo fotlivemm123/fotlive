@@ -66,17 +66,20 @@
             "ateam" : "Bayern",
             "link":[
                 {
+                    "type": "VIETNAM SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ed555634bc0a001c1c32a8/62ed555634bc0a001c1c32a8.m3u8"
+                },
+                {
                     "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CpIEoq0llzt9zaOVS1ysZnlIyr-UJyZFQ81_I8iJia6a4A6fMNNOereXHM7irwvM5Mq468Cc2NlHSL5wQL5O9HbpU8M3lvXTtQhbFSx2S7ROYPmevazkjj5ZQ3Mv-8vcf1-N-5RYBFYZxrE8n4zIavnOCYiOgUf4lg3wNy0UD5hyXv8KKsFoOeOWiXrQbKxA0xbZVWBEVtE-E0ZlV04zF1v9l-o_G-KpKsmZ9mt80y_DAsOyZF4xoRuaiUuIwRHhZ3bU_eJqi_dea6NzYuFvJqTCbQKH9oWyAwOwGxkjzbT_HBpW92DTaqPg81BW7SECHHAEo9FOVNoWvEKh3tP1DV-VjrlFW2n5EHbODXy0jQs7cy0YK2SvOcuNIuwhQyx-IuQZMoKfOJbmuoH2vwAU0RZot5u-RkX5tAttQMG2_szp__OpNMf6cB6MErxgQDXivojSVfD4339oW7PqjY_0Gk7chZGZx_1LzsQdwoXypjFfYqoUjc62NPzL_sq6X7gcid3ycc5CJI29n4870xG7qz8Ho0-TuUlxgcKXXvjXtgEQYLgFc5VD28IW5hGuhakcf80rxBRq66mCng1ygmfYNlCafn2PH9REz0oQZda8l8OOU3_a3bO13RnK-FzalZDKePDkODvMeqpOfMeFxzd06dhrYtTg8eYMiKRkxxljPyyvzUFk6MPxEjdI6CvFRa80-ihGJoQaDNTIjVPC2DcajcyYzCABKglldS13ZXN0LTIwrgQ.m3u8"
                 }
+                
+            
+         
             ]
          },
 
