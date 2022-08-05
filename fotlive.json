@@ -58,7 +58,7 @@
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(1:00) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "teams" : "Frankfurt Vs Bayern",
@@ -86,7 +86,7 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
             "teams" : "Crystal Palace Vs Arsenal",
@@ -94,16 +94,16 @@
             "ateam" : "Arsenal",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "480 HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62ed5a8c919bc6001c176b4b/62ed5a8c919bc6001c176b4b.m3u8"
                 },
                 {
-                    "type": "320SD",
-                "livelink":"0"
+                    "type": "English FHD",
+                "livelink":"http://d1zjrdezzwoal0.cloudfront.net/stream/NDY2MA==/1080p.m3u8"
                 }
             ]
          },
