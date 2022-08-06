@@ -59,7 +59,7 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "(6:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "teams" : "Fulham Vs Liverpool",
@@ -68,15 +68,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659805580-0-0-3a0055b957039a90e8745dba101c339c"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659805580-0-0-3a0055b957039a90e8745dba101c339c"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659805580-0-0-3a0055b957039a90e8745dba101c339c"
                 }
             ]
          },
