@@ -22,6 +22,110 @@
             ]
 
          },
+fotlivemm123
+/
+fotliveplus
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+fotliveplus/fotliveplus.json
+@fotlivemm123
+fotlivemm123 Update fotliveplus.json
+ 1 contributor
+207 lines (189 sloc)  7.38 KB
+[
+
+{
+           "league": "MAN U",
+            "date": "TV Channel",
+            "time": "live",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
+            ]
+},
+
+{
+           "league": "Premier League",
+            "date": "August 7",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "teams" : "Man U Vs Brighton",
+            "hteam" : "Man U",
+            "ateam" : "Brighton",
+             
+"link":[
+{
+                    "type": "SD",
+                "livelink":"https://cdn1-sports.gxpeihuchuang.com/live/omcWBhDG01.flv"
+         
+                },
+                {
+                    "type": "VIETNAM SD",
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1659899733~acl=/may1SD*~hmac=52f3190546205552015b43f1ae3d56d059f4d9c4e6021320f90670795f738bd2"
+                },
+                {
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62efa9936f8725001cdadbf3/62efa9936f8725001cdadbf3.m3u8"
+                },
+           
+   
+{
+                    "type": "FHD",
+                "livelink":"https://qtv.vncdn.vn/qtvlive/tv3live.m3u8"
+         
+                },
+{
+                    "type": "Astro Sport FHD",
+                "livelink":"http://sxdwsds.azureedge.net/hls/astro/chunks.m3u8"
+         
+                },
+                {
+                    "type": "English FHD",
+                "livelink":"http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/chunklist_w911274896.m3u8"
+                },
+   
+{
+                    "type": "1080 FHD",
+                "livelink":"http://networkcd.azureedge.net/stream/NDY3OA==/1080p.m3u8"
+         
+                }
+            ]
+         },
 {
            "league": "MAN U",
             "date": "TV Channel",
