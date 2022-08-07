@@ -1,83 +1,4 @@
-
 [
-{
-           "league": "Play Storeမှာ",
-            "date": "update တင်ပေးပါ",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7om3mnUxLZ0SwYPD_e7Fb3cfqGR_XsWNmIA&usqp=CAU",
-            "teams" : "update တင်ပါ",
-            "hteam" : "နောက်ပွဲများကို",
-            "ateam" : "updateတင်ပါ",
-            "link":[
-                {
-                    "type": "play store မှ update တင်ပြီးကြည့်ပါ",
-                "livelink":"https://cdn-cf-east.streamable.com/video/mp4/7h5vc1.mp4?Expires=1658930100&Signature=HVBBySxBKUkfvYErL39rM5U3RmYyMWd9R97PPaYac0CkDcbGfZXHoSkJNCD6~3oKkhFCi5HUhOQEFhlnndxJL3Q~UwW5mxi4nSsXyRPOYjG-58vzvMWZqdCaYj98ATVWa8vtJLJ-WlJXGmw~1y7HVIAWd1OidkGhw23VU7uWCtBgRloSkIf8nwb3Htw0ZHgmjpDG~AobIqWPkiX9VOvblWhU6XOC-wgoy6YJSJMzo-MUbUuOHFfa~OxQvGRzZRPDl9r5-0Vmz5VLrcAgCpQZ96SnCY-SZWPP1AJd~~~cO02V-HGd0-s54Nzr1K5IhTh4f5oOlTdQs3aSmytj~bovvQ__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ"
-                }
-                
-           
-         
-
-    
-            ]
-
-         },
-fotlivemm123
-/
-fotliveplus
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-fotliveplus/fotliveplus.json
-@fotlivemm123
-fotlivemm123 Update fotliveplus.json
- 1 contributor
-207 lines (189 sloc)  7.38 KB
-[
-
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-
 {
            "league": "Premier League",
             "date": "August 7",
@@ -87,77 +8,26 @@ fotlivemm123 Update fotliveplus.json
             "teams" : "Man U Vs Brighton",
             "hteam" : "Man U",
             "ateam" : "Brighton",
-             
+             "hotmat":"yes",
 "link":[
-{
-                    "type": "SD",
-                "livelink":"https://cdn1-sports.gxpeihuchuang.com/live/omcWBhDG01.flv"
-         
-                },
+
                 {
                     "type": "VIETNAM SD",
                 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1659899733~acl=/may1SD*~hmac=52f3190546205552015b43f1ae3d56d059f4d9c4e6021320f90670795f738bd2"
                 },
+{
+                    "type": "Auto",
+                "livelink":"https://f2034e1ad80b.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.837822390188.channel.5A8IbPampKMY.m3u8"
+         
+                }
                 {
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62efa9936f8725001cdadbf3/62efa9936f8725001cdadbf3.m3u8"
                 },
-           
-   
-{
-                    "type": "FHD",
-                "livelink":"https://qtv.vncdn.vn/qtvlive/tv3live.m3u8"
-         
-                },
-{
-                    "type": "Astro Sport FHD",
-                "livelink":"http://sxdwsds.azureedge.net/hls/astro/chunks.m3u8"
-         
-                },
-                {
-                    "type": "English FHD",
-                "livelink":"http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/chunklist_w911274896.m3u8"
-                },
-   
-{
-                    "type": "1080 FHD",
-                "livelink":"http://networkcd.azureedge.net/stream/NDY3OA==/1080p.m3u8"
+           {
+                    "type": "720 HD",
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd4052.m3u8"
          
                 }
-            ]
-         },
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-             "link":[
-                {
-                    "type": "တခြားပွဲတွေကြည့်ဖို့",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                },
-{
-                    "type": "play storeမှာ",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "FoT live app",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "update တင်ပေးပါ",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                }
-                
-            ]
-}
 ]
-
+   
